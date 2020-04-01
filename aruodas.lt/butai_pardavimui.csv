@@ -1,0 +1,3039 @@
+,Rajonas,Gatve,Kaina,Kvadrato kaina,Kambariai,Plotas,Aukstas,Is viso aukstu
+0,Pašilaičiai,Budiniškių g.,74200,1599,2,46.41,1,5
+1,Bajorai,Bajorų kel.,126700,1630,4,77.73,8,9
+2,Viršuliškės,Viršuliškių g.,83900,1916,2,43.8,4,11
+3,Bajorai,Bajorų kel.,48500,1911,1,25.38,1,6
+4,Šnipiškės,Giedraičių g.,88000,1984,2,44.36,2,9
+5,Šnipiškės,Giedraičių g.,67000,1936,1,34.61,7,10
+6,Senamiestis,Didžioji g.,207000,2550,3,81.18,4,4
+7,Šnipiškės,A. Juozapavičiaus g.,149000,2980,2,50,5,9
+8,Pilaitė,Tolminkiemio g.,48000,1524,1,31.5,1,4
+9,Pilaitė,Simono Grunau g.,115000,1223,4,94,2,2
+10,Šnipiškės,Giedraičių g.,95000,1772,2,53.61,8,10
+11,Šnipiškės,Giedraičių g.,61000,2286,1,26.69,3,9
+12,Senamiestis,Rūdninkų g.,299000,3211,3,93.11,2,4
+13,Naujamiestis,Savanorių pr.,165000,2463,3,67,2,9
+14,Šiaurės miestelis,S. Žukausko g.,112000,1991,2,56.26,4,7
+15,Antakalnis,Antakalnio g.,123000,2102,3,58.52,4,5
+16,Antakalnis,Antakalnio g.,92500,2201,2,42.03,4,5
+17,Antakalnis,Antakalnio g.,85200,2301,2,37.02,5,5
+18,Justiniškės,Taikos g.,76400,1722,2,44.36,2,4
+19,Pašilaičiai,Budiniškių g.,94400,2543,1,37.12,6,7
+20,Justiniškės,Taikos g.,49990,1680,1,29.76,1,4
+21,Naujoji Vilnia,Gerovės g.,46000,1361,1,33.79,5,5
+22,Pilaitė,Tolminkiemio g.,127000,1887,3,67.3,4,4
+23,Pilaitė,Tolminkiemio g.,109500,1825,3,60,4,4
+24,Žirmūnai,Trinapolio g.,125000,2119,3,59,9,10
+25,Naujamiestis,T. Ševčenkos g.,179000,2081,2,86,4,6
+26,Lazdynėliai,Lazdynėlių g.,92500,2151,2,43,3,4
+27,Naujamiestis,Pakalnės g.,199500,2267,4,88,3,3
+28,Žirmūnai,Šeimyniškių g.,190000,1567,4,121.28,2,7
+29,Antakalnis,Pylimėlių g.,119845,1890,3,63.42,1,3
+30,Lazdynėliai,Lazdynėlių g.,59500,1919,1,31,3,4
+31,Lazdynėliai,Lazdynėlių g.,75000,1786,2,42,4,4
+32,Karoliniškės,Sausio 13-osios g.,121000,2077,3,58.26,5,7
+33,Karoliniškės,Sausio 13-osios g.,99999,1943,2,51.47,2,7
+34,Lazdynai,Miškinių g.,195000,1500,4,130,1,2
+35,Karoliniškės,Miškinių g.,195000,1500,4,130,1,2
+36,Senamiestis,Pakalnės g.,199500,2217,3,90,2,2
+37,Pašilaičiai,Perkūnkiemio g.,97000,1405,2,69.06,1,9
+38,Žirmūnai,Žirmūnų g.,77900,1759,2,44.28,3,5
+39,Pašilaičiai,Budiniškių g.,114100,1549,4,73.65,1,5
+40,Bajorai,Bajorų kel.,70200,1799,2,39.03,1,9
+41,Lazdynėliai,Lazdynėlių g.,52000,1660,1,31.32,4,4
+42,Žirmūnai,Piromonto g.,103900,2225,2,46.69,1,6
+43,Žirmūnai,M. Katkaus g.,71665,2348,1,30.52,7,7
+44,Pilaitė,Karaliaučiaus g.,85500,1450,3,58.97,2,6
+45,Pašilaičiai,Perkūnkiemio g.,104900,1748,3,60,8,9
+46,Justiniškės,Taikos g.,113500,1729,4,65.64,3,4
+47,Justiniškės,Taikos g.,98600,1580,3,62.42,1,4
+48,Šiaurės miestelis,Ulonų g.,165999,1874,3,88.56,3,6
+49,Justiniškės,Laisvės pr.,65000,1403,2,46.34,2,5
+50,Žvėrynas,Liepyno g.,289000,3568,3,81,6,9
+51,Žirmūnai,Verkių g.,57000,1629,2,35,4,5
+52,Pilaitė,Tvankstos g.,90000,2045,2,44,2,5
+53,Naujininkai,Šumsko g.,118000,1073,4,110,2,2
+54,Senamiestis,A. Strazdelio g.,350000,2646,5,132.29,4,4
+55,Užupis,Polocko g.,144000,3556,2,40.5,3,4
+56,Užupis,Polocko g.,226000,3378,3,66.91,2,4
+57,Naujininkai,Dariaus ir Girėno g.,49000,1815,1,27,4,9
+58,Karoliniškės,Dariaus Gerbutavičiaus g.,65000,833,4,78,1,5
+59,Antakalnis,Žolyno g.,28000,1568,1,17.86,1,5
+60,Žirmūnai,Trinapolio g.,98000,1750,2,56,6,9
+61,Žvėrynas,Blindžių g.,61500,1809,2,34,1,2
+62,Naujamiestis,Konstitucijos pr.,208657,2350,4,88.79,7,29
+63,Pilaitė,Bitėnų g.,50000,1389,2,36,4,4
+64,Pilaitė,Juodkrantės g.,65000,1759,1,36.95,5,7
+65,Visoriai,Skersinės Sodų 3-ioji g.,100000,1220,4,82,1,1
+66,Antakalnis,Nemenčinės pl.,300000,2262,4,132.61,2,3
+67,Valakampiai,Nemenčinės pl.,300000,2262,4,132.61,2,3
+68,Pilaitė,Dituvos g.,95800,988,4,97,1,2
+69,Pašilaičiai,Leičių g.,71000,1082,3,65.6,7,9
+70,Pavilnys,Džiaugsmo g.,80000,1143,3,70,1,2
+71,Šnipiškės,Kintų g.,57000,2348,1,24.28,1,4
+72,Šnipiškės,Kintų g.,68000,2009,2,33.84,1,4
+73,Naujamiestis,Gedimino pr.,93000,2906,1,32,3,5
+74,Kalnėnai,Valonų g.,84000,1050,4,80,2,3
+75,Užupis,Aukštaičių g.,152597,2390,3,63.85,3,5
+76,Užupis,Aukštaičių g.,166824,2950,2,56.56,2,4
+77,Senamiestis,Aukštaičių g.,214970,2671,3,80.48,1,4
+78,Užupis,Aukštaičių g.,165019,2902,2,56.87,3,5
+79,Senamiestis,Aukštaičių g.,232740,2949,3,78.91,3,5
+80,Senamiestis,Aukštaičių g.,181377,3728,2,48.65,2,5
+81,Senamiestis,Aukštaičių g.,200038,2763,3,72.4,3,4
+82,Senamiestis,Aukštaičių g.,169348,2999,2,56.47,3,4
+83,Pilaitė,Šarkuvos g.,87000,921,3,94.5,3,3
+84,Senamiestis,Gaono g.,990000,4950,4,200,3,4
+85,Senamiestis,J. Basanavičiaus g.,600000,5357,4,112,4,4
+86,Antakalnis,Pylimėlių g.,68783,1860,2,36.98,3,3
+87,Pašilaičiai,Budiniškių g.,76600,1688,2,45.37,1,5
+88,Bajorai,Bajorų kel.,108800,1565,4,69.51,2,6
+89,Viršuliškės,Viršuliškių g.,127800,1712,4,74.63,2,11
+90,Viršuliškės,Viršuliškių g.,99800,1738,3,57.43,1,11
+91,Kalnėnai,Kroatų g.,92000,1146,4,80.26,1,2
+92,Šnipiškės,Konstitucijos pr.,241230,2650,3,91.03,14,29
+93,Lazdynėliai,Jonažolių g.,117000,1773,2,66,1,9
+94,Pavilnys,Džiaugsmo g.,85000,1063,4,80,2,2
+95,Senamiestis,Konstitucijos pr.,299460,2300,4,130.2,7,29
+96,Senamiestis,Konstitucijos pr.,162965,2750,2,59.26,11,29
+97,Žirmūnai,M. Katkaus g.,71034,2680,1,26.51,7,7
+98,Pilaitė,Tvankstos g.,98580,1870,2,52.72,2,6
+99,Pilaitė,Tvankstos g.,59000,1532,1,38.52,6,6
+100,Antakalnis,Smėlio g.,128000,2384,2,53.7,4,5
+101,Antakalnis,Smėlio g.,91000,2453,2,37.1,2,7
+102,Naujamiestis,Kauno g.,92000,3067,1,30,2,6
+103,Justiniškės,Taikos g.,79137,1720,2,46.01,2,4
+104,Antakalnis,Pylimėlių g.,121100,1910,3,63.41,2,3
+105,Saulėtekis,Pylimėlių g.,89300,1825,3,48.94,2,3
+106,Naujamiestis,Smolensko g.,127000,2228,3,57,2,7
+107,Žvėrynas,Sėlių g.,95000,1869,2,50.82,4,5
+108,Šnipiškės,Konstitucijos pr.,358092,4200,3,85.26,18,29
+109,Naujamiestis,Kapsų g.,182500,2199,4,83.01,7,7
+110,Senamiestis,A. Stulginskio g.,255000,3226,3,79.04,1,5
+111,Naujamiestis,Vilkpėdės g.,147000,1959,3,75.04,4,7
+112,Senamiestis,Totorių g.,172556,3977,2,43.39,2,2
+113,Naujoji Vilnia,Gerovės g.,59900,1291,2,46.41,4,5
+114,Pašilaičiai,Ukmergės g.,98000,1241,3,79,1,5
+115,Antakalnis,Nemenčinės pl.,230000,3109,3,73.97,2,3
+116,Senamiestis,Gedimino pr.,380000,4659,3,81.56,3,5
+117,Pašilaičiai,Pavilnionių g.,89500,1450,3,61.72,6,12
+118,Užupis,Manufaktūrų g.,131767,2119,3,62.19,4,6
+119,Užupis,Manufaktūrų g.,105387,1941,2,54.29,2,6
+120,Lazdynėliai,Lazdynėlių g.,107500,1991,3,54,2,4
+121,Šnipiškės,Konstitucijos pr.,153998,2569,2,59.95,9,29
+122,Bajorai,Šventeliškių g.,122500,1944,3,63,2,2
+123,Šnipiškės,Linkmenų g.,119000,2890,2,41.17,4,5
+124,Užupis,Olandų g.,65000,2031,2,32,1,5
+125,Šnipiškės,Kalvarijų g.,175000,2293,3,76.31,6,7
+126,Turniškės,Turniškių g.,76000,1970,2,38.58,3,3
+127,Justiniškės,Budiniškių g.,63000,2423,1,26,5,5
+128,Šnipiškės,Giedraičių g.,79000,1909,2,41.39,2,4
+129,Pilaitė,Trakėnų g.,105000,1944,2,54,1,2
+130,Senamiestis,V. Šopeno g.,90000,3000,1,30,2,4
+131,Naujamiestis,Gerosios Vilties g.,117000,1887,3,62,3,6
+132,Naujamiestis,Gerosios Vilties g.,83700,1929,2,43.4,5,6
+133,Naujamiestis,Gerosios Vilties g.,88700,1941,2,45.69,2,6
+134,Pilaitė,Karaliaučiaus g.,91000,2011,2,45.24,7,9
+135,Pilaitė,Karaliaučiaus g.,98000,1965,2,49.87,7,9
+136,Bajorai,Salaspilio g.,86000,2091,2,41.12,2,4
+137,Užupis,Polocko g.,77000,3883,1,19.83,3,4
+138,Visoriai,Onos Miciūtės g.,129000,2048,3,63,2,2
+139,Lazdynai,Erfurto g.,57000,1180,2,48.3,8,12
+140,Viršuliškės,Viršuliškių g.,58000,1234,2,47,5,5
+141,Fabijoniškės,Salomėjos Nėries g.,72000,1075,3,66.96,2,5
+142,Pilaitė,Bitėnų g.,77990,1733,2,45,2,4
+143,Pašilaičiai,Medeinos g.,49900,1368,1,36.48,6,9
+144,Senamiestis,Subačiaus g.,199900,2815,3,71,2,3
+145,Kalnėnai,Valonų g.,84000,1050,3,80,1,3
+146,Karoliniškės,Igno Šimulionio g.,69000,1094,3,63.08,6,9
+147,Pilaitė,I. Simonaitytės g.,129500,1933,3,67,6,6
+148,Žirmūnai,Žirmūnų g.,88000,1135,4,77.53,5,5
+149,Baltupiai,Didlaukio g.,94500,1477,3,64,6,9
+150,Karoliniškės,Vido Maciulevičiaus g.,56800,1721,2,33,8,9
+151,Jeruzalė,Kalvarijų Sodų 5-oji g.,179000,1712,3,104.56,1,2
+152,Fabijoniškės,S. Stanevičiaus g.,89900,1342,3,67,5,5
+153,Naujamiestis,Naugarduko g.,140000,1838,3,76.18,2,3
+154,Pilaitė,Trakėnų g.,120000,1224,4,98,1,3
+155,Pilaitė,M. Mažvydo g.,145000,1648,4,88,6,6
+156,Naujamiestis,Kedrų g.,50000,2778,1,18,2,5
+157,Naujamiestis,Kedrų g.,42000,3231,1,13,3,5
+158,Naujamiestis,Savanorių pr.,38000,2375,1,16,1,5
+159,Pašilaičiai,Leičių g.,84900,1572,2,54,3,9
+160,Antakalnis,Šilo g.,140500,1325,5,106,1,5
+161,Senamiestis,Vokiečių g.,190000,2794,3,68,2,4
+162,Naujamiestis,Vytenio g.,169000,1482,2,114,4,4
+163,Pašilaičiai,Leičių g.,109000,1612,3,67.62,8,9
+164,Senamiestis,Vokiečių g.,190000,2794,2,68,2,4
+165,Antakalnis,Vaidilutės g.,165000,2025,3,81.47,1,2
+166,Antakalnis,Vaidilutės g.,188000,2308,3,81.47,1,2
+167,Senamiestis,Markučių g.,295000,2149,5,137.27,2,3
+168,Užupis,Markučių g.,295000,2149,5,137.27,2,3
+169,Pilaitė,Pilkalnio g.,86568,1061,3,81.61,1,3
+170,Pilaitė,Pilkalnio g.,89000,1068,4,83.3,1,3
+171,Užupis,Manufaktūrų g.,98960,1600,3,61.85,2,6
+172,Užupis,Manufaktūrų g.,101448,2020,2,50.22,2,6
+173,Šiaurės miestelis,Tuskulėnų g.,139000,1853,4,75,4,5
+174,Žvėrynas,Lapių g.,253140,3000,4,84.38,2,4
+175,Žvėrynas,Lapių g.,117390,3000,2,39.13,2,4
+176,Antakalnis,Antakalnio g.,78750,2290,2,34.39,3,3
+177,Verkiai,Pušyno kel.,235000,1981,4,118.62,3,3
+178,Antakalnis,Vytauto Žalakevičiaus g.,149900,3259,2,46,1,5
+179,Naujamiestis,Vytenio g.,78900,1929,2,40.91,6,8
+180,Šeškinė,Gelvonų g.,71500,1402,2,51,4,9
+181,Pilaitė,M. Mažvydo g.,74800,2267,1,33,3,9
+182,Naujamiestis,Birželio 23-iosios g.,49000,1559,1,31.44,1,5
+183,Pašilaičiai,Eitminų g.,99900,1341,3,74.49,6,9
+184,Naujamiestis,Savanorių pr.,80000,1409,3,56.76,3,5
+185,Fabijoniškės,L. Giros g.,90000,1347,3,66.82,9,10
+186,Šnipiškės,Linkmenų g.,143000,2496,3,57.3,2,7
+187,Žirmūnai,Raitininkų g.,181100,2667,3,67.9,7,7
+188,Žirmūnai,Raitininkų g.,121800,2379,2,51.2,5,7
+189,Antakalnis,Antakalnio g.,99000,1378,3,71.86,5,5
+190,Naujoji Vilnia,Kučkuriškių g.,49000,891,2,55,1,2
+191,Grigiškės,Vilniaus g.,63000,1353,3,46.55,1,2
+192,Justiniškės,Taikos g.,65000,1300,2,50,2,9
+193,Fabijoniškės,S. Stanevičiaus g.,73500,1470,2,50,3,5
+194,Fabijoniškės,Fabijoniškių g.,84500,1457,2,58,5,5
+195,Žirmūnai,Raitininkų g.,153500,2656,3,57.8,2,7
+196,Burbiškės,Burbiškių g.,118000,2185,3,54,2,3
+197,Senamiestis,Žydų g.,129500,3159,1,41,2,3
+198,Lazdynėliai,Jonažolių g.,90000,2195,2,41,5,9
+199,Naujininkai,Dariaus ir Girėno g.,36300,1226,1,29.6,4,4
+200,Naujoji Vilnia,Parko g.,54000,1075,2,50.25,4,5
+201,Antakalnis,P. Vileišio g.,140000,2863,2,48.9,5,6
+202,Naujamiestis,S. Konarskio g.,97000,1822,2,53.25,5,5
+203,Naujoji Vilnia,Pramonės g.,27499,1375,1,20,4,4
+204,Žvėrynas,Latvių g.,111000,2250,2,49.34,1,9
+205,Baltupiai,Jurgio Lebedžio g.,58950,2563,1,23,1,5
+206,Bajorai,Bajorų kel.,98000,1873,2,52.33,3,4
+207,Šnipiškės,Giedraičių g.,67000,1683,2,39.8,3,9
+208,Šeškinė,Siesikų g.,88000,2096,2,41.98,2,8
+209,Naujininkai,Brolių g.,66300,1052,2,63,1,5
+210,Šnipiškės,Linkmenų g.,98000,2310,2,42.43,1,5
+211,Fabijoniškės,S. Stanevičiaus g.,49000,1380,2,35.51,5,5
+212,Užupis,Kaukysos g.,114700,1972,2,58.16,6,6
+213,Lazdynėliai,Jonažolių g.,108000,2160,2,50,8,9
+214,Lazdynai,M. Mironaitės g.,95000,2065,2,46,4,6
+215,Bajorai,Bajorų kel.,120000,1922,3,62.44,5,6
+216,Šeškinė,Gelvonų g.,57500,1631,1,35.25,3,5
+217,Pilaitė,M. Mažvydo g.,167000,2783,2,60,1,6
+218,Lazdynai,Architektų g.,99500,1401,4,71,4,9
+219,Naujamiestis,Birželio 23-iosios g.,88000,1830,2,48.1,1,5
+220,Karoliniškės,Dariaus Gerbutavičiaus g.,86700,1421,3,61,3,5
+221,Senamiestis,Pylimo g.,157000,2879,2,54.53,4,4
+222,Antakalnis,Žolyno g.,57000,1326,2,43,1,5
+223,Naujininkai,Eišiškių pl.,80000,2000,2,40,4,5
+224,Naujamiestis,Gerosios Vilties g.,36000,1500,1,24,2,5
+225,Senamiestis,Literatų g.,130000,2291,3,56.75,1,2
+226,Viršuliškės,Viršuliškių g.,56500,1712,1,33,4,9
+227,Fabijoniškės,Fabijoniškių g.,69900,1589,2,44,3,9
+228,Pašilaičiai,Medeinos g.,85000,1074,4,79.12,5,7
+229,Lazdynai,Architektų g.,78500,1602,2,49,1,5
+230,Baltupiai,Ateities g.,28500,1681,1,16.95,2,5
+231,Viršuliškės,Viršuliškių g.,61000,958,3,63.67,6,9
+232,Senamiestis,Odminių g.,299000,4983,2,60,2,3
+233,Karoliniškės,Vido Maciulevičiaus g.,69000,1085,3,63.6,1,9
+234,Žvėrynas,Pieninės g.,114001,3257,2,35,2,6
+235,Fabijoniškės,Liudviko Zamenhofo g.,144000,1569,3,91.75,4,6
+236,Žirmūnai,Verkių g.,51650,1913,1,27,3,9
+237,Bajorai,Fizikų g.,95900,1731,2,55.4,3,7
+238,Fabijoniškės,L. Giros g.,68900,1406,2,49,5,5
+239,Pilaitė,Tvankstos g.,95900,2217,2,43.25,4,4
+240,Pilaitė,I. Simonaitytės g.,145000,1654,3,87.68,2,4
+241,Pilaitė,Įsruties g.,65000,1638,1,39.69,1,5
+242,Karoliniškės,Vytauto Vaitkaus g.,70000,1449,2,48.3,4,12
+243,Pilaitė,Tolminkiemio g.,89900,1998,2,45,3,4
+244,Naujamiestis,Naugarduko g.,73000,1532,2,47.66,4,5
+245,Justiniškės,Laisvės pr.,52300,1276,1,41,5,5
+246,Santariškės,J. Franko g.,120000,1842,2,65.13,3,3
+247,Naujoji Vilnia,Genių g.,57000,1262,2,45.15,2,5
+248,Karoliniškės,Apolinaro Juozo Povilaičio g.,99500,1382,3,72,5,9
+249,Pašilaičiai,Gabijos g.,132000,1784,4,74,5,6
+250,Naujamiestis,Raseinių g.,119000,2938,2,40.5,2,2
+251,Justiniškės,Justiniškių g.,58000,1450,1,40,3,5
+252,Naujoji Vilnia,Stepono Batoro g.,55000,971,3,56.65,1,1
+253,Lazdynai,Architektų g.,85700,1198,3,71.56,3,16
+254,Žirmūnai,Žirmūnų g.,195000,1423,4,137,4,4
+255,Naujamiestis,A. Vivulskio g.,138000,2760,2,50,2,4
+256,Naujamiestis,A. Vivulskio g.,99500,3685,1,27,9,12
+257,Šnipiškės,Raitininkų g.,68000,2743,1,24.79,1,8
+258,Senamiestis,A. Rotundo g.,599900,3674,5,163.3,5,6
+259,Fabijoniškės,S. Stanevičiaus g.,85500,1276,3,67.02,9,10
+260,Naujamiestis,Jonažolių g.,75000,2023,2,37.07,1,7
+261,Žirmūnai,Trinapolio g.,147000,2625,2,56,4,9
+262,Šnipiškės,Lvovo g.,135450,2100,3,64.5,5,5
+263,Senamiestis,Tilto g.,76600,2451,1,31.25,1,3
+264,Naujamiestis,Panerių g.,44000,2095,1,21,8,8
+265,Naujininkai,Dariaus ir Girėno g.,20500,1151,1,17.81,2,5
+266,Viršuliškės,Viršilų g.,128500,1590,3,80.82,3,23
+267,Jeruzalė,Visorių g.,99500,2369,2,42,5,5
+268,Senamiestis,A. Vienuolio g.,195000,1625,6,120,4,7
+269,Justiniškės,Mozūriškių g.,125000,1649,3,75.81,4,4
+270,Viršuliškės,Viršilų g.,125000,2123,2,58.87,5,23
+271,Užupis,Polocko g.,38500,2567,1,15,2,3
+272,Lazdynai,Architektų g.,89470,1150,4,77.8,5,5
+273,Valakampiai,Rukeliškių g.,80000,1784,1,44.84,2,2
+274,Naujoji Vilnia,Stepono Batoro g.,29500,894,2,33,1,2
+275,Dvarčionys,Keramikų g.,68000,1360,2,50,2,4
+276,Šiaurės miestelis,Kazimiero Ladygos g.,128000,2065,2,62,5,8
+277,Žemieji Paneriai,Vaduvos g.,48500,1213,2,40,8,9
+278,Pašilaičiai,Grigalaukio g.,98000,2279,2,43,4,4
+279,Naujamiestis,Gerosios Vilties g.,20000,1362,1,14.68,2,5
+280,Grigiškės,Kunigiškių g.,116000,1760,3,65.9,4,4
+281,Užupis,Aukštaičių g.,99000,3061,2,32.34,2,3
+282,Karoliniškės,Algimanto Petro Kavoliuko g.,59500,1803,1,33,8,9
+283,Naujamiestis,Gerosios Vilties g.,96000,1784,2,53.81,5,5
+284,Žirmūnai,Sporto g.,210000,1858,5,113,5,6
+285,Lazdynai,Architektų g.,71000,1420,2,50,6,9
+286,Pašilaičiai,Gabijos g.,72700,1425,2,51,2,5
+287,Karoliniškės,Virginijaus Druskio g.,83000,1317,3,63,2,12
+288,Pašilaičiai,Pavilnionių g.,85700,1405,2,61,3,14
+289,Senamiestis,Ceikinių g.,149900,3059,2,49,2,7
+290,Karoliniškės,Dariaus Gerbutavičiaus g.,55000,1667,1,33,6,9
+291,Šeškinė,Šeškinės g.,75000,1488,2,50.42,6,9
+292,Šeškinė,Musninkų g.,92000,1358,3,67.74,2,5
+293,Šiaurės miestelis,S. Žukausko g.,84900,2201,1,38.58,9,9
+294,Senamiestis,Šv. Stepono g.,67000,2983,1,22.46,1,2
+295,Užupis,Paupio g.,259000,3648,3,71,2,2
+296,Šnipiškės,Kalvarijų g.,54000,1636,1,33,4,5
+297,Žirmūnai,Tuskulėnų g.,139000,1853,4,75,4,5
+298,Karoliniškės,Algimanto Petro Kavoliuko g.,42500,1296,1,32.8,2,5
+299,Žvėrynas,Sėlių g.,164000,3084,2,53.17,3,6
+300,Rasos,Liepkalnio g.,120000,1813,3,66.2,3,5
+301,Šeškinė,Ozo g.,93000,1515,3,61.37,4,9
+302,Lazdynai,Architektų g.,99500,1404,3,70.88,4,9
+303,Pilaitė,Vydūno g.,99500,1819,2,54.71,9,9
+304,Pilaitė,M. Mažvydo g.,104000,1876,2,55.43,5,5
+305,Karoliniškės,Algimanto Petro Kavoliuko g.,72500,1543,2,47,1,5
+306,Baltupiai,Kalvarijų g.,47500,1289,1,36.86,4,12
+307,Fabijoniškės,Salomėjos Nėries g.,72000,1732,2,41.57,1,12
+308,Pilaitė,Pajautos g.,84000,1355,3,62,5,5
+309,Žvėrynas,Birutės g.,155500,2508,3,62,2,2
+310,Lazdynai,Architektų g.,81690,1050,4,77.8,4,5
+311,Šiaurės miestelis,S. Žukausko g.,175000,1990,4,87.94,6,9
+312,Lazdynėliai,Lazdynėlių g.,58700,2185,1,26.87,4,4
+313,Lazdynai,Architektų g.,49900,1512,1,33,2,12
+314,Pašilaičiai,Eitminų g.,75000,1786,2,42,7,9
+315,Naujamiestis,Mindaugo g.,136000,2267,2,60,3,6
+316,Pašilaičiai,Budiniškių g.,70000,1648,1,42.48,2,5
+317,Naujamiestis,Vinco Kudirkos g.,525888,3320,4,158.38,3,3
+318,Žirmūnai,Sporto g.,132800,2388,2,55.6,1,4
+319,Žirmūnai,Sporto g.,193500,2282,4,84.8,2,6
+320,Žirmūnai,Sporto g.,150800,2257,2,66.8,1,6
+321,Žirmūnai,Kalvarijų g.,115000,2724,2,42.22,1,1
+322,Senamiestis,Aguonų g.,275000,2696,4,102,4,6
+323,Naujamiestis,Gedimino pr.,386000,3784,3,102,3,6
+324,Pilaitė,Įsruties g.,75000,1364,2,55,2,9
+325,Valakampiai,Svajonių g.,258000,2745,3,94,2,4
+326,Žirmūnai,Žirmūnų g.,65000,2167,1,30,3,9
+327,Naujoji Vilnia,Pramonės g.,28900,1014,1,28.5,4,4
+328,Antakalnis,Žolyno g.,129500,2205,2,58.74,4,4
+329,Karoliniškės,Sausio 13-osios g.,66000,1375,2,48,4,5
+330,Naujininkai,Šaltkalvių g.,60000,1205,2,49.8,1,5
+331,Pilaitė,I. Kanto al.,85900,1227,3,70,4,9
+332,Justiniškės,Taikos g.,73900,1442,2,51.25,3,9
+333,Žirmūnai,M. Katkaus g.,144500,2779,2,52,6,7
+334,Didieji Gulbinai,Skalvos g.,92000,1122,4,82,2,2
+335,Naujoji Vilnia,Pramonės g.,17770,613,1,29,2,4
+336,Naujamiestis,Aludarių g.,132100,2916,2,45.3,2,6
+337,Pilaitė,Vydūno g.,99800,2020,2,49.4,4,9
+338,Antakalnis,Duburio g.,91700,1910,2,48,3,4
+339,Senamiestis,A. Goštauto g.,156000,2889,2,54,4,5
+340,Rasos,Liepkalnio g.,19950,570,1,35,1,1
+341,Šnipiškės,Kalvarijų g.,49999,1149,2,43.52,1,1
+342,Baltupiai,Kalvarijų g.,85000,2361,1,36,1,4
+343,Lazdynėliai,Lazdynėlių g.,79000,2194,1,36,2,4
+344,Pašilaičiai,Žemynos g.,89000,2342,2,38,1,5
+345,Žirmūnai,Trinapolio g.,125000,2345,3,53.3,8,9
+346,Žvėrynas,Liepyno g.,111000,2220,2,50,2,5
+347,Žirmūnai,Tuskulėnų g.,65000,1970,1,33,2,5
+348,Antakalnis,Švyturio g.,87200,1889,2,46.17,5,5
+349,Šeškinė,Paberžės g.,68900,1566,2,44,1,9
+350,Šiaurės miestelis,Ulonų g.,125000,2273,2,55,8,9
+351,Antakalnis,Žirgo g.,93000,1348,3,69,2,2
+352,Šeškinė,Ukmergės g.,64000,1227,2,52.14,2,16
+353,Naujamiestis,Geležinio Vilko g.,67000,1867,2,35.89,5,14
+354,Fabijoniškės,Fabijoniškių g.,88000,1073,4,82,4,16
+355,Žirmūnai,Žirmūnų g.,98500,1539,3,64,10,10
+356,Pašilaičiai,Grigalaukio g.,55800,2174,1,25.67,1,8
+357,Antakalnis,P. Vileišio g.,119000,2644,2,45,5,5
+358,Avižieniai,Sudervės kel.,83000,1133,4,73.26,2,3
+359,Karoliniškės,Sausio 13-osios g.,115000,1386,2,83,2,7
+360,Lazdynai,Architektų g.,75000,902,4,83.12,5,5
+361,Naujamiestis,Savanorių pr.,73000,1659,2,44,3,5
+362,Žvėrynas,Paribio g.,122000,2392,2,51,2,5
+363,Naujoji Vilnia,Pramonės g.,22999,821,2,28,2,4
+364,Pašilaičiai,Laisvės pr.,78000,1539,2,50.69,8,9
+365,Lazdynai,Lazdynėlių g.,69000,1725,2,40,4,4
+366,Žirmūnai,Raitininkų g.,131900,2273,2,58.03,2,7
+367,Žirmūnai,Raitininkų g.,170100,2679,3,63.5,7,7
+368,Naujininkai,Dzūkų g.,62000,1439,2,43.1,5,5
+369,Lazdynėliai,Jonažolių g.,169000,2113,3,80,1,6
+370,Bajorai,Fizikų g.,119500,2475,2,48.29,4,5
+371,Naujininkai,Šaltkalvių g.,62900,1176,2,53.5,1,5
+372,Valakampiai,Svajonių g.,115000,2556,2,45,1,4
+373,Karoliniškės,Algimanto Petro Kavoliuko g.,71000,1507,2,47.1,4,5
+374,Naujamiestis,J. Basanavičiaus g.,140000,2009,3,69.68,2,2
+375,Antakalnis,Nemenčinės pl.,189000,2992,3,63.16,2,7
+376,Žirmūnai,Žirmūnų g.,79999,1711,2,46.75,2,5
+377,Pašilaičiai,Perkūnkiemio g.,70000,2121,1,33,10,12
+378,Senamiestis,Šv. Stepono g.,79000,3084,1,25.62,2,2
+379,Žirmūnai,Žirmūnų g.,105000,1591,3,66,2,5
+380,Šeškinė,Musninkų g.,84500,1246,3,67.8,5,5
+381,Naujininkai,A. Jaroševičiaus g.,34900,1586,1,22,1,2
+382,Užupis,Kreivasis skg.,135000,2491,2,54.19,1,3
+383,Visoriai,Visorių g.,72600,2420,1,30,1,5
+384,Fabijoniškės,Salomėjos Nėries g.,68000,1587,2,42.84,12,12
+385,Vilkpėdė,Vilkpėdės g.,145000,2302,2,63,4,6
+386,Karoliniškės,Algimanto Petro Kavoliuko g.,64000,1000,3,64,7,12
+387,Senamiestis,Šv. Ignoto g.,255000,3261,3,78.2,1,3
+388,Žemieji Paneriai,Vaduvos g.,39500,1068,2,37,4,6
+389,Lazdynai,Architektų g.,68000,1118,3,60.8,1,5
+390,Senamiestis,Pylimo g.,72000,828,2,87,3,3
+391,Pilaitė,Elbingo g.,114990,1855,3,62,2,4
+392,Naujamiestis,Žemaitės g.,46000,1533,1,30,1,5
+393,Naujamiestis,Geležinio Vilko g.,60000,1333,2,45,1,5
+394,Žvėrynas,Sakalų g.,232400,2311,3,100.56,1,5
+395,Bukčiai,Bukčių g.,70000,1710,2,40.93,2,2
+396,Lazdynai,Architektų g.,70000,1522,2,46,10,12
+397,Žirmūnai,Rinktinės g.,85000,1197,3,71,8,9
+398,Antakalnis,Antakalnio g.,70000,1400,2,50,3,5
+399,Bajorai,Jono Kairiūkščio g.,93900,1764,2,53.22,8,9
+400,Pašilaičiai,Perkūnkiemio g.,94000,1484,2,63.33,9,9
+401,Antakalnis,Žolyno g.,20000,1111,1,18,3,5
+402,Šeškinė,Šeškinės g.,118000,1735,3,68,6,6
+403,Jeruzalė,Rugių g.,75000,1961,1,38.24,5,5
+404,Lazdynai,Architektų g.,27000,1588,1,17,1,1
+405,Pilaitė,I. Kanto al.,99999,1423,3,70.25,5,5
+406,Salininkai,Salininkų g.,49000,1062,2,46.14,3,3
+407,Pašilaičiai,Perkūnkiemio g.,95000,1589,2,59.8,8,12
+408,Naujoji Vilnia,Karklėnų g.,97000,1466,3,66.15,2,5
+409,Antakalnis,Šilo g.,229900,2471,4,93.05,2,3
+410,Šiaurės miestelis,Žygio g.,118888,1949,3,61,5,8
+411,Užupis,Kreivasis skg.,138000,3196,2,43.18,3,3
+412,Žirmūnai,Žirmūnų g.,149000,2129,3,70,5,12
+413,Senamiestis,Kaštonų g.,146000,2433,3,60,2,4
+414,Justiniškės,Taikos g.,57790,1133,2,51,1,9
+415,Naujamiestis,Švitrigailos g.,49000,2450,1,20,4,5
+416,Senamiestis,Vokiečių g.,219000,3068,3,71.38,4,5
+417,Naujininkai,Šaltkalvių g.,28700,1148,1,25,5,5
+418,Fabijoniškės,L. Giros g.,79500,1191,3,66.73,4,10
+419,Šeškinė,Paberžės g.,61000,1743,1,35,2,5
+420,Baltupiai,Ateities g.,34000,1545,1,22,5,5
+421,Naujoji Vilnia,Gerovės g.,47900,1359,2,35.24,3,5
+422,Naujoji Vilnia,Parko g.,33000,647,2,51,0,12
+423,Karoliniškės,Loretos Asanavičiūtės g.,41000,1258,1,32.6,8,9
+424,Užupis,Krivių g.,249000,3507,3,71,2,4
+425,Pilaitė,Nidos g.,86700,1667,2,52,9,9
+426,Balsiai,Verkių Riešės g.,90000,1250,3,72,2,2
+427,Senamiestis,K. Vanagėlio g.,1275000,2125,8,600,1,1
+428,Grigiškės,Kovo 11-osios g.,79450,1135,4,70,3,5
+429,Antakalnis,Antakalnio g.,67500,1646,2,41,5,5
+430,Antakalnis,Ajerų g.,105000,1010,4,104,1,2
+431,Fabijoniškės,Gedvydžių g.,52000,1300,1,40,4,5
+432,Pašilaičiai,Dociškių g.,99900,1805,3,55.35,1,8
+433,Šiaurės miestelis,S. Žukausko g.,299999,2609,3,115,7,10
+434,Jeruzalė,Rugių g.,95000,1290,4,73.64,2,5
+435,Šnipiškės,Daugėliškio g.,124000,2441,2,50.8,3,11
+436,Senamiestis,Subačiaus g.,285000,2681,3,106.29,2,3
+437,Naujamiestis,A. Vivulskio g.,149900,1972,3,76,2,4
+438,Žirmūnai,M. Katkaus g.,142500,2740,2,52,3,7
+439,Naujamiestis,Savanorių pr.,158000,3233,2,48.87,4,9
+440,Naujoji Vilnia,Pramonės g.,34000,1133,2,30,1,1
+441,Jeruzalė,Rugių g.,103000,1693,2,60.84,2,5
+442,Senamiestis,Lapų g.,259000,2943,3,88,4,4
+443,Senamiestis,Odminių g.,359000,3653,3,98.27,1,3
+444,Šnipiškės,Daugėliškio g.,108000,2209,2,48.9,3,11
+445,Grigiškės,Šviesos g.,41000,1229,1,33.35,1,5
+446,Užupis,Kreivasis skg.,135000,2652,2,50.91,1,3
+447,Karoliniškės,Igno Šimulionio g.,160000,2000,3,80,1,3
+448,Karoliniškės,Algimanto Petro Kavoliuko g.,110000,1984,2,55.44,2,9
+449,Naujamiestis,Muitinės g.,122200,1971,3,62,3,5
+450,Šeškinė,Siesikų g.,66000,2201,1,29.99,6,8
+451,Fabijoniškės,Fabijoniškių g.,86000,1284,3,67,9,9
+452,Fabijoniškės,P. Žadeikos g.,89000,1155,4,77.07,1,12
+453,Bajorai,Bajorų Sodų 2-oji g.,135000,2077,3,65,1,2
+454,Šeškinė,Buivydiškių g.,56900,1585,1,35.91,1,12
+455,Naujoji Vilnia,Linksmoji g.,78000,975,3,80,1,5
+456,Žirmūnai,Minties g.,68600,2117,1,32.41,3,9
+457,Žirmūnai,Žirmūnų g.,82000,2370,2,34.6,4,6
+458,Justiniškės,Taikos g.,62999,1235,2,51,1,9
+459,Pilaitė,Tolminkiemio g.,92000,2044,2,45,2,4
+460,Pilaitė,Vydūno g.,90000,1529,2,58.88,4,9
+461,Pašilaičiai,Gabijos g.,102000,1645,3,62,4,7
+462,Šnipiškės,Konstitucijos pr.,163000,2739,2,59.5,12,29
+463,Pašilaičiai,Leičių g.,74000,1111,3,66.62,2,9
+464,Fabijoniškės,Fabijoniškių g.,82000,1323,3,62,1,9
+465,Žirmūnai,Apkasų g.,49900,1921,1,25.97,4,5
+466,Burbiškės,Burbiškių g.,70000,2188,1,32,2,3
+467,Justiniškės,Laisvės pr.,79500,2065,2,38.5,1,5
+468,Naujamiestis,Vytenio g.,140000,2979,3,47,3,7
+469,Naujamiestis,S. Konarskio g.,120000,1790,3,67.03,3,9
+470,Naujamiestis,Panerių g.,119000,2479,2,48,2,3
+471,Fabijoniškės,Fabijoniškių g.,117956,2106,2,56,1,9
+472,Žvėrynas,Elnių g.,179000,3226,2,55.48,2,4
+473,Žvėrynas,Liubarto g.,399999,2468,5,162.09,5,5
+474,Santariškės,Santariškių g.,127500,2602,2,49,1,3
+475,Pašilaičiai,Laisvės pr.,82000,1547,2,53,2,6
+476,Jeruzalė,Mokyklos g.,139000,2837,2,49,2,3
+477,Verkiai,Trinapolio g.,121000,2086,2,58,3,9
+478,Fabijoniškės,Salomėjos Nėries g.,77500,1474,2,52.58,7,9
+479,Pašilaičiai,Č. Sugiharos g.,140000,2857,2,49,3,6
+480,Saulėtekis,Plytinės g.,149800,1805,3,83,4,5
+481,Žvėrynas,Stumbrų g.,115000,3382,2,34,5,6
+482,Žirmūnai,Piromonto g.,125900,2358,2,53.4,1,7
+483,Naujamiestis,Savanorių pr.,169000,3514,2,48.1,6,9
+484,Naujamiestis,Aguonų g.,31000,1805,1,17.17,2,4
+485,Rasos,Stadiono g.,151000,1841,3,82,3,5
+486,Šeškinė,Šeškinės g.,73500,1495,2,49.15,1,5
+487,Pilaitė,Vydūno g.,66000,1269,2,52,5,9
+488,Šnipiškės,Konstitucijos pr.,135000,2356,2,57.29,5,8
+489,Užupis,Polocko g.,690000,3843,5,179.53,4,4
+490,Valakampiai,Svajonių g.,154956,2870,2,54,2,3
+491,Naujoji Vilnia,Linksmoji g.,110000,1437,3,76.54,1,5
+492,Pilaitė,M. Mažvydo g.,127000,1775,3,71.54,4,6
+493,Pilaitė,Padekaniškių g.,159000,1728,3,92,1,4
+494,Pašilaičiai,Eitminų g.,71000,1912,2,37.14,6,9
+495,Visoriai,Visorių g.,139000,2206,3,63,4,6
+496,Naujamiestis,J. Basanavičiaus g.,66900,3345,1,20,2,4
+497,Pilaitė,I. Kanto al.,91500,1302,3,70.25,6,9
+498,Naujamiestis,Savanorių pr.,64000,1362,2,47,4,9
+499,Pašilaičiai,Perkūnkiemio g.,87000,1673,2,52,2,8
+500,Pašilaičiai,Laisvės pr.,66500,1889,2,35.2,1,9
+501,Senamiestis,Trakų g.,182000,2000,2,91,4,4
+502,Vilkpėdė,Vilkpėdės g.,75000,2027,1,37,1,9
+503,Pilaitė,I. Kanto al.,87800,1254,3,70,8,9
+504,Justiniškės,Taikos g.,89000,1072,4,83,5,9
+505,Užupis,Polocko g.,275000,3769,3,72.96,2,3
+506,Žvėrynas,Vilkų g.,224000,2800,3,80,3,4
+507,Baltupiai,Jurgio Lebedžio g.,76500,2459,1,31.11,3,5
+508,Pašilaičiai,Girulių g.,72500,1718,2,42.21,4,9
+509,Naujamiestis,Gerosios Vilties g.,19999,792,1,25.26,5,5
+510,Naujoji Vilnia,Dūmų g.,38500,1283,2,30,2,2
+511,Pašilaičiai,Perkūnkiemio g.,84500,1681,2,50.27,12,12
+512,Karoliniškės,Apolinaro Juozo Povilaičio g.,64000,1280,2,50,4,9
+513,Žirmūnai,Trinapolio g.,118000,1921,2,61.44,2,11
+514,Antakalnis,Švyturio g.,156000,1770,3,88.16,5,5
+515,Senamiestis,S. Skapo g.,160000,5333,2,30,1,3
+516,Antakalnis,Filaretų g.,220000,2481,3,88.68,4,7
+517,Šnipiškės,Juozo Balčikonio g.,160000,2349,3,68.11,8,9
+518,Lazdynai,Jonažolių g.,118000,1947,2,60.6,6,6
+519,Naujamiestis,Iešmininkų g.,23000,561,1,41,1,1
+520,Pašilaičiai,Č. Sugiharos g.,149000,2582,2,57.7,5,9
+521,Šnipiškės,Tuskulėnų g.,59500,1812,1,32.84,5,5
+522,Antakalnis,P. Vileišio g.,98000,2085,2,47,3,4
+523,Senamiestis,Trakų g.,180000,3090,2,58.26,3,3
+524,Naujamiestis,Smolensko g.,134999,2447,3,55.18,3,8
+525,Naujininkai,Kaminkelio g.,122200,1455,3,84,5,6
+526,Šiaurės miestelis,S. Žukausko g.,169000,1837,3,92,6,9
+527,Žirmūnai,Raitininkų g.,125000,2441,2,51.2,6,7
+528,Baltupiai,Kazio Ulvydo g.,119000,2683,2,44.35,2,5
+529,Fabijoniškės,Salomėjos Nėries g.,83000,1239,2,67,7,12
+530,Užupis,Kreivasis skg.,280000,3502,4,79.95,3,3
+531,Naujamiestis,Mindaugo g.,180850,3848,2,47,6,7
+532,Šeškinė,Čiobiškio g.,54000,1543,1,35,2,5
+533,Naujamiestis,Aludarių g.,128400,2816,2,45.6,2,5
+534,Naujamiestis,Aludarių g.,137800,2707,2,50.91,2,5
+535,Antakalnis,Saulės g.,157000,2181,3,72,1,3
+536,Šnipiškės,Linkmenų g.,140800,2436,3,57.8,2,6
+537,Šnipiškės,Linkmenų g.,108800,2597,2,41.9,2,6
+538,Šnipiškės,Linkmenų g.,207300,2710,4,76.5,6,6
+539,Šnipiškės,Linkmenų g.,261700,2604,4,100.5,5,6
+540,Šnipiškės,Linkmenų g.,108800,2350,2,46.3,2,6
+541,Šnipiškės,Linkmenų g.,81700,2610,1,31.3,1,6
+542,Šnipiškės,Linkmenų g.,134900,2346,3,57.5,2,6
+543,Šiaurės miestelis,Žygio g.,154500,2060,3,75,6,9
+544,Žvėrynas,Kęstučio g.,185000,2891,2,64,2,3
+545,Žirmūnai,Piromonto g.,125000,2451,2,51,6,9
+546,Viršuliškės,Viršuliškių g.,48000,1455,1,33,4,9
+547,Naujininkai,Dzūkų g.,85000,1328,3,64,1,5
+548,Naujininkai,Dzūkų g.,61500,1344,2,45.76,5,5
+549,Pilaitė,Įsruties g.,92000,1260,3,73,1,9
+550,Šiaurės miestelis,Žygio g.,82000,1864,3,44,2,5
+551,Fabijoniškės,Salomėjos Nėries g.,79900,1469,2,54.4,11,12
+552,Pilaitė,Elbingo g.,119900,1998,3,60,2,4
+553,Jeruzalė,Rugių g.,189900,1482,5,128.18,4,5
+554,Šeškinė,Ukmergės g.,68800,1937,2,35.52,1,5
+555,Pašilaičiai,Leičių g.,59500,1309,2,45.45,4,9
+556,Naujininkai,Eišiškių pl.,105999,2120,2,50,3,5
+557,Naujamiestis,Kauno g.,72750,2527,2,28.79,4,4
+558,Bajorai,Bajorų kel.,125000,1786,3,69.98,6,7
+559,Šiaurės miestelis,Kazimiero Ladygos g.,99500,1819,2,54.69,4,8
+560,Fabijoniškės,Salomėjos Nėries g.,71500,1663,2,43,4,12
+561,Bajorai,Jono Kairiūkščio g.,95000,1785,2,53.22,8,9
+562,Lazdynėliai,Jonažolių g.,135500,1872,3,72.37,2,6
+563,Naujamiestis,Mindaugo g.,123000,2278,2,54,2,5
+564,Naujamiestis,K. Donelaičio g.,475888,3173,4,150,8,9
+565,Žvėrynas,Blindžių g.,119000,3606,1,33,3,5
+566,Naujamiestis,Aludarių g.,110900,2504,1,44.29,2,5
+567,Santariškės,Santariškių g.,110000,2750,2,40,1,3
+568,Naujamiestis,Šaltinių g.,95765,3757,1,25.49,5,5
+569,Pilaitė,Karaliaučiaus g.,79500,1988,2,40,3,9
+570,Karoliniškės,Virginijaus Druskio g.,57000,1215,2,46.9,3,5
+571,Senamiestis,Gedimino pr.,529000,3527,5,150,2,3
+572,Senamiestis,Liejyklos g.,205000,3666,3,55.92,1,1
+573,Naujininkai,Panevėžio g.,52000,1405,2,37,5,5
+574,Antakalnis,Antakalnio g.,78000,1857,2,42,3,5
+575,Lazdynai,Architektų g.,47500,1444,1,32.89,3,5
+576,Bukčiai,Bukčių g.,25000,625,2,40,3,3
+577,Naujamiestis,Panerių g.,180000,1875,3,96,1,1
+578,Fabijoniškės,S. Stanevičiaus g.,99000,1222,4,81,2,5
+579,Senamiestis,Gynėjų g.,187000,2786,2,67.11,6,9
+580,Pašilaičiai,Leičių g.,50999,1121,2,45.5,8,9
+581,Šnipiškės,Tuskulėnų g.,83000,1298,3,63.94,2,9
+582,Šnipiškės,Rinktinės g.,105000,1886,2,55.66,3,4
+583,Senamiestis,Vasario 16-osios g.,178000,2738,3,65,1,3
+584,Naujamiestis,Vasario 16-osios g.,178000,2738,3,65,1,3
+585,Lazdynai,M. Mironaitės g.,115000,1961,2,58.65,6,6
+586,Naujininkai,Darbininkų g.,48000,1104,2,43.49,2,5
+587,Naujoji Vilnia,Parko g.,75000,1056,4,71,4,5
+588,Pašilaičiai,Leičių g.,65999,1000,3,66,3,9
+589,Pilaitė,Gilužio g.,64000,1753,1,36.5,1,4
+590,Žirmūnai,Kareivių g.,35200,1956,1,18,5,5
+591,Antakalnis,Antakalnio g.,109000,1580,4,69,2,5
+592,Pilaitė,Tolminkiemio g.,72222,2063,1,35,1,7
+593,Žvėrynas,Saltoniškių g.,190000,2568,2,74,2,10
+594,Fabijoniškės,L. Giros g.,22000,733,1,30,7,9
+595,Žvėrynas,Latvių g.,205000,3839,2,53.4,3,5
+596,Grigiškės,Vilniaus g.,37000,1276,1,29,1,2
+597,Pilaitė,Įsruties g.,84000,1217,3,69,5,9
+598,Lazdynai,Architektų g.,47500,1484,1,32,1,5
+599,Salininkai,Prūdiškių g.,61500,1025,3,60,1,2
+600,Pašilaičiai,Justiniškių g.,107000,1646,3,65,3,9
+601,Naujininkai,Šaltkalvių g.,32000,1185,1,27,2,9
+602,Užupis,Olandų g.,63000,1881,2,33.5,5,5
+603,Jeruzalė,Baltupio g.,139000,1759,2,79,2,3
+604,Šnipiškės,Žalgirio g.,230000,2110,5,109,5,5
+605,Senamiestis,Vilniaus g.,149000,3229,2,46.14,3,6
+606,Senamiestis,A. Jakšto g.,145000,2685,2,54,5,5
+607,Lazdynai,Erfurto g.,69900,1147,3,60.95,3,5
+608,Pilaitė,M. Mažvydo g.,70900,2148,1,33,6,9
+609,Naujamiestis,Birželio 23-iosios g.,50000,1684,1,29.7,1,5
+610,Naujamiestis,M. K. Čiurlionio g.,250000,4545,2,55,1,5
+611,Užupis,Subačiaus g.,22000,1294,1,17,1,5
+612,Antakalnis,Antakalnio g.,60000,2000,1,30,4,5
+613,Žirmūnai,Žirmūnų g.,63500,1322,2,48.02,2,5
+614,Senamiestis,Gedimino pr.,135000,914,1,147.7,6,6
+615,Naujamiestis,M. K. Čiurlionio g.,280000,2667,4,105,2,4
+616,Žirmūnai,Žirmūnų g.,106500,2556,2,41.67,2,4
+617,Antakalnis,Vytauto Žalakevičiaus g.,173000,3083,2,56.12,1,7
+618,Šnipiškės,Giedraičių g.,81000,2282,1,35.5,2,9
+619,Justiniškės,Mozūriškių g.,114000,2197,2,51.88,3,4
+620,Naujamiestis,Tauro g.,36000,2250,1,16,3,4
+621,Viršuliškės,Viršuliškių g.,59500,1283,2,46.36,12,12
+622,Žirmūnai,Sporto g.,172000,2240,2,76.8,5,6
+623,Šnipiškės,Durpių g.,285000,1420,6,200.73,3,3
+624,Žemieji Paneriai,Vaduvos g.,59400,1200,2,49.5,3,10
+625,Verkiai,Trinapolio g.,109000,1879,2,58,7,11
+626,Užupis,Paupio g.,160000,4146,2,38.59,1,2
+627,Antakalnis,M. K. Paco g.,97000,1568,2,61.88,1,2
+628,Šeškinė,Gelvonų g.,85000,1269,3,67,4,5
+629,Žirmūnai,Tuskulėnų g.,67000,2030,1,33,3,5
+630,Žirmūnai,Apkasų g.,32000,2286,1,14,4,5
+631,Senamiestis,Literatų g.,145000,2544,3,57,1,3
+632,Naujamiestis,Smolensko g.,200000,2935,2,68.15,4,11
+633,Karoliniškės,Sausio 13-osios g.,55000,1667,1,33,2,12
+634,Grigiškės,Jaunimo skg.,28600,1589,1,18,3,5
+635,Senamiestis,Mindaugo g.,296000,3654,3,81,2,5
+636,Pilaitė,Tolminkiemio g.,94000,2000,2,47,4,5
+637,Naujininkai,Šaltkalvių g.,34000,1567,1,21.7,8,9
+638,Bajorai,Bajorų kel.,94500,2198,1,43,1,9
+639,Justiniškės,Justiniškių g.,73000,1090,3,67,5,5
+640,Senamiestis,T. Vrublevskio g.,258000,2903,3,88.88,3,3
+641,Justiniškės,Justiniškių g.,133900,1326,3,101,4,6
+642,Naujamiestis,T. Ševčenkos g.,79980,2666,2,30,4,5
+643,Bajorai,Bajorų kel.,139000,2417,3,57.51,3,6
+644,Pilaitė,Papilėnų g.,74700,1067,3,70.01,4,5
+645,Senamiestis,Odminių g.,475000,3150,4,150.8,3,4
+646,Pašilaičiai,Laisvės pr.,61800,2131,1,29,4,5
+647,Užupis,Polocko g.,229000,3200,3,71.57,3,3
+648,Naujoji Vilnia,Linksmoji g.,75000,1364,2,54.99,1,5
+649,Karoliniškės,Algimanto Petro Kavoliuko g.,58000,1234,2,47,5,5
+650,Antakalnis,Svajonių g.,115000,2556,2,45,1,4
+651,Karoliniškės,Rolando Jankausko g.,90000,1385,3,65,5,9
+652,Žirmūnai,Žirmūnų g.,125000,2083,3,60,3,11
+653,Lazdynai,Jonažolių g.,122000,1785,3,68.34,2,9
+654,Senamiestis,Gedimino pr.,235000,2022,4,116.25,3,4
+655,Šnipiškės,Kalvarijų g.,250000,3040,4,82.25,2,4
+656,Fabijoniškės,Fabijoniškių g.,90000,1111,4,81,3,9
+657,Senamiestis,Aguonų g.,198000,2712,2,73,4,6
+658,Naujamiestis,Statybininkų g.,259000,2977,4,87,9,9
+659,Salininkai,Pupinės g.,67300,1082,3,62.22,4,5
+660,Pašilaičiai,Žemynos g.,114000,1281,4,89,2,2
+661,Naujamiestis,Gerosios Vilties g.,26500,1559,1,17,4,5
+662,Šnipiškės,Linkmenų g.,114000,2850,2,40,4,5
+663,Naujoji Vilnia,Dūmų g.,22750,1264,1,18,1,1
+664,Naujoji Vilnia,Dūmų g.,31500,1167,2,27,2,2
+665,Žirmūnai,Minties g.,76000,1602,2,47.45,4,5
+666,Naujamiestis,A. Vivulskio g.,110000,2895,2,38,6,12
+667,Antakalnis,Petro Rimšos g.,181000,1778,3,101.78,2,3
+668,Grigiškės,Šviesos g.,45000,1366,1,32.94,2,5
+669,Senamiestis,Šiaulių g.,159000,3533,2,45,2,4
+670,Šeškinė,Ukmergės g.,55000,1551,1,35.45,4,5
+671,Šnipiškės,Giedraičių g.,70000,856,4,81.82,1,1
+672,Antakalnis,Rudens g.,169000,2021,3,83.63,3,4
+673,Santariškės,Santariškių g.,94000,2320,2,40.52,1,3
+674,Naujamiestis,A. Jakšto g.,165000,3030,3,54.45,2,5
+675,Žirmūnai,Minties g.,62000,2067,1,30,5,5
+676,Justiniškės,Taikos g.,77000,1375,2,56,1,9
+677,Senamiestis,Mėsinių g.,635000,4432,4,143.29,2,3
+678,Pašilaičiai,Medeinos g.,62000,1227,2,50.52,8,9
+679,Žirmūnai,Tuskulėnų g.,60000,1818,1,33,4,5
+680,Naujininkai,Eišiškių pl.,75000,2401,1,31.24,2,3
+681,Antakalnis,Lentupio g.,160000,1604,4,99.74,2,6
+682,Naujamiestis,Gedimino pr.,152000,3494,2,43.5,3,6
+683,Žvėrynas,Elnių g.,127000,2268,2,56,6,7
+684,Senamiestis,Pylimo g.,195000,2897,3,67.32,1,3
+685,Šnipiškės,A. Juozapavičiaus g.,215000,3308,2,65,6,7
+686,Karoliniškės,Loretos Asanavičiūtės g.,49999,1515,1,33,2,5
+687,Pašilaičiai,Leičių g.,90000,1261,3,71.37,3,9
+688,Pilaitė,I. Kanto al.,81000,1157,3,70,9,9
+689,Pilaitė,Nidos g.,135000,1800,3,75,4,9
+690,Pilaitė,Gilužio g.,110000,1363,3,80.7,2,5
+691,Senamiestis,Šv. Stepono g.,79500,2650,2,30,3,3
+692,Senamiestis,Žemaitijos g.,117000,2666,1,43.89,2,3
+693,Šnipiškės,Kalvarijų g.,89000,1742,2,51.1,5,5
+694,Fabijoniškės,S. Stanevičiaus g.,81000,1191,3,68,4,5
+695,Šnipiškės,Daugėliškio g.,210000,4038,2,52,5,11
+696,Justiniškės,Sūduvių g.,147900,1789,3,82.67,1,2
+697,Jeruzalė,Bitininkų g.,65000,1625,1,40,4,5
+698,Žvėrynas,Miglos g.,67600,1056,3,64,1,5
+699,Šiaurės miestelis,S. Žukausko g.,125000,2315,2,54,5,8
+700,Bajorai,Bajorų kel.,94999,2262,2,42,4,4
+701,Visoriai,Mykolo Sleževičiaus g.,67500,2184,1,30.9,3,6
+702,Pilaitė,Karaliaučiaus g.,86000,925,4,93,2,3
+703,Užupis,Polocko g.,144000,2400,2,60,1,4
+704,Žirmūnai,Trinapolio g.,99980,1950,2,51.27,6,11
+705,Naujininkai,Šaltkalvių g.,35000,1667,1,21,7,9
+706,Pilaitė,I. Kanto al.,86000,1229,3,69.95,3,5
+707,Naujininkai,Baltosios Vokės g.,9800,594,1,16.49,2,3
+708,Naujoji Vilnia,Pramonės g.,17700,620,1,28.54,2,4
+709,Gineitiškės,Bijūnų g.,54000,750,3,72,2,3
+710,Žvėrynas,Malonioji g.,110000,1684,3,65.31,1,2
+711,Karoliniškės,Algimanto Petro Kavoliuko g.,64000,1000,3,64,1,9
+712,Jeruzalė,Rugių g.,168500,1398,4,120.5,4,5
+713,Žirmūnai,Piromonto g.,121800,2833,2,43,1,9
+714,Naujamiestis,K. Donelaičio g.,162800,2200,3,74,5,9
+715,Naujamiestis,Naugarduko g.,80000,2645,1,30.25,3,3
+716,Justiniškės,Taikos g.,72000,1145,3,62.9,5,9
+717,Lazdynėliai,Lazdynėlių g.,67000,2197,1,30.5,3,4
+718,Naujamiestis,K. Kalinausko g.,650000,6989,3,93,6,6
+719,Naujoji Vilnia,Genių g.,73000,1043,4,70,2,5
+720,Senamiestis,Aušros Vartų g.,980000,1441,20,680,1,2
+721,Fabijoniškės,Salomėjos Nėries g.,71000,1578,2,45,11,12
+722,Pašilaičiai,Pavilnionių g.,118000,1934,3,61,3,9
+723,Senamiestis,Gedimino pr.,675000,3479,4,194,4,8
+724,Fabijoniškės,S. Stanevičiaus g.,80000,1198,3,66.77,6,9
+725,Vilkpėdė,Vilkpėdės g.,65000,1551,1,41.9,1,6
+726,Naujoji Vilnia,Pramonės g.,16000,800,1,20,3,5
+727,Žvėrynas,Sėlių g.,129000,2115,2,61,3,4
+728,Senamiestis,A. Rotundo g.,340000,2972,4,114.4,4,4
+729,Šeškinė,Gelvonų g.,78000,1164,3,67,6,9
+730,Naujininkai,Dariaus ir Girėno g.,42999,1218,2,35.3,4,5
+731,Baltupiai,Mokyklos g.,48000,1600,1,30,1,5
+732,Baltupiai,Didlaukio g.,79000,1597,2,49.46,9,9
+733,Naujamiestis,Smolensko g.,112000,2545,2,44,1,8
+734,Valakampiai,Nugalėtojų g.,299500,2382,4,125.75,2,3
+735,Valakampiai,Nugalėtojų g.,299500,2382,4,125.75,1,3
+736,Žvėrynas,Sėlių g.,125000,2880,1,43.4,2,4
+737,Aukštieji Paneriai,Juodšilių g.,44500,1113,2,40,1,2
+738,Naujamiestis,Gedimino pr.,175000,3528,2,49.6,3,6
+739,Naujamiestis,Gedimino pr.,317000,3484,3,91,5,6
+740,Antakalnis,Nemenčinės pl.,80500,2300,2,35,3,4
+741,Antakalnis,Antakalnio g.,91000,2275,2,40,4,4
+742,Antakalnis,Žirgo g.,84000,2270,2,37,3,4
+743,Antakalnis,Svajonių g.,143900,2136,2,67.37,2,4
+744,Šnipiškės,Kintų g.,83000,1831,2,45.32,2,4
+745,Šnipiškės,Kintų g.,108000,1959,3,55.13,1,4
+746,Šnipiškės,Kintų g.,139000,1912,4,72.71,2,4
+747,Antakalnis,V. Grybo g.,29500,1639,1,18,4,5
+748,Senamiestis,Ankštoji g.,205000,3254,3,63,5,5
+749,Senamiestis,Pranciškonų g.,399000,3046,5,131,1,2
+750,Senamiestis,T. Kosciuškos g.,261000,3035,3,86,2,4
+751,Naujininkai,Rudaminos g.,68000,1360,2,50,2,5
+752,Pilaitė,Bitėnų g.,79900,1776,2,45,3,4
+753,Šnipiškės,Žalgirio g.,79100,3042,1,26,7,7
+754,Bajorai,Bajorų kel.,72300,1715,2,42.15,1,9
+755,Bajorai,Bajorų kel.,55400,1904,1,29.09,1,9
+756,Karoliniškės,Dariaus Gerbutavičiaus g.,102400,1264,4,81,2,5
+757,Kalnėnai,Kroatų g.,134000,1670,4,80.26,1,2
+758,Žirmūnai,Tuskulėnų g.,120000,1967,3,61,2,5
+759,Senamiestis,Paupio g.,79000,2104,2,37.55,2,4
+760,Antakalnis,Švyturio g.,182828,1775,4,103,5,5
+761,Naujoji Vilnia,Pramonės g.,25500,1294,1,19.7,3,4
+762,Užupis,Krivių g.,390000,4021,4,97,5,5
+763,Senamiestis,Subačiaus g.,130000,3939,2,33,2,4
+764,Žvėrynas,Miglos g.,115000,1519,4,75.71,2,5
+765,Pilaitė,Gilužio g.,77900,1770,2,44,2,4
+766,Pilaitė,I. Simonaitytės g.,105000,1687,2,62.24,4,4
+767,Pilaitė,I. Simonaitytės g.,109500,1749,2,62.59,2,4
+768,Antakalnis,Duburio g.,67500,1350,2,50,2,4
+769,Antakalnis,Smėlio g.,182000,2246,4,81.03,7,7
+770,Žvėrynas,Vytauto g.,387035,3395,3,114.01,3,3
+771,Kalnėnai,Lukšinės g.,81500,1283,3,63.5,2,2
+772,Naujamiestis,Žemaitės g.,78900,1753,2,45,4,5
+773,Šiaurės miestelis,Žygio g.,77920,1540,2,50.61,5,7
+774,Naujininkai,Šaltkalvių g.,57500,1130,2,50.9,4,5
+775,Justiniškės,Taikos g.,109600,1740,3,62.99,1,4
+776,Lazdynėliai,Jonažolių g.,112000,1741,2,64.32,6,6
+777,Antakalnis,Antakalnio g.,122900,2100,3,58.52,4,5
+778,Antakalnis,Antakalnio g.,79000,2098,2,37.65,4,5
+779,Antakalnis,Antakalnio g.,66800,2399,1,27.84,4,5
+780,Antakalnis,Pylimėlių g.,69700,1877,2,37.13,3,3
+781,Antakalnis,Vytauto Žalakevičiaus g.,230000,3151,3,73,1,5
+782,Baltupiai,Vito Gerulaičio g.,165000,2551,2,64.69,5,5
+783,Pilaitė,Karaliaučiaus g.,80000,1940,2,41.23,2,5
+784,Antakalnis,Šilo g.,125000,2178,2,57.39,5,5
+785,Pašilaičiai,Leičių g.,99000,1447,3,68.43,3,9
+786,Pašilaičiai,Leičių g.,86000,1257,3,68.43,5,9
+787,Naujamiestis,T. Ševčenkos g.,84900,2284,2,37.17,4,5
+788,Senamiestis,Žemaitijos g.,189317,3155,3,60,3,4
+789,Žirmūnai,Žirmūnų g.,124927,1913,2,65.29,4,4
+790,Fabijoniškės,Gedvydžių g.,83000,1249,3,66.43,4,10
+791,Senamiestis,A. Jakšto g.,468880,4000,5,117.22,3,6
+792,Naujamiestis,V. Pietario g.,69000,1553,2,44.43,4,5
+793,Fabijoniškės,Gedvydžių g.,64777,971,3,66.74,9,9
+794,Balsiai,Želmenų g.,99000,1053,4,94,1,1
+795,Fabijoniškės,S. Stanevičiaus g.,79777,1194,3,66.83,9,9
+796,Pilaitė,Pajautos g.,59000,1475,1,40,1,5
+797,Pašilaičiai,Perkūnkiemio g.,86777,1377,2,63,8,9
+798,Senamiestis,J. Savickio g.,96500,1589,2,60.72,0,3
+799,Antakalnis,Žirgo g.,285000,1900,4,150,17,20
+800,Žirmūnai,Žirmūnų g.,79900,1248,3,64,6,9
+801,Lazdynai,Jonažolių g.,72777,1702,2,42.77,5,5
+802,Justiniškės,Taikos g.,80000,1307,3,61.22,5,5
+803,Karoliniškės,Igno Šimulionio g.,159900,2016,3,79.3,1,2
+804,Justiniškės,Laisvės pr.,40000,1747,1,22.89,3,8
+805,Tarandė,Gailašių g.,150000,1049,4,143,1,2
+806,Pašilaičiai,Laisvės pr.,40000,1771,1,22.58,4,8
+807,Justiniškės,Laisvės pr.,36000,1932,1,18.63,4,5
+808,Pašilaičiai,Laisvės pr.,37000,2002,1,18.48,5,5
+809,Naujininkai,Šaltkalvių g.,19750,760,1,26,3,5
+810,Užupis,Manufaktūrų g.,58205,1750,1,33.26,1,6
+811,Naujamiestis,Gerosios Vilties g.,21500,2150,1,10,5,5
+812,Žirmūnai,Kareivių g.,76000,1974,2,38.5,2,4
+813,Šiaurės miestelis,Kareivių g.,76000,1974,2,38.5,2,4
+814,Senamiestis,K. Kalinausko g.,183500,3462,3,53,4,6
+815,Fabijoniškės,P. Žadeikos g.,79000,1897,1,41.65,3,8
+816,Senamiestis,Vasario 16-osios g.,178000,2738,3,65,1,3
+817,Šeškinė,Paberžės g.,45000,1500,1,30,1,9
+818,Naujininkai,Meistrų g.,29500,1054,2,28,5,5
+819,Senamiestis,M. Daukšos g.,57000,1719,2,33.16,1,1
+820,Naujininkai,Dzūkų g.,45000,1499,1,30.02,1,9
+821,Naujininkai,Panevėžio g.,40000,1600,1,25,2,9
+822,Santariškės,Žaliųjų Ežerų g.,53000,1514,1,35,1,8
+823,Antakalnis,Vytauto Žalakevičiaus g.,173900,3133,2,55.5,3,8
+824,Užupis,Krivių g.,165000,2685,2,61.46,1,3
+825,Liepkalnis,Liepkalnio g.,52000,1817,2,28.62,2,2
+826,Naujamiestis,Skroblų g.,62500,1520,2,41.11,3,4
+827,Lazdynai,Architektų g.,73000,1141,3,64,10,12
+828,Šeškinė,Šeškinės g.,55000,1571,1,35,1,5
+829,Naujamiestis,Panerių g.,83500,1440,3,58,2,2
+830,Dvarčionys,Keramikų g.,30500,1694,1,18,3,3
+831,Užupis,Manufaktūrų g.,148886,2314,3,64.34,2,6
+832,Užupis,Manufaktūrų g.,118134,2556,2,46.21,1,6
+833,Užupis,Manufaktūrų g.,87172,2479,1,35.16,2,6
+834,Naujamiestis,Geležinio Vilko g.,61000,1368,2,44.58,1,5
+835,Naujamiestis,Žemaitės g.,46000,1572,1,29.26,1,5
+836,Vilkpėdė,Žemaitės g.,46000,1586,1,29,1,5
+837,Vilkpėdė,Geležinio Vilko g.,61000,1368,2,44.58,1,5
+838,Naujamiestis,Vandentiekio g.,49000,1324,2,37,3,4
+839,Antakalnis,Saulės g.,149990,2080,3,72.12,1,3
+840,Šnipiškės,Daugėliškio g.,50000,2153,1,23.22,3,5
+841,Baltupiai,Juozo Balčikonio g.,175000,2333,3,75,2,5
+842,Naujamiestis,M. K. Čiurlionio g.,280000,4641,2,60.33,3,7
+843,Pilaitė,M. Pretorijaus g.,130000,1467,4,88.63,5,5
+844,Naujamiestis,Gerosios Vilties g.,77500,1623,2,47.75,3,5
+845,Grigiškės,Vilniaus g.,109000,1621,3,67.25,4,5
+846,Jeruzalė,Kalvarijų g.,102000,1440,2,70.85,6,6
+847,Naujamiestis,Mindaugo g.,156960,2400,3,65.4,2,3
+848,Senamiestis,Aguonų g.,81995,3218,1,25.48,4,5
+849,Naujamiestis,Aguonų g.,149178,2305,3,64.71,2,5
+850,Naujamiestis,Aguonų g.,107172,2522,2,42.5,2,5
+851,Naujamiestis,Aguonų g.,108316,2820,2,38.41,5,7
+852,Pašilaičiai,Pavilnionių g.,85500,1453,2,58.86,6,16
+853,Lazdynėliai,Lazdynėlių g.,87000,2122,2,41,3,4
+854,Naujamiestis,Švitrigailos g.,136300,1861,3,73.25,2,4
+855,Šnipiškės,Kalvarijų g.,27500,1528,1,18,9,12
+856,Baltupiai,Kalvarijų g.,27500,1375,1,20,9,12
+857,Naujamiestis,Vytenio g.,83700,1574,2,53.18,4,4
+858,Viršuliškės,Viršuliškių g.,74000,1156,3,64,4,9
+859,Žirmūnai,Kalvarijų g.,85000,1328,3,64,4,5
+860,Šnipiškės,Kalvarijų g.,85000,1328,3,64,4,5
+861,Antakalnis,Kirtavietės g.,109000,1656,3,65.84,2,4
+862,Senamiestis,Subačiaus g.,49900,4339,1,11.5,1,4
+863,Pilaitė,M. Mažvydo g.,90000,1698,2,53,1,9
+864,Naujoji Vilnia,Kirtavietės g.,109000,962,3,113.3,2,4
+865,Pašilaičiai,Justiniškių g.,118000,1960,3,60.21,3,9
+866,Baltupiai,Didlaukio g.,54500,1469,2,37.11,2,6
+867,Santariškės,Mykolo Marcinkevičiaus g.,143000,1363,3,104.93,2,4
+868,Antakalnis,V. Grybo g.,62000,2067,1,30,2,4
+869,Naujininkai,Dariaus ir Girėno g.,26000,1444,1,18,1,5
+870,Užupis,Krivių g.,539000,3080,5,175,5,5
+871,Senamiestis,Trakų g.,410000,4184,3,98,2,3
+872,Senamiestis,J. Basanavičiaus g.,195000,3250,2,60,2,2
+873,Naujamiestis,M. K. Čiurlionio g.,840000,4000,6,210,3,3
+874,Senamiestis,Teatro g.,750000,2863,6,262,3,5
+875,Užupis,Užupio g.,230000,4340,2,53,1,3
+876,Justiniškės,Laisvės pr.,129000,1915,3,67.37,5,5
+877,Žirmūnai,Sporto g.,140000,3784,2,37,3,6
+878,Senamiestis,Krivūlės g.,127833,2144,3,59.62,2,4
+879,Pilaitė,Vydūno g.,60000,1705,2,35.2,1,9
+880,Senamiestis,Vingrių g.,239000,3254,3,73.45,3,4
+881,Antakalnis,Keramikų g.,30500,1694,1,18,3,3
+882,Žvėrynas,Pieninės g.,177000,3278,3,54,6,6
+883,Lazdynėliai,Šiltnamių g.,27100,1694,1,16,4,4
+884,Naujoji Vilnia,Parko g.,36400,1138,1,32,5,9
+885,Senamiestis,Naugarduko g.,30000,1667,1,18,4,5
+886,Turniškės,Turniškių g.,310000,3010,3,103,3,3
+887,Šnipiškės,Konstitucijos pr.,1500000,4762,4,315,25,27
+888,Šnipiškės,Konstitucijos pr.,337090,2600,4,129.65,6,29
+889,Šnipiškės,Konstitucijos pr.,155000,2879,2,53.84,5,29
+890,Antakalnis,Antakalnio g.,138750,2290,3,60.59,3,4
+891,Antakalnis,Antakalnio g.,91000,2264,2,40.19,3,3
+892,Balsiai,Žvorūnos g.,125000,1214,4,103,1,2
+893,Turniškės,Nemenčinės pl.,300000,2262,4,132.61,2,3
+894,Valakampiai,Lizdeikos g.,127000,1283,3,99,1,2
+895,Pilaitė,Nidos g.,75500,1888,1,40,6,6
+896,Pašilaičiai,Pašilaičių g.,130000,1202,3,108.18,1,3
+897,Šnipiškės,A. Juozapavičiaus g.,129000,2415,3,53.41,1,1
+898,Viršuliškės,Pilaitės pr.,54500,1968,1,27.69,6,16
+899,Pašilaičiai,Laisvės pr.,50899,1418,1,35.89,5,9
+900,Baltupiai,Juozo Balčikonio g.,120000,1820,2,65.92,4,5
+901,Šiaurės miestelis,Linkmenų g.,125000,2717,2,46,5,9
+902,Senamiestis,Aludarių g.,139000,1904,2,73,4,4
+903,Senamiestis,Aludarių g.,139000,1904,2,73,4,4
+904,Senamiestis,Aludarių g.,139000,1931,2,72,4,4
+905,Žirmūnai,Kalvarijų g.,30000,1500,1,20,10,12
+906,Antakalnis,Nemenčinės pl.,325000,2372,4,137,2,3
+907,Fabijoniškės,Fabijoniškių g.,56000,1400,2,40,2,5
+908,Fabijoniškės,Fabijoniškių g.,56000,1400,1,40,2,5
+909,Pašilaičiai,Laisvės pr.,115000,1117,4,103,3,4
+910,Antakalnis,V. Grybo g.,140500,1325,5,106,1,5
+911,Antakalnis,P. Vileišio g.,137500,2743,2,50.12,3,4
+912,Antakalnis,P. Vileišio g.,137500,2743,2,50.12,3,4
+913,Pašilaičiai,Perkūnkiemio g.,79000,1756,2,45,4,9
+914,Rasos,Stadiono g.,151000,1678,3,90,3,5
+915,Šnipiškės,Linkmenų g.,103500,1725,3,60,3,6
+916,Šnipiškės,Konstitucijos pr.,112000,2730,2,41.03,8,29
+917,Antakalnis,Pauliaus Širvio g.,59900,1875,1,31.95,3,5
+918,Burbiškės,Burbiškių g.,72000,2182,1,33,2,3
+919,Pašilaičiai,Perkūnkiemio g.,89900,1425,2,63.09,14,16
+920,Pašilaičiai,Perkūnkiemio g.,89900,1425,3,63.09,14,16
+921,Užupis,Peteliškių g.,169500,2728,3,62.13,5,5
+922,Žvėrynas,Latvių g.,295000,3467,3,85.09,1,4
+923,Žvėrynas,Latvių g.,518000,4238,4,122.22,2,4
+924,Šeškinė,Laisvės pr.,59000,1553,1,38,1,5
+925,Antakalnis,Rato g.,225000,2552,4,88.16,2,3
+926,Valakampiai,Rato g.,225000,2552,4,88.16,2,3
+927,Žvėrynas,Latvių g.,165000,3655,2,45.14,2,4
+928,Žvėrynas,Blindžių g.,61500,1809,1,34,1,2
+929,Žvėrynas,Blindžių g.,61500,1809,2,34,1,2
+930,Senamiestis,Šiaulių g.,135000,3000,2,45,2,4
+931,Pašilaičiai,Perkūnkiemio g.,84000,1500,2,56,1,9
+932,Užupis,Peteliškių g.,104500,2913,2,35.87,5,5
+933,Šnipiškės,Kalvarijų g.,172000,2150,3,80,5,8
+934,Šiaurės miestelis,Apkasų g.,64500,1402,2,46,5,5
+935,Naujininkai,Dzūkų g.,43000,1433,1,30,1,5
+936,Šnipiškės,Žalgirio g.,95000,1882,2,50.47,2,5
+937,Šnipiškės,Linkmenų g.,125000,2717,2,46,5,9
+938,Pašilaičiai,Medeinos g.,89000,1216,4,73.19,12,16
+939,Pašilaičiai,Sviliškių g.,98900,1625,2,60.86,7,8
+940,Justiniškės,Sviliškių g.,98900,1625,2,60.86,7,8
+941,Senamiestis,Islandijos g.,219000,2911,3,75.22,2,4
+942,Santariškės,Želmenų g.,104900,1110,4,94.5,1,2
+943,Šnipiškės,Kintų g.,240000,2222,4,108,2,2
+944,Naujamiestis,Kapsų g.,102500,1856,3,55.22,2,7
+945,Antakalnis,Kalno g.,80000,1291,3,61.95,2,2
+946,Antakalnis,Kalno g.,80000,1291,3,61.95,2,2
+947,Burbiškės,Eišiškių pl.,119900,1998,3,60,4,5
+948,Naujamiestis,Savanorių pr.,169000,1600,3,105.65,2,4
+949,Užupis,Peteliškių g.,175500,2662,3,65.94,3,5
+950,Užupis,Krivių g.,190000,2838,3,66.96,3,3
+951,Senamiestis,Krivių g.,190000,2838,3,66.96,3,3
+952,Užupis,Peteliškių g.,95500,2682,1,35.61,2,5
+953,Pavilnys,Tuputiškių g.,50000,877,3,57,1,2
+954,Užupis,Peteliškių g.,189500,2566,4,73.85,2,5
+955,Šeškinė,Laisvės pr.,69000,1113,3,62,5,5
+956,Senamiestis,Subačiaus g.,590000,4041,4,146,4,5
+957,Užupis,Peteliškių g.,149500,2294,3,65.18,1,5
+958,Pašilaičiai,Leičių g.,105000,1500,3,70,4,9
+959,Užupis,Peteliškių g.,135500,2871,2,47.2,3,5
+960,Užupis,Užupio g.,117000,2903,2,40.3,1,1
+961,Šeškinė,Čiobiškio g.,77000,1105,2,69.67,9,9
+962,Pašilaičiai,Leičių g.,95000,990,5,95.99,1,9
+963,Pilaitė,Karaliaučiaus g.,51500,1783,1,28.88,6,6
+964,Pilaitė,Karaliaučiaus g.,67000,1638,2,40.91,3,6
+965,Pilaitė,Karaliaučiaus g.,75000,1489,2,50.37,2,6
+966,Antakalnis,Smėlio g.,116192,2153,2,53.98,1,7
+967,Antakalnis,Smėlio g.,359998,3188,4,112.93,6,7
+968,Žvėrynas,Vytauto g.,325396,3890,3,83.64,3,3
+969,Senamiestis,Gedimino pr.,626900,5501,4,113.96,6,6
+970,Žvėrynas,Vytauto g.,302272,2754,3,109.74,3,3
+971,Žvėrynas,Vytauto g.,387035,3395,3,114.01,3,3
+972,Žvėrynas,Vytauto g.,387035,3395,3,114.01,3,3
+973,Senamiestis,Gedimino pr.,296688,5600,2,52.98,6,6
+974,Antakalnis,Šilo g.,109000,1473,3,74,4,5
+975,Senamiestis,Gedimino pr.,319572,5400,3,59.18,6,6
+976,Pilaitė,Karaliaučiaus g.,92360,1956,2,47.22,9,9
+977,Pilaitė,Karaliaučiaus g.,92187,1794,2,51.39,3,9
+978,Antakalnis,Smėlio g.,105000,2076,2,50.58,1,7
+979,Antakalnis,Smėlio g.,144999,1928,3,75.19,1,7
+980,Antakalnis,Smėlio g.,114500,2269,2,50.47,2,7
+981,Antakalnis,Smėlio g.,135000,2252,2,59.95,4,7
+982,Antakalnis,Smėlio g.,130000,2426,2,53.58,5,7
+983,Antakalnis,Smėlio g.,135000,2479,2,54.46,6,7
+984,Pašilaičiai,Leičių g.,70000,1215,3,57.62,2,9
+985,Žvėrynas,Vytauto g.,224876,3542,3,63.48,3,3
+986,Žirmūnai,M. Katkaus g.,120950,2271,2,53.27,1,7
+987,Žirmūnai,M. Katkaus g.,106900,2235,2,47.84,7,7
+988,Žirmūnai,M. Katkaus g.,71061,2680,1,26.52,7,7
+989,Žirmūnai,M. Katkaus g.,71034,2680,1,26.51,7,7
+990,Naujamiestis,Šaltinių g.,99909,2547,2,39.23,2,5
+991,Senamiestis,Aguonų g.,172587,2695,3,64.05,3,5
+992,Senamiestis,Šaltinių g.,362280,4000,4,90.57,5,5
+993,Senamiestis,Šaltinių g.,236285,3500,3,67.51,5,5
+994,Naujamiestis,Aguonų g.,100441,2068,2,48.57,1,5
+995,Naujamiestis,Aguonų g.,157253,2250,3,69.89,2,7
+996,Naujamiestis,Aguonų g.,131994,2560,2,51.56,3,7
+997,Pašilaičiai,Leičių g.,74000,1112,3,66.55,1,9
+998,Šiaurės miestelis,Linkmenų g.,119000,2890,2,41.17,4,5
+999,Pašilaičiai,Leičių g.,92000,1277,3,72.07,6,9
+1000,Pašilaičiai,Leičių g.,92000,1289,3,71.37,6,9
+1001,Naujininkai,Dariaus ir Girėno g.,28000,1556,1,18,5,5
+1002,Šeškinė,Buivydiškių g.,59000,1405,1,42,2,12
+1003,Lazdynėliai,Šerkšno g.,120000,1653,3,72.58,3,3
+1004,Šnipiškės,Kalvarijų g.,17900,1295,1,13.82,4,5
+1005,Naujininkai,Eišiškių pl.,26500,1408,1,18.82,4,4
+1006,Naujininkai,Kapsų g.,89500,2140,2,41.83,4,7
+1007,Užupis,Peteliškių g.,180000,3014,3,59.73,2,5
+1008,Užupis,Peteliškių g.,270000,2956,4,91.34,2,5
+1009,Senamiestis,Žemaitijos g.,100000,3204,1,31.21,1,3
+1010,Karoliniškės,Vido Maciulevičiaus g.,47900,1443,1,33.2,3,5
+1011,Naujamiestis,Smolensko g.,123000,2321,2,53,4,11
+1012,Žvėrynas,Latvių g.,230000,2170,4,106,5,6
+1013,Naujamiestis,S. Konarskio g.,75000,1685,2,44.5,3,5
+1014,Pilaitė,Bitėnų g.,79900,1776,2,45,3,4
+1015,Pilaitė,Bitėnų g.,79900,1737,2,46,3,4
+1016,Pilaitė,Bitėnų g.,79900,1737,2,46,3,4
+1017,Šnipiškės,Šilutės g.,43500,1359,1,32,1,2
+1018,Pašilaičiai,Leičių g.,70000,1066,3,65.67,4,9
+1019,Naujamiestis,Algirdo g.,44000,881,2,49.92,0,5
+1020,Pilaitė,Priegliaus g.,133000,2078,3,64,3,5
+1021,Žirmūnai,Tuskulėnų g.,60000,1818,1,33,4,5
+1022,Pilaitė,Varnės g.,118000,1206,4,97.86,1,2
+1023,Pilaitė,Varnės g.,130000,1171,4,111.02,1,2
+1024,Senamiestis,A. Juozapavičiaus g.,215000,3308,2,65,6,7
+1025,Senamiestis,Savičiaus g.,189000,2392,3,79,3,3
+1026,Justiniškės,Taikos g.,57150,1799,1,31.76,1,4
+1027,Lazdynai,Architektų g.,69900,1098,3,63.66,9,9
+1028,Šeškinė,Gelvonų g.,52000,1444,1,36,1,5
+1029,Naujininkai,Darbininkų g.,45000,1216,1,37,11,12
+1030,Naujamiestis,Gedimino pr.,201536,4629,2,43.54,2,5
+1031,Pilaitė,Bitėnų g.,119000,1951,3,61,2,4
+1032,Pilaitė,Bitėnų g.,119000,1951,3,61,2,4
+1033,Pilaitė,Bitėnų g.,112011,1807,3,62,2,4
+1034,Pilaitė,Bitėnų g.,112000,1806,3,62,3,4
+1035,Pilaitė,Bitėnų g.,112000,1836,3,61,3,4
+1036,Pilaitė,Bitėnų g.,99999,1852,3,54,4,4
+1037,Pilaitė,Bitėnų g.,100011,1905,3,52.5,4,4
+1038,Pilaitė,Bitėnų g.,99999,1912,3,52.3,3,4
+1039,Naujamiestis,M. K. Čiurlionio g.,340000,2671,4,127.28,1,3
+1040,Senamiestis,T. Kosciuškos g.,282000,2580,4,109.3,4,4
+1041,Senamiestis,T. Kosciuškos g.,183000,2609,2,70.14,1,4
+1042,Antakalnis,Turniškių g.,165000,3433,2,48.06,2,3
+1043,Valakampiai,Turniškių g.,165000,3433,2,48.06,2,3
+1044,Pilaitė,M. Mažvydo g.,83000,1800,2,46.1,4,7
+1045,Balsiai,Žaliųjų Ežerų g.,66000,1258,2,52.47,1,2
+1046,Didieji Gulbinai,Toluvos g.,62000,989,3,62.68,2,2
+1047,Antakalnis,Žirgo g.,195000,1479,4,131.85,2,3
+1048,Užupis,Peteliškių g.,104500,2188,2,47.77,1,5
+1049,Viršuliškės,Viršuliškių g.,91000,1358,3,67,1,5
+1050,Šnipiškės,Rinktinės g.,125000,1786,3,70,3,9
+1051,Bajorai,Salaspilio g.,182375,1836,4,99.31,2,3
+1052,Bajorai,Salaspilio g.,133000,1320,4,100.75,2,3
+1053,Bajorai,Salaspilio g.,95600,1484,3,64.42,2,3
+1054,Bajorai,Salaspilio g.,95600,1490,3,64.16,2,3
+1055,Bajorai,Salaspilio g.,80100,1527,2,52.46,1,3
+1056,Bajorai,Salaspilio g.,133000,1348,4,98.63,2,3
+1057,Bajorai,Šventeliškių g.,85305,1957,1,43.59,1,4
+1058,Pašilaičiai,Leičių g.,60011,1321,2,45.42,7,9
+1059,Pašilaičiai,Leičių g.,109011,1613,3,67.6,8,9
+1060,Senamiestis,Liejyklos g.,100000,2903,2,34.45,1,4
+1061,Justiniškės,Justiniškių g.,67000,976,3,68.66,8,9
+1062,Santariškės,Santariškių g.,275000,2350,5,117,1,2
+1063,Pilaitė,Bitėnų g.,104000,1576,3,66,4,5
+1064,Pilaitė,Vydūno g.,85000,2073,2,41,9,9
+1065,Pilaitė,Vydūno g.,85000,2125,2,40,9,9
+1066,Naujininkai,Kapsų g.,67500,2085,1,32.38,2,7
+1067,Naujamiestis,Kapsų g.,105500,1800,3,58.61,2,7
+1068,Naujininkai,Kapsų g.,105500,1800,3,58.61,2,7
+1069,Pavilnys,Džiaugsmo g.,105000,1050,4,100,2,2
+1070,Fabijoniškės,S. Stanevičiaus g.,120000,2134,2,56.23,5,5
+1071,Tarandė,Lubinų g.,92000,821,4,112,2,2
+1072,Naujamiestis,Birželio 23-iosios g.,141000,2518,3,56,3,9
+1073,Trakų Vokė,J. Tiškevičiaus g.,77000,939,4,82,2,4
+1074,Naujoji Vilnia,Žaliakalnio g.,17000,527,2,32.27,1,1
+1075,Antakalnis,Šilo g.,129000,2756,2,46.81,2,2
+1076,Bajorai,Mokyklos g.,49000,1400,2,35,4,5
+1077,Bajorai,Mokyklos g.,49000,1400,2,35,4,5
+1078,Bukiškio k.,Mokyklos g.,49000,1400,2,35,4,5
+1079,Pašilaičiai,Gabijos g.,63000,926,3,68,1,9
+1080,Naujininkai,Dariaus ir Girėno g.,96000,1157,4,83,1,2
+1081,Naujoji Vilnia,Parko g.,55000,1100,2,50,4,5
+1082,Žirmūnai,Tuskulėnų g.,63000,1750,1,36,6,12
+1083,Pilaitė,Karaliaučiaus g.,109900,1717,3,64,7,8
+1084,Šeškinė,Gelvonų g.,70900,1390,2,51,6,9
+1085,Šnipiškės,Krokuvos g.,166000,1677,3,99,5,6
+1086,Šnipiškės,Krokuvos g.,166000,1677,3,99,5,6
+1087,Naujininkai,Darbininkų g.,27500,1559,1,17.64,3,5
+1088,Antakalnis,Karačiūnų g.,175000,1444,3,121.18,2,2
+1089,Burbiškės,Eišiškių pl.,126000,1888,3,66.73,1,5
+1090,Naujininkai,Eišiškių pl.,119000,2204,3,54,3,5
+1091,Naujininkai,Eišiškių pl.,97000,1516,3,64,2,5
+1092,Burbiškės,Eišiškių pl.,93000,2183,2,42.6,5,5
+1093,Burbiškės,Eišiškių pl.,68000,2008,1,33.86,4,5
+1094,Markučiai,Manufaktūrų g.,99123,1850,2,53.58,2,6
+1095,Šnipiškės,Rinktinės g.,223560,2700,3,82.8,7,9
+1096,Šnipiškės,Rinktinės g.,98179,1930,2,50.87,2,9
+1097,Šnipiškės,Rinktinės g.,224832,2400,3,93.68,5,6
+1098,Lazdynai,Erfurto g.,72000,1182,3,60.93,4,5
+1099,Senamiestis,Mindaugo g.,158000,2135,2,74,3,7
+1100,Bajorai,Fizikų g.,140200,1900,3,73.79,5,5
+1101,Bajorai,Fizikų g.,140200,1900,3,73.79,5,5
+1102,Bajorai,Fizikų g.,102700,1593,3,64.48,1,4
+1103,Žirmūnai,Žirmūnų g.,59900,1358,2,44.12,1,5
+1104,Justiniškės,Taikos g.,84500,1050,4,80.45,3,9
+1105,Užupis,Krivių g.,289000,3211,3,90,2,5
+1106,Bajorai,Fizikų g.,80000,1651,2,48.47,2,5
+1107,Bajorai,Fizikų g.,80400,1656,2,48.56,2,4
+1108,Bajorai,Fizikų g.,79000,1846,2,42.8,4,5
+1109,Žvėrynas,Pušų g.,580000,3118,3,186,2,2
+1110,Markučiai,Manufaktūrų g.,133158,2020,3,65.92,3,5
+1111,Markučiai,Manufaktūrų g.,105013,1900,2,55.27,3,5
+1112,Pilaitė,Priegliaus g.,90000,1800,2,50,4,7
+1113,Markučiai,Manufaktūrų g.,73710,1951,1,37.79,2,5
+1114,Markučiai,Manufaktūrų g.,105963,1750,2,60.55,3,6
+1115,Markučiai,Manufaktūrų g.,136068,1700,4,80.04,1,6
+1116,Markučiai,Manufaktūrų g.,269888,3201,3,84.32,5,5
+1117,Markučiai,Manufaktūrų g.,264045,2896,3,91.18,1,5
+1118,Karoliniškės,Algimanto Petro Kavoliuko g.,56000,1677,1,33.4,2,5
+1119,Karoliniškės,Algimanto Petro Kavoliuko g.,56000,1647,1,34,2,5
+1120,Markučiai,Manufaktūrų g.,185224,2597,3,71.33,2,4
+1121,Pilaitė,I. Kanto al.,83000,1361,3,61,9,9
+1122,Markučiai,Manufaktūrų g.,75915,2104,1,36.08,1,5
+1123,Šnipiškės,Rinktinės g.,243942,1975,5,123.51,2,9
+1124,Šnipiškės,Rinktinės g.,124511,2540,2,49.02,7,9
+1125,Šnipiškės,Rinktinės g.,141652,2800,2,50.59,8,9
+1126,Šnipiškės,Rinktinės g.,170193,2290,3,74.32,5,9
+1127,Markučiai,Subačiaus g.,126569,2021,3,62.64,3,3
+1128,Šnipiškės,Rinktinės g.,179872,2240,3,80.3,5,6
+1129,Šnipiškės,Rinktinės g.,81481,2418,1,33.7,4,8
+1130,Šnipiškės,Rinktinės g.,89900,2668,1,33.7,5,8
+1131,Valakampiai,Nugalėtojų g.,299500,2382,3,125.75,2,3
+1132,Valakampiai,Nugalėtojų g.,299500,2382,4,125.75,2,3
+1133,Naujamiestis,J. Jasinskio g.,129500,3238,2,40,5,6
+1134,Pašilaičiai,Leičių g.,89011,1254,3,71,7,9
+1135,Naujamiestis,Panerių g.,73920,1011,3,73.15,2,2
+1136,Bajorai,Bajorų kel.,83000,1895,1,43.8,4,4
+1137,Žvėrynas,Lūšių g.,215000,2194,2,98,4,4
+1138,Žvėrynas,Lūšių g.,215000,2194,3,98,4,4
+1139,Žvėrynas,Lūšių g.,214999,2194,3,98,4,4
+1140,Žvėrynas,Pušų g.,274000,1846,5,148.46,2,3
+1141,Žvėrynas,Pušų g.,274000,1846,5,148.46,2,3
+1142,Šnipiškės,Kalvarijų g.,24120,930,1,25.93,1,1
+1143,Šnipiškės,Kalvarijų g.,22200,861,1,25.77,1,2
+1144,Naujoji Vilnia,Parko g.,50000,1333,2,37.52,1,4
+1145,Valakampiai,Svajonių g.,195000,1741,5,112,1,3
+1146,Šnipiškės,Kalvarijų g.,18980,726,1,26.15,1,1
+1147,Naujininkai,A. Jaroševičiaus g.,22000,936,1,23.5,1,2
+1148,Senamiestis,Aguonų g.,191000,3979,2,48,6,6
+1149,Naujininkai,A. Jaroševičiaus g.,38500,922,3,41.76,2,2
+1150,Senamiestis,Šv. Jono g.,330000,3300,4,100,3,3
+1151,Šeškinė,Laisvės pr.,95000,1439,2,66,5,5
+1152,Justiniškės,Laisvės pr.,95000,1439,2,66,5,5
+1153,Bajorai,Mokslininkų g.,60000,1667,1,36,1,2
+1154,Pašilaičiai,Gabijos g.,139000,1663,3,83.59,4,5
+1155,Žvėrynas,Paribio g.,119000,1831,3,65,5,5
+1156,Senamiestis,Gedimino pr.,285000,3000,3,95,4,6
+1157,Senamiestis,Krivių g.,253000,2811,4,90,4,4
+1158,Žirmūnai,Verkių g.,465000,3224,4,144.25,2,3
+1159,Verkiai,Verkių g.,465000,3224,4,144.25,2,3
+1160,Senamiestis,Gedimino pr.,160000,2857,2,56,3,4
+1161,Valakampiai,Nemenčinės pl.,285000,1900,4,150,17,20
+1162,Antakalnis,Žirgo g.,285000,1900,4,150,17,20
+1163,Antakalnis,Žirgo g.,285000,1900,4,150,17,20
+1164,Pilaitė,I. Simonaitytės g.,105000,1687,3,62.24,4,4
+1165,Pilaitė,I. Simonaitytės g.,105000,1687,2,62.24,4,4
+1166,Vilkpėdė,Vaduvos g.,44800,1120,1,40,3,5
+1167,Žemieji Paneriai,Vaduvos g.,44800,1120,1,40,3,5
+1168,Viršuliškės,Spaudos g.,76800,1839,2,41.76,10,16
+1169,Naujoji Vilnia,Genių g.,65000,1275,3,51,4,5
+1170,Šnipiškės,Kalvarijų g.,46000,958,2,48,1,1
+1171,Šnipiškės,Šilutės g.,46000,958,2,48,1,1
+1172,Pilaitė,Nidos g.,119500,2023,3,59.08,9,9
+1173,Avižieniai,Mokyklos g.,45000,1250,2,36,4,5
+1174,Bukiškio k.,Mokyklos g.,45000,1250,2,36,4,5
+1175,Naujamiestis,Naugarduko g.,73000,1521,2,48,4,5
+1176,Senamiestis,Aguonų g.,313000,4397,3,71.19,6,6
+1177,Senamiestis,Aguonų g.,199500,2844,3,70.15,3,6
+1178,Senamiestis,Aguonų g.,199500,2844,2,70.15,3,6
+1179,Senamiestis,J. Basanavičiaus g.,71900,1754,2,41,3,3
+1180,Naujamiestis,Kauno g.,59990,2307,2,26,4,4
+1181,Šnipiškės,Kalvarijų g.,187000,1948,4,96,7,8
+1182,Paneriai,Juodšilių g.,43500,1497,1,29.05,5,5
+1183,Aukštieji Paneriai,Juodšilių g.,43500,1497,1,29.05,5,5
+1184,Šiaurės miestelis,Juozo Balčikonio g.,129000,2224,2,58,6,6
+1185,Žirmūnai,Tuskulėnų g.,66000,2015,1,32.75,4,5
+1186,Pašilaičiai,Pavilnionių g.,92000,1513,2,60.79,7,9
+1187,Pašilaičiai,Pavilnionių g.,92000,1513,3,60.79,7,9
+1188,Viršuliškės,Viršuliškių g.,20000,860,1,23.26,2,9
+1189,Pašilaičiai,Leičių g.,71011,1005,3,70.66,7,9
+1190,Pašilaičiai,Leičių g.,95011,1792,2,53.02,9,9
+1191,Pašilaičiai,Leičių g.,61000,1286,2,47.43,9,9
+1192,Avižieniai,Mokyklos g.,49000,1361,2,36,3,5
+1193,Vilkpėdė,Vilkpėdės g.,147000,1959,3,75.04,4,7
+1194,Naujamiestis,Vilkpėdės g.,147000,1959,3,75.04,4,7
+1195,Pašilaičiai,Leičių g.,85011,1767,2,48.1,9,9
+1196,Pašilaičiai,Leičių g.,99011,1216,3,81.45,3,9
+1197,Pilaitė,Simono Grunau g.,78000,1472,3,53,1,3
+1198,Pilaitė,Karaliaučiaus g.,109000,1748,3,62.35,1,2
+1199,Užupis,Krivių g.,300000,3213,4,93.38,2,5
+1200,Lazdynai,Erfurto g.,86000,1358,4,63.34,7,9
+1201,Karoliniškės,Sausio 13-osios g.,87000,1675,2,51.94,2,7
+1202,Karoliniškės,Sausio 13-osios g.,73500,1983,2,37.07,2,7
+1203,Senamiestis,Totorių g.,179000,2093,3,85.53,3,4
+1204,Pašilaičiai,Leičių g.,78011,1472,2,53,2,9
+1205,Šnipiškės,Rinktinės g.,189000,2821,3,67,7,7
+1206,Žvėrynas,Stumbrų g.,180000,2466,3,73,1,6
+1207,Jeruzalė,Kviečių g.,72300,1900,1,38.05,6,6
+1208,Senamiestis,Gedimino pr.,289000,3156,3,91.56,4,5
+1209,Senamiestis,Gedimino pr.,289000,3156,4,91.56,4,5
+1210,Senamiestis,Vilniaus g.,289000,3156,2,91.56,4,5
+1211,Naujamiestis,Kauno g.,104900,2826,2,37.12,3,11
+1212,Pilaitė,Pilkalnio g.,88747,1074,3,82.64,1,3
+1213,Pilaitė,Pilkalnio g.,89000,1068,4,83.3,1,3
+1214,Žvėrynas,Stirnų g.,141000,3017,2,46.74,1,6
+1215,Žvėrynas,Stirnų g.,145000,3192,2,45.42,2,6
+1216,Senamiestis,Rūdninkų g.,395000,3750,4,105.33,2,3
+1217,Rasos,Rasų g.,229000,3655,3,62.66,2,2
+1218,Naujamiestis,Algirdo g.,230000,1513,5,152,2,3
+1219,Senamiestis,Užupio g.,98000,1931,2,50.76,1,1
+1220,Užupis,Užupio g.,98000,1931,2,50.76,1,1
+1221,Žirmūnai,Kareivių g.,57000,1390,2,41,1,5
+1222,Šnipiškės,Kareivių g.,57000,1390,2,41,1,5
+1223,Pašilaičiai,Laisvės pr.,109500,2330,2,47,4,9
+1224,Justiniškės,Laisvės pr.,109500,2330,2,47,4,9
+1225,Justiniškės,Sviliškių g.,134000,1654,3,81,1,5
+1226,Pašilaičiai,Sviliškių g.,134000,1654,3,81,1,5
+1227,Šeškinė,Buivydiškių g.,51500,1321,1,39,8,12
+1228,Pašilaičiai,Girulių g.,86500,1415,2,61.14,5,9
+1229,Justiniškės,Justiniškių g.,72000,1946,2,37,4,5
+1230,Pilaitė,Simono Grunau g.,111000,1181,4,94,2,2
+1231,Pavilnys,Stasio Lozoraičio g.,119000,930,4,128,1,2
+1232,Pavilnys,Stasio Lozoraičio g.,99000,1165,4,85,1,2
+1233,Senamiestis,Pamėnkalnio g.,280000,2737,4,102.3,6,7
+1234,Naujamiestis,Pamėnkalnio g.,280000,2737,4,102.3,6,7
+1235,Žvėrynas,Vytauto g.,230000,1575,5,146,2,2
+1236,Antakalnis,Rato g.,92000,3169,1,29.03,1,3
+1237,Valakampiai,Rato g.,92000,3169,1,29.03,1,3
+1238,Baltupiai,Kalvarijų g.,19900,1114,1,17.86,8,12
+1239,Šnipiškės,Kalvarijų g.,19900,1114,1,17.86,8,12
+1240,Karoliniškės,Apolinaro Juozo Povilaičio g.,54600,1655,1,33,8,9
+1241,Verkiai,Popieriaus g.,25000,1000,1,25,2,2
+1242,Naujamiestis,Algirdo g.,232000,2071,4,112,3,3
+1243,Senamiestis,Algirdo g.,232000,2070,4,112.08,3,3
+1244,Senamiestis,Ankštoji g.,430000,2129,6,202,5,6
+1245,Fabijoniškės,Salomėjos Nėries g.,74000,1748,2,42.34,5,12
+1246,Antakalnis,Nemenčinės pl.,242000,1407,4,172,2,2
+1247,Antakalnis,Šilo g.,209000,2125,4,98.36,1,4
+1248,Vilkpėdė,Burbiškių g.,64999,2056,1,31.62,2,3
+1249,Burbiškės,Burbiškių g.,70000,2188,1,32,2,3
+1250,Naujininkai,Dzūkų g.,59999,1527,2,39.29,4,5
+1251,Fabijoniškės,Salomėjos Nėries g.,99999,1437,3,69.58,10,12
+1252,Lazdynai,Architektų g.,109000,1787,2,61,2,4
+1253,Justiniškės,Laisvės pr.,129000,1915,2,67.37,5,5
+1254,Justiniškės,Laisvės pr.,129000,1915,3,67.37,5,5
+1255,Vilkpėdė,Vandentiekio g.,49000,1324,2,37,3,4
+1256,Naujamiestis,Vandentiekio g.,49000,1324,2,37,3,4
+1257,Kalnėnai,Kroatų g.,110000,1217,4,90.39,1,2
+1258,Kalnėnai,Kroatų g.,110000,1217,4,90.39,1,2
+1259,Žvėrynas,Danielių g.,133020,3000,2,44.34,2,4
+1260,Fabijoniškės,Salomėjos Nėries g.,64900,1563,1,41.52,8,9
+1261,Lazdynai,Erfurto g.,330000,1746,5,189,2,3
+1262,Žvėrynas,Paribio g.,95000,1863,2,51,1,5
+1263,Naujoji Vilnia,Pramonės g.,26800,1247,1,21.5,5,5
+1264,Naujoji Vilnia,Dūmų g.,49500,1500,2,33,3,3
+1265,Naujoji Vilnia,Pramonės g.,33500,1196,2,28,5,5
+1266,Senamiestis,Gaono g.,248000,4203,3,59,3,3
+1267,Bajorai,Fizikų g.,144900,1878,3,77.17,1,6
+1268,Baltupiai,Bitininkų g.,75000,1500,2,50,5,5
+1269,Jeruzalė,Bitininkų g.,75000,1500,2,50,5,5
+1270,Naujamiestis,Kedrų g.,52000,2737,1,19,3,5
+1271,Naujamiestis,S. Konarskio g.,45000,3000,1,15,2,5
+1272,Naujamiestis,Kedrų g.,36000,2571,1,14,1,5
+1273,Naujamiestis,Savanorių pr.,28000,2154,1,13,1,5
+1274,Naujininkai,Kapsų g.,80000,1136,3,70.43,7,10
+1275,Žvėrynas,Danielių g.,297879,3101,4,96.06,1,4
+1276,Senamiestis,Mindaugo g.,155000,2580,3,60.07,1,4
+1277,Žirmūnai,M. Katkaus g.,76300,2848,1,26.79,2,9
+1278,Senamiestis,Šv. Kazimiero g.,185000,2602,3,71.11,1,2
+1279,Antakalnis,T. Kosciuškos g.,78000,1205,2,64.74,1,3
+1280,Jeruzalė,Baltupio g.,138000,1894,4,72.88,1,5
+1281,Senamiestis,Šv. Jono g.,299000,3698,3,80.85,3,4
+1282,Senamiestis,Šv. Jono g.,225000,2632,3,85.48,1,3
+1283,Senamiestis,J. Basanavičiaus g.,649000,3009,4,215.68,4,5
+1284,Naujamiestis,S. Konarskio g.,179000,1696,4,105.53,3,4
+1285,Karoliniškės,Vido Maciulevičiaus g.,59000,1782,1,33.1,2,5
+1286,Justiniškės,Grigalaukio g.,81900,2155,2,38,6,6
+1287,Pašilaičiai,Grigalaukio g.,81900,2155,2,38,6,6
+1288,Senamiestis,Konstitucijos pr.,249920,2750,3,90.88,16,29
+1289,Filaretai,Olandų g.,68000,2810,1,24.2,3,6
+1290,Užupis,Olandų g.,115000,2500,2,46,3,5
+1291,Filaretai,Olandų g.,130000,2453,3,53,4,6
+1292,Naujamiestis,Mindaugo g.,189000,2762,2,68.42,8,8
+1293,Valakampiai,Nemenčinės pl.,147000,2865,2,51.3,2,3
+1294,Senamiestis,Gedimino pr.,215000,3644,2,59,4,4
+1295,Pašilaičiai,Laisvės pr.,80000,2000,2,40,6,6
+1296,Šnipiškės,Giedraičių g.,92000,2641,1,34.83,8,9
+1297,Šnipiškės,Giedraičių g.,92000,2641,1,34.83,7,9
+1298,Užupis,Olandų g.,160112,2620,3,61.1,2,5
+1299,Užupis,Olandų g.,80000,2402,2,33.3,1,5
+1300,Užupis,Olandų g.,79000,2557,1,30.9,1,5
+1301,Užupis,Olandų g.,79000,2557,1,30.9,1,5
+1302,Užupis,Olandų g.,65000,2766,1,23.5,3,6
+1303,Užupis,Olandų g.,110000,2350,2,46.8,2,5
+1304,Užupis,Olandų g.,145000,2377,3,61,2,5
+1305,Antakalnis,Olandų g.,145000,2373,3,61.1,2,5
+1306,Visoriai,Onos Miciūtės g.,129000,2016,3,64,2,2
+1307,Visoriai,Onos Miciūtės g.,129000,2048,3,63,2,2
+1308,Karoliniškės,Igno Šimulionio g.,205000,2636,3,77.77,3,3
+1309,Pašilaičiai,Gabijos g.,120000,1791,3,67,3,5
+1310,Senamiestis,Geležinkelio g.,99990,1791,3,55.83,0,3
+1311,Žvėrynas,Birutės g.,863000,6742,4,128,3,3
+1312,Karoliniškės,Dariaus Gerbutavičiaus g.,65000,834,4,77.9,1,5
+1313,Užupis,Olandų g.,73713,3137,1,23.5,2,5
+1314,Užupis,Olandų g.,122550,2619,2,46.8,2,5
+1315,Senamiestis,Žemaitijos g.,459000,2292,4,200.28,3,4
+1316,Antakalnis,Žolyno g.,23500,1175,1,20,3,5
+1317,Pašilaičiai,Leičių g.,84011,1031,3,81.45,9,9
+1318,Naujamiestis,S. Konarskio g.,169999,2267,3,75,3,9
+1319,Pašilaičiai,Leičių g.,90011,1982,2,45.42,9,9
+1320,Fabijoniškės,Fabijoniškių g.,95000,1418,3,67,5,9
+1321,Pašilaičiai,Leičių g.,85011,1872,2,45.42,6,9
+1322,Šnipiškės,Raitininkų g.,189500,2707,3,70,7,7
+1323,Jeruzalė,Kviečių g.,86410,1700,2,50.83,5,6
+1324,Pilaitė,Papilėnų g.,69000,981,3,70.34,5,9
+1325,Antakalnis,Pylimėlių g.,178000,2282,3,78,4,4
+1326,Tarandė,Tarandės g.,95000,1352,3,70.26,2,2
+1327,Tarandė,Tarandės g.,110000,1367,3,80.46,1,2
+1328,Lazdynėliai,Jonažolių g.,72777,1702,2,42.77,5,5
+1329,Lazdynai,Jonažolių g.,72777,1702,2,42.77,5,5
+1330,Justiniškės,Justiniškių g.,69900,1487,2,47,4,5
+1331,Pašilaičiai,Sviliškių g.,95000,1557,2,61,3,5
+1332,Naujamiestis,M. K. Čiurlionio g.,285000,4071,3,70,1,2
+1333,Naujamiestis,J. Basanavičiaus g.,285000,4071,2,70,1,2
+1334,Baltupiai,Trinapolio g.,94000,1709,2,55,5,9
+1335,Žirmūnai,Trinapolio g.,94000,1709,2,55,5,9
+1336,Žirmūnai,Trinapolio g.,87200,1780,2,49,1,9
+1337,Baltupiai,Trinapolio g.,135000,1484,4,91,2,9
+1338,Žirmūnai,Trinapolio g.,135000,1484,4,91,2,9
+1339,Šnipiškės,Kalvarijų g.,69983,1491,2,46.94,1,5
+1340,Baltupiai,Naujakiemio g.,237000,1559,5,152,3,4
+1341,Baltupiai,Naujakiemio g.,259000,1704,5,152,2,3
+1342,Baltupiai,Naujakiemio g.,267000,1757,5,152,2,3
+1343,Baltupiai,Naujakiemio g.,231000,1520,5,152,2,3
+1344,Lazdynai,Erfurto g.,65500,1001,3,65.41,1,9
+1345,Fabijoniškės,Salomėjos Nėries g.,68000,1447,2,47,5,12
+1346,Senamiestis,Pylimo g.,129000,1843,3,70,3,3
+1347,Antakalnis,Kučkuriškių g.,41500,1297,2,32,2,2
+1348,Fabijoniškės,Fabijoniškių g.,85000,1518,2,56,5,5
+1349,Fabijoniškės,Fabijoniškių g.,84500,1457,2,58,5,5
+1350,Fabijoniškės,Fabijoniškių g.,86500,1491,2,58,5,5
+1351,Žvėrynas,Vytauto g.,100000,1799,4,55.59,1,2
+1352,Fabijoniškės,S. Stanevičiaus g.,89000,1104,4,80.64,6,9
+1353,Šiaurės miestelis,Juozo Balčikonio g.,160000,2349,3,68.11,8,9
+1354,Šnipiškės,Juozo Balčikonio g.,160000,2349,3,68.11,8,9
+1355,Lazdynai,Architektų g.,77000,1242,3,62,3,5
+1356,Pilaitė,Pilkalnio g.,90555,1111,4,81.48,1,3
+1357,Fabijoniškės,Salomėjos Nėries g.,65000,1757,1,37,10,10
+1358,Pilaitė,Trakėnų g.,105000,1991,3,52.73,2,2
+1359,Santariškės,Mokslininkų g.,60000,1622,1,37,2,3
+1360,Justiniškės,Laisvės pr.,54000,1309,2,41.24,5,5
+1361,Žirmūnai,Tuskulėnų g.,139000,1738,4,80,4,5
+1362,Žirmūnai,Kernavės g.,110500,2250,2,49.12,2,8
+1363,Šnipiškės,Kernavės g.,154100,2200,3,70.05,3,9
+1364,Šnipiškės,Kernavės g.,114000,2300,2,49.56,2,9
+1365,Šnipiškės,Kernavės g.,114000,2300,2,49.56,2,9
+1366,Valakampiai,Vaidilutės g.,188000,2308,3,81.47,1,3
+1367,Antakalnis,Vaidilutės g.,188000,2308,3,81.47,1,2
+1368,Valakampiai,Vaidilutės g.,165000,2025,3,81.47,1,2
+1369,Antakalnis,Vaidilutės g.,165000,2025,3,81.47,1,2
+1370,Antakalnis,P. Vileišio g.,139000,1730,2,80.34,4,4
+1371,Naujoji Vilnia,Gerovės g.,49800,1474,1,33.79,5,5
+1372,Antakalnis,Keramikų g.,30500,1694,1,18,3,3
+1373,Dvarčionys,Keramikų g.,30500,1694,1,18,3,3
+1374,Antakalnis,Keramikų g.,30500,1694,1,18,3,3
+1375,Dvarčionys,Keramikų g.,30500,1694,1,18,3,3
+1376,Grigiškės,Pašto g.,68600,952,3,72.08,1,2
+1377,Užupis,Krivių g.,199000,3109,3,64,1,5
+1378,Užupis,Krivių g.,199000,3109,3,64,1,5
+1379,Naujoji Vilnia,Parko g.,71500,1006,3,71.08,1,12
+1380,Viršuliškės,Jurgio Matulaičio a.,129900,1160,4,112,3,10
+1381,Naujoji Vilnia,Pramonės g.,31500,1086,1,29,4,4
+1382,Senamiestis,Polocko g.,275000,2354,4,116.83,1,1
+1383,Užupis,Polocko g.,275000,2354,4,116.83,1,2
+1384,Pašilaičiai,Justiniškių g.,111500,1838,3,60.67,9,9
+1385,Turniškės,Nemenčinės pl.,278000,2780,4,100,2,3
+1386,Antakalnis,Nemenčinės pl.,278000,2780,4,100,2,3
+1387,Valakampiai,Nemenčinės pl.,278000,2780,4,100,2,3
+1388,Naujoji Vilnia,Dūmų g.,77999,940,2,83,2,3
+1389,Valakampiai,Nugalėtojų g.,299500,2382,3,125.75,1,3
+1390,Valakampiai,Nugalėtojų g.,299500,2382,4,125.75,1,3
+1391,Užupis,Užupio g.,171000,2443,3,70,3,3
+1392,Justiniškės,Taikos g.,72000,1029,3,70,4,9
+1393,Šnipiškės,Šilutės g.,43500,1145,1,38,1,2
+1394,Fabijoniškės,Salomėjos Nėries g.,52000,1300,1,40,4,5
+1395,Pilaitė,I. Simonaitytės g.,120000,1617,3,74.21,5,5
+1396,Senamiestis,Vingrių g.,115000,2406,2,47.8,1,4
+1397,Antakalnis,Žolyno g.,37000,1493,1,24.78,4,5
+1398,Fabijoniškės,L. Giros g.,57000,1425,1,40,3,5
+1399,Šnipiškės,Kalvarijų g.,75000,1221,3,61.41,2,5
+1400,Lazdynai,Erfurto g.,39713,1225,1,32.43,9,9
+1401,Antakalnis,P. Vileišio g.,216000,3001,3,71.97,4,4
+1402,Antakalnis,P. Vileišio g.,216000,3001,3,71.97,4,4
+1403,Žvėrynas,Lokių g.,164000,3037,2,54,3,6
+1404,Žvėrynas,Sėlių g.,164000,3084,2,53.17,3,6
+1405,Justiniškės,Justiniškių g.,76500,1036,3,73.84,1,9
+1406,Valakampiai,Nemenčinės pl.,275000,2236,4,123,3,3
+1407,Antakalnis,Nemenčinės pl.,275000,2236,4,123,3,3
+1408,Viršuliškės,Viršuliškių g.,69900,1487,2,47,5,5
+1409,Užupis,Subačiaus g.,33999,1324,1,25.68,3,5
+1410,Rasos,Subačiaus g.,33999,1324,1,25.68,3,5
+1411,Markučiai,Subačiaus g.,33999,1324,1,25.68,3,5
+1412,Pilaitė,Juodkrantės g.,72000,2000,1,36,4,4
+1413,Naujoji Vilnia,Parko g.,23900,747,1,32,2,12
+1414,Antakalnis,P. Vileišio g.,129000,1743,2,74,4,4
+1415,Žemieji Paneriai,Vaduvos g.,42500,1079,1,39.39,6,6
+1416,Žvėrynas,S. Moniuškos g.,167000,3434,2,48.63,2,3
+1417,Žvėrynas,S. Moniuškos g.,167000,3434,3,48.63,2,3
+1418,Grigiškės,Jaunimo skg.,15000,846,1,17.74,5,5
+1419,Karoliniškės,Dariaus Gerbutavičiaus g.,50000,1429,1,35,8,9
+1420,Senamiestis,Antano Tumėno g.,510000,3400,3,150,17,18
+1421,Žvėrynas,Antano Tumėno g.,510000,3400,3,150,17,18
+1422,Karoliniškės,Sausio 13-osios g.,115000,1616,3,71.17,7,7
+1423,Pašilaičiai,Ukmergės g.,99900,1180,3,84.63,4,6
+1424,Pašilaičiai,Ukmergės g.,99900,1180,2,84.63,4,6
+1425,Senamiestis,Klaipėdos g.,295000,3352,3,88,3,3
+1426,Senamiestis,Klaipėdos g.,295000,3315,3,89,3,3
+1427,Senamiestis,Klaipėdos g.,295000,3352,3,88,3,3
+1428,Naujamiestis,Panerių g.,26500,1205,1,22,2,4
+1429,Senamiestis,Šv. Stepono g.,160000,1975,4,81,3,4
+1430,Senamiestis,Mindaugo g.,296000,3654,3,81,2,5
+1431,Senamiestis,Mindaugo g.,296000,3654,3,81,2,5
+1432,Naujamiestis,Mindaugo g.,296000,3654,3,81,2,5
+1433,Senamiestis,K. Kalinausko g.,183000,3588,2,51,1,8
+1434,Senamiestis,Vokiečių g.,159000,3698,2,43,1,3
+1435,Senamiestis,Ligoninės g.,130000,2407,2,54,1,3
+1436,Senamiestis,Pamėnkalnio g.,159900,2710,2,59,2,4
+1437,Šeškinė,Gelvonų g.,79900,1188,3,67.27,5,5
+1438,Karoliniškės,Laisvės pr.,58500,914,3,64,2,9
+1439,Šnipiškės,Linkmenų g.,192000,2704,2,71,4,6
+1440,Žirmūnai,Tuskulėnų g.,75000,1250,3,60,3,5
+1441,Senamiestis,Teatro g.,299000,2881,3,103.78,2,6
+1442,Žirmūnai,Žirmūnų g.,93000,1453,3,64,9,12
+1443,Baltupiai,Didlaukio g.,72500,1132,3,64.06,3,5
+1444,Šnipiškės,Širvintų g.,69900,1248,3,56,5,5
+1445,Šnipiškės,Kernavės g.,97400,2249,2,43.3,5,8
+1446,Šnipiškės,Kernavės g.,97400,2249,2,43.3,5,8
+1447,Šnipiškės,Kernavės g.,97200,2245,2,43.3,5,8
+1448,Šnipiškės,Kernavės g.,103900,2160,2,48.11,4,8
+1449,Žirmūnai,Kernavės g.,91200,1906,2,47.85,2,8
+1450,Šnipiškės,Kernavės g.,91200,1906,2,47.85,2,8
+1451,Šnipiškės,Kernavės g.,224900,2800,4,80.32,9,9
+1452,Šnipiškės,Kernavės g.,224900,2800,3,80.32,9,9
+1453,Naujininkai,Zanavykų g.,57500,1250,2,46,4,5
+1454,Antakalnis,P. Vileišio g.,300000,3226,3,93,2,5
+1455,Rasos,Rasų g.,207000,3450,2,60,3,3
+1456,Užupis,Polocko g.,200000,2857,2,70,2,4
+1457,Markučiai,Subačiaus g.,22000,1833,1,12,1,5
+1458,Užupis,Polocko g.,279000,3770,2,74,4,4
+1459,Naujoji Vilnia,Parko g.,35900,1282,1,28,5,9
+1460,Senamiestis,A. Rotundo g.,650000,3250,5,200,3,5
+1461,Antakalnis,Šilo g.,169000,2253,3,75,1,5
+1462,Antakalnis,Šilo g.,469000,1763,5,266,2,4
+1463,Burbiškės,Burbiškių g.,111270,1919,3,57.99,1,1
+1464,Antakalnis,Elniakampio g.,67000,1783,2,37.57,1,2
+1465,Burbiškės,Burbiškių g.,162400,1789,4,90.77,3,4
+1466,Burbiškės,Burbiškių g.,105800,2070,2,51.12,2,4
+1467,Burbiškės,Burbiškių g.,105450,2073,2,50.86,2,4
+1468,Fabijoniškės,Salomėjos Nėries g.,99000,1362,3,72.7,5,5
+1469,Bajorai,Bajorų kel.,135900,1571,3,86.5,8,11
+1470,Karoliniškės,Loretos Asanavičiūtės g.,83000,1317,3,63,2,12
+1471,Karoliniškės,Sausio 13-osios g.,115000,1597,2,72,2,7
+1472,Justiniškės,Taikos g.,63000,1016,3,62,9,9
+1473,Senamiestis,Vilniaus g.,239000,2610,2,91.56,4,5
+1474,Senamiestis,Gedimino pr.,239000,2610,4,91.56,4,5
+1475,Senamiestis,Gedimino pr.,239000,2610,3,91.56,4,5
+1476,Senamiestis,Bernardinų g.,250000,2688,3,93,2,3
+1477,Pašilaičiai,Laisvės pr.,69900,1294,2,54,5,5
+1478,Senamiestis,Šv. Stepono g.,119900,2855,2,42,2,3
+1479,Senamiestis,Žygimanto Liauksmino g.,499000,2697,5,185,3,4
+1480,Pilaitė,Sauluvos g.,125000,1250,3,100,2,2
+1481,Pilaitė,Sauluvos g.,125000,1250,4,100,2,2
+1482,Pilaitė,Piliakalnio g.,70000,658,4,106.4,2,3
+1483,Šeškinė,Gelvonų g.,57500,1597,1,36,2,5
+1484,Baltupiai,Baltupio g.,54900,1664,1,33,4,9
+1485,Markučiai,Subačiaus g.,101950,2102,2,48.49,2,3
+1486,Markučiai,Subačiaus g.,101950,2102,2,48.49,2,3
+1487,Senamiestis,J. Basanavičiaus g.,140000,2003,4,69.9,2,2
+1488,Naujamiestis,Smolensko g.,117000,3079,1,38,4,7
+1489,Žvėrynas,Blindžių g.,40000,1107,1,36.15,2,2
+1490,Žvėrynas,Blindžių g.,76000,1013,3,75,2,2
+1491,Pilaitė,Juodkrantės g.,72500,1551,2,46.74,2,5
+1492,Naujamiestis,Naugarduko g.,92000,2448,1,37.58,8,8
+1493,Justiniškės,Justiniškių g.,61000,1220,2,50,1,5
+1494,Justiniškės,Taikos g.,87000,1359,3,64,3,5
+1495,Naujoji Vilnia,Pramonės g.,15700,826,1,19,3,5
+1496,Naujoji Vilnia,Pramonės g.,16000,800,1,20,3,5
+1497,Baltupiai,Jurgio Lebedžio g.,119000,2644,2,45,3,5
+1498,Visoriai,Mykolo Sleževičiaus g.,99500,2185,3,45.54,4,6
+1499,Fabijoniškės,Mykolo Sleževičiaus g.,99500,2185,3,45.54,4,6
+1500,Jeruzalė,Mykolo Sleževičiaus g.,99500,2185,3,45.54,4,6
+1501,Naujoji Vilnia,Pramonės g.,29500,843,2,35,3,5
+1502,Naujininkai,Šaltkalvių g.,26100,1450,1,18,4,5
+1503,Pašilaičiai,Pašilaičių g.,54900,1490,1,36.85,1,9
+1504,Užupis,Manufaktūrų g.,156000,2371,3,65.79,2,6
+1505,Užupis,Manufaktūrų g.,148886,2314,3,64.34,2,6
+1506,Bajorai,Jono Kairiūkščio g.,62500,1240,3,50.4,4,9
+1507,Senamiestis,Šv. Stepono g.,349000,3244,4,107.57,2,2
+1508,Senamiestis,Šv. Stepono g.,349000,3292,4,106,2,2
+1509,Šnipiškės,Lvovo g.,185000,2460,3,75.2,4,7
+1510,Naujininkai,Šaltkalvių g.,38700,1433,1,27,2,9
+1511,Jeruzalė,Kviečių g.,139500,1816,3,76.83,2,4
+1512,Senamiestis,Markučių g.,295000,2149,4,137.27,2,3
+1513,Senamiestis,Markučių g.,295000,2149,5,137.27,2,3
+1514,Užupis,Markučių g.,295000,2149,5,137.27,2,3
+1515,Markučiai,Markučių g.,295000,2149,4,137.27,2,3
+1516,Užupis,Markučių g.,295000,2149,4,137.27,2,3
+1517,Žvėrynas,A. Mickevičiaus g.,135000,2872,2,47,4,4
+1518,Žvėrynas,A. Mickevičiaus g.,202000,2519,3,80.18,4,4
+1519,Naujamiestis,Statybininkų g.,92000,2916,1,31.55,5,5
+1520,Naujamiestis,Mindaugo g.,144900,2200,3,65.86,2,6
+1521,Pilaitė,Priegliaus g.,99400,1744,2,57,7,9
+1522,Šnipiškės,Konstitucijos pr.,241230,2650,3,91.03,14,29
+1523,Šnipiškės,Konstitucijos pr.,241230,2650,3,91.03,14,29
+1524,Naujamiestis,Konstitucijos pr.,241229,2650,3,91.03,14,29
+1525,Šnipiškės,Konstitucijos pr.,241229,2650,3,91.03,14,29
+1526,Šnipiškės,Konstitucijos pr.,241230,2650,3,91.03,14,29
+1527,Šnipiškės,Konstitucijos pr.,241000,2648,3,91,14,29
+1528,Verkiai,Trinapolio g.,297000,2092,4,142,3,3
+1529,Šnipiškės,Rinktinės g.,123000,3417,2,36,4,8
+1530,Šnipiškės,Konstitucijos pr.,142748,2625,2,54.38,10,29
+1531,Šnipiškės,Konstitucijos pr.,142748,2625,2,54.38,10,29
+1532,Šnipiškės,Konstitucijos pr.,142748,2625,2,54.38,10,29
+1533,Antakalnis,Antakalnio g.,89900,2430,1,37,2,8
+1534,Šnipiškės,Daugėliškio g.,114000,2176,2,52.4,9,11
+1535,Lazdynai,Žėručio g.,68000,1478,2,46,5,5
+1536,Senamiestis,Kruopų g.,125000,2363,2,52.9,3,4
+1537,Baltupiai,Baltupio g.,79999,1359,2,58.87,1,5
+1538,Jeruzalė,Baltupio g.,79999,1359,2,58.87,1,5
+1539,Pašilaičiai,Pašilaičių g.,93500,1355,3,69,3,9
+1540,Šnipiškės,Kalvarijų g.,109000,1627,3,67,2,5
+1541,Viršuliškės,Laisvės pr.,72000,1418,2,50.79,3,5
+1542,Šeškinė,Laisvės pr.,72000,1418,2,50.79,3,5
+1543,Pilaitė,Čekoniškių g.,125000,1256,4,99.54,1,2
+1544,Pilaitė,Varnės g.,93000,979,4,95,2,2
+1545,Šeškinė,Dūkštų g.,45000,1295,1,34.75,1,5
+1546,Antakalnis,Bistryčios g.,112554,2235,2,50.35,1,4
+1547,Antakalnis,V. Grybo g.,112554,2247,2,50.1,1,4
+1548,Baltupiai,Baltupio g.,35000,1214,1,28.84,10,12
+1549,Žirmūnai,Žirmūnų g.,139900,1503,4,93.08,4,4
+1550,Žirmūnai,Žirmūnų g.,139900,1503,4,93.08,4,4
+1551,Pašilaičiai,Gabijos g.,95000,1829,2,51.95,3,5
+1552,Pašilaičiai,Gabijos g.,95000,1829,2,51.95,3,5
+1553,Jeruzalė,Bitininkų g.,99200,1253,2,79.18,1,6
+1554,Žirmūnai,Žirmūnų g.,89500,1444,3,62,2,5
+1555,Paneriai,Kanuto Rusecko g.,151900,1484,4,102.37,2,2
+1556,Šnipiškės,Daugėliškio g.,110000,2131,3,51.62,2,6
+1557,Šnipiškės,Kernavės g.,88000,2475,1,35.55,5,6
+1558,Šnipiškės,Kernavės g.,88000,2475,1,35.55,5,6
+1559,Šnipiškės,Kernavės g.,155000,1855,4,83.57,2,6
+1560,Senamiestis,Suvalkų g.,39900,2102,1,18.98,1,3
+1561,Senamiestis,Suvalkų g.,38900,2262,1,17.2,1,3
+1562,Senamiestis,Suvalkų g.,85900,1820,2,47.2,1,3
+1563,Užupis,Kreivasis skg.,342500,3325,4,103.01,2,4
+1564,Užupis,Kreivasis skg.,144100,3232,2,44.59,2,4
+1565,Užupis,Kreivasis skg.,149000,2163,3,68.9,1,3
+1566,Šnipiškės,Lvovo g.,81500,2401,2,33.95,3,6
+1567,Šnipiškės,Lvovo g.,133900,1950,3,68.67,2,3
+1568,Užupis,Kreivasis skg.,125800,2650,2,47.48,2,4
+1569,Šnipiškės,Lvovo g.,118500,1950,3,60.76,2,6
+1570,Šnipiškės,Lvovo g.,108200,2151,3,50.3,2,6
+1571,Šnipiškės,Lvovo g.,82300,1850,2,44.48,2,6
+1572,Senamiestis,Sodų g.,83500,1518,3,55,1,4
+1573,Senamiestis,Plačioji g.,184600,2991,3,61.72,2,2
+1574,Pilaitė,Tolminkiemio g.,87000,1933,2,45,4,4
+1575,Jeruzalė,Kviečių g.,83840,1620,2,51.75,3,4
+1576,Pilaitė,Tolminkiemio g.,91000,1507,3,60.4,2,4
+1577,Markučiai,Manufaktūrų g.,82000,2228,1,36.8,2,5
+1578,Pilaitė,Nidos g.,220000,1789,5,123,9,9
+1579,Pilaitė,Tolminkiemio g.,109000,1841,2,59.2,2,5
+1580,Pilaitė,Tolminkiemio g.,117500,1328,4,88.5,1,4
+1581,Pilaitė,Tolminkiemio g.,125000,1822,3,68.6,1,5
+1582,Markučiai,Manufaktūrų g.,199500,2530,3,78.86,1,4
+1583,Pilaitė,Tolminkiemio g.,121000,1842,3,65.7,1,4
+1584,Naujamiestis,Kauno g.,129990,1757,2,74,3,3
+1585,Naujamiestis,Smolensko g.,129990,1757,3,74,3,3
+1586,Užupis,Užupio g.,150000,2474,2,60.63,1,3
+1587,Antavilis,J. Biliūno g.,95000,633,4,150,2,3
+1588,Viršuliškės,Viršuliškių g.,120000,1477,4,81.22,5,7
+1589,Naujamiestis,Gerosios Vilties g.,78500,1644,2,47.75,3,5
+1590,Naujamiestis,Gerosios Vilties g.,77500,1623,2,47.75,3,5
+1591,Lazdynėliai,Jonažolių g.,135000,1849,3,73,3,8
+1592,Šnipiškės,Lvovo g.,135000,2045,2,66,4,5
+1593,Naujamiestis,Žemaitės g.,42900,2043,1,21,7,9
+1594,Naujamiestis,Aludarių g.,299000,1777,2,168.24,3,3
+1595,Šnipiškės,Kernavės g.,121000,1932,3,62.62,1,6
+1596,Senamiestis,Kauno g.,109000,1648,2,66.16,5,6
+1597,Naujamiestis,Kauno g.,109000,1648,2,66.16,5,6
+1598,Saulėtekis,Saulėtekio al.,168000,2025,2,82.98,3,4
+1599,Antakalnis,Saulėtekio al.,168000,2025,3,82.98,3,4
+1600,Karoliniškės,Rolando Jankausko g.,52500,1610,1,32.6,5,12
+1601,Šnipiškės,Daugėliškio g.,86000,2549,2,33.74,6,7
+1602,Šnipiškės,Kernavės g.,180000,1721,5,104.6,2,6
+1603,Žirmūnai,Žirmūnų g.,73000,1521,2,48,3,5
+1604,Karoliniškės,Rolando Jankausko g.,78000,1625,2,48,3,5
+1605,Justiniškės,Talino g.,101000,1840,3,54.88,2,5
+1606,Valakampiai,Nugalėtojų g.,332000,2653,3,125.12,3,3
+1607,Antakalnis,Nugalėtojų g.,332000,2653,3,125.12,3,3
+1608,Žirmūnai,Žirmūnų g.,64000,1456,2,43.95,5,5
+1609,Jeruzalė,Kviečių g.,97950,1620,2,60.46,3,4
+1610,Pašilaičiai,Ukmergės g.,95000,1578,2,60.22,3,6
+1611,Fabijoniškės,Gedvydžių g.,54900,1391,1,39.47,5,5
+1612,Antakalnis,Žirgo g.,170000,2000,3,85,4,20
+1613,Užupis,Manufaktūrų g.,115362,1800,3,64.09,2,6
+1614,Užupis,Manufaktūrų g.,106711,2358,2,45.25,2,6
+1615,Užupis,Manufaktūrų g.,83349,2351,1,35.45,3,6
+1616,Užupis,Manufaktūrų g.,130967,2428,2,53.94,2,6
+1617,Pavilnys,Džiaugsmo g.,17500,845,1,20.7,1,1
+1618,Pilaitė,Valtarkiemio g.,78800,1511,2,52.14,1,5
+1619,Pilaitė,Juodkrantės g.,91600,1788,2,51.23,1,5
+1620,Pilaitė,M. Mažvydo g.,93500,1818,2,51.44,1,5
+1621,Bajorai,Mokyklos g.,31000,1824,1,17,3,5
+1622,Viršuliškės,Viršilų g.,115000,1797,2,64,9,23
+1623,Pilaitė,Papilėnų g.,84900,1213,3,70,8,9
+1624,Žirmūnai,Žirmūnų g.,66000,1415,2,46.63,5,5
+1625,Naujamiestis,Kauno g.,49500,2912,1,17,4,4
+1626,Naujamiestis,K. Kalinausko g.,183500,3462,3,53,4,6
+1627,Senamiestis,K. Kalinausko g.,183500,3462,3,53,4,6
+1628,Antakalnis,Žolyno g.,195000,1709,4,114.09,3,6
+1629,Pilaitė,Įsruties g.,82500,1171,3,70.45,5,9
+1630,Pilaitė,Įsruties g.,84000,1217,3,69,5,9
+1631,Viršuliškės,Viršuliškių g.,72500,1133,3,64,5,9
+1632,Šnipiškės,Kintų g.,100000,2272,2,44.02,6,7
+1633,Bajorai,Bičiulių g.,49000,1400,2,35,3,5
+1634,Antakalnis,Kanklių g.,109900,2442,2,45,2,5
+1635,Šiaurės miestelis,Juozo Balčikonio g.,175000,2333,3,75,2,5
+1636,Baltupiai,Juozo Balčikonio g.,175000,2333,3,75,2,5
+1637,Šnipiškės,Rinktinės g.,227000,4729,2,48,4,5
+1638,Viršuliškės,Viršuliškių g.,45500,1379,1,33,6,9
+1639,Senamiestis,Plačioji g.,170000,2500,3,68,3,3
+1640,Pašilaičiai,Medeinos g.,83000,1250,3,66.42,1,9
+1641,Šnipiškės,Piromonto g.,145500,2466,3,59,1,9
+1642,Santariškės,Santariškių g.,172000,2646,3,65,1,3
+1643,Senamiestis,Tilto g.,1053000,3250,8,324,3,3
+1644,Senamiestis,M. Antokolskio g.,117500,4352,1,27,2,3
+1645,Karoliniškės,Algimanto Petro Kavoliuko g.,67500,1761,2,38.34,4,5
+1646,Verkiai,Verkių g.,333200,3400,3,98,2,3
+1647,Žvėrynas,Pieninės g.,124400,2701,2,46.06,2,5
+1648,Žvėrynas,Birutės g.,212567,4724,2,45,2,3
+1649,Žvėrynas,Birutės g.,881454,5037,5,175,3,3
+1650,Šnipiškės,Konstitucijos pr.,236778,2650,4,89.35,14,29
+1651,Naujamiestis,Konstitucijos pr.,236778,2650,4,89.35,14,29
+1652,Senamiestis,Gedimino pr.,430000,3805,3,113,4,4
+1653,Naujamiestis,Gedimino pr.,430000,3805,3,113,4,4
+1654,Naujamiestis,Konstitucijos pr.,138710,2600,2,53.35,13,19
+1655,Žirmūnai,Apkasų g.,49900,1919,1,26,4,5
+1656,Žirmūnai,Apkasų g.,49900,1921,1,25.97,4,5
+1657,Naujamiestis,Konstitucijos pr.,358092,4200,3,85.26,18,29
+1658,Šnipiškės,Konstitucijos pr.,358092,4200,3,85.26,18,29
+1659,Senamiestis,Konstitucijos pr.,358092,4200,3,85.26,18,29
+1660,Naujamiestis,Smolensko g.,132000,3667,2,36,1,7
+1661,Šnipiškės,Konstitucijos pr.,208657,2350,4,88.79,7,29
+1662,Naujamiestis,Konstitucijos pr.,208657,2350,4,88.79,7,29
+1663,Naujamiestis,Konstitucijos pr.,492137,3700,4,133,21,29
+1664,Naujamiestis,Konstitucijos pr.,540160,4001,4,135,16,16
+1665,Naujamiestis,Konstitucijos pr.,691458,3399,4,203.4,17,19
+1666,Karoliniškės,Sausio 13-osios g.,439000,1412,6,311,1,2
+1667,Antakalnis,V. Grybo g.,23500,1306,1,18,5,5
+1668,Šnipiškės,Konstitucijos pr.,143000,3531,2,40.5,7,29
+1669,Naujamiestis,Kedrų g.,54000,2571,1,21,3,5
+1670,Naujamiestis,S. Konarskio g.,46000,2875,1,16,2,5
+1671,Naujamiestis,Kedrų g.,52000,2600,1,20,2,5
+1672,Naujamiestis,Savanorių pr.,40000,2222,1,18,1,5
+1673,Bajorai,Bendorių g.,133000,1426,4,93.3,2,3
+1674,Bendorių k.,"
+",133000,1429,4,93.1,2,3
+1675,Antakalnis,P. Vileišio g.,134000,2577,2,52,3,4
+1676,Senamiestis,Vašingtono a.,267000,2405,4,111,6,6
+1677,Senamiestis,Vašingtono a.,173000,2403,2,72,6,6
+1678,Jeruzalė,Kviečių g.,83620,1640,2,50.99,4,6
+1679,Naujamiestis,Z. Sierakausko g.,531875,3700,4,143.75,4,4
+1680,Žvėrynas,Birutės g.,39000,1560,1,25,4,5
+1681,Pilaitė,Gilužio g.,110000,1358,3,81,2,6
+1682,Antakalnis,Pylimėlių g.,229000,2404,4,95.26,2,4
+1683,Pašilaičiai,Gabijos g.,89900,1720,2,52.26,2,7
+1684,Žvėrynas,Stirnų g.,225000,2228,3,101,1,4
+1685,Šnipiškės,Kernavės g.,105000,2614,2,40.17,6,8
+1686,Šnipiškės,Kernavės g.,101200,2101,2,48.17,3,8
+1687,Šnipiškės,Kernavės g.,105900,2030,2,52.17,2,8
+1688,Senamiestis,J. Basanavičiaus g.,285000,4071,2,70,1,2
+1689,Pašilaičiai,Perkūnkiemio g.,80000,1359,2,58.85,9,12
+1690,Senamiestis,V. Šopeno g.,124000,3062,2,40.5,1,2
+1691,Pilaitė,Gilužio g.,77900,1731,2,45,4,4
+1692,Pilaitė,Gilužio g.,77900,1731,2,45,3,4
+1693,Naujoji Vilnia,Pramonės g.,27550,950,1,29,4,4
+1694,Naujoji Vilnia,Pramonės g.,28900,1014,1,28.5,4,4
+1695,Naujoji Vilnia,Pramonės g.,28500,950,1,30,4,4
+1696,Naujoji Vilnia,Pramonės g.,27550,950,1,29,4,4
+1697,Naujoji Vilnia,Pramonės g.,25500,911,1,28,4,4
+1698,Pašilaičiai,Bieliūnų g.,72000,1075,3,67,2,9
+1699,Naujamiestis,S. Konarskio g.,79000,1386,3,57,4,5
+1700,Senamiestis,Vingrių g.,149000,2569,2,58,2,3
+1701,Antakalnis,Rato g.,118000,2807,2,42.04,1,3
+1702,Valakampiai,Rato g.,118000,2807,2,42.04,1,3
+1703,Šiaurės miestelis,S. Žukausko g.,148000,1897,3,78,5,8
+1704,Jeruzalė,Rugių g.,98500,1666,2,59.11,5,5
+1705,Karoliniškės,Sausio 13-osios g.,79500,1541,2,51.6,6,7
+1706,Antakalnis,Bistryčios g.,168812,2378,3,71,2,4
+1707,Senamiestis,Aguonų g.,332766,4200,3,79.23,5,6
+1708,Jeruzalė,Rugių g.,145000,1526,4,95,5,6
+1709,Naujoji Vilnia,Draugystės g.,79900,496,4,161,1,2
+1710,Žvėrynas,Kęstučio g.,56000,1716,1,32.63,2,2
+1711,Jeruzalė,Kviečių g.,85180,1630,2,52.26,3,6
+1712,Antakalnis,Volungės g.,75000,1594,2,47.05,5,5
+1713,Šiaurės miestelis,Apkasų g.,75000,1667,2,45,2,5
+1714,Šnipiškės,Apkasų g.,75000,1667,2,45,2,5
+1715,Žirmūnai,Apkasų g.,75000,1667,2,45,2,5
+1716,Lazdynai,Žėručio g.,51900,1578,1,32.89,3,5
+1717,Lazdynai,Žėručio g.,51900,1578,1,32.89,3,5
+1718,Šeškinė,Paberžės g.,73000,1431,2,51,3,9
+1719,Viršuliškės,Viršuliškių g.,49900,1721,1,29,6,7
+1720,Baltupiai,Rugių g.,295000,1710,5,172.54,2,3
+1721,Jeruzalė,Rugių g.,295000,1710,5,172.54,2,3
+1722,Užupis,Krivių g.,165000,2685,3,61.46,1,3
+1723,Užupis,Krivių g.,165000,2685,2,61.46,1,3
+1724,Naujoji Vilnia,Parko g.,31500,1016,1,31,2,3
+1725,Verkiai,Verkių g.,349000,3436,3,101.58,3,3
+1726,Antakalnis,Švyturio g.,89900,1550,3,58,3,5
+1727,Fabijoniškės,S. Stanevičiaus g.,79500,1282,3,62,2,5
+1728,Burbiškės,Burbiškių g.,110000,1833,2,60,2,4
+1729,Bajorai,Bajorų kel.,135000,1578,3,85.56,3,10
+1730,Žvėrynas,Paribio g.,114000,1966,2,58,2,4
+1731,Senamiestis,Išganytojo g.,570000,3081,6,185,3,3
+1732,Senamiestis,Savičiaus g.,450000,3947,5,114,1,3
+1733,Užupis,Baltasis skg.,150000,3000,2,50,1,2
+1734,Užupis,Polocko g.,144000,2400,2,60,1,4
+1735,Užupis,Polocko g.,144000,2400,2,60,1,4
+1736,Fabijoniškės,S. Stanevičiaus g.,55000,1720,1,31.97,3,5
+1737,Naujamiestis,Žemaitės g.,84000,2947,1,28.5,8,9
+1738,Saulėtekis,Pylimėlių g.,189000,1601,3,118.06,2,3
+1739,Antakalnis,Pylimėlių g.,189000,1601,3,118.06,2,3
+1740,Šeškinė,Šeškinės Sodų g.,69500,1910,2,36.39,2,4
+1741,Antakalnis,Antakalnio g.,78000,1857,2,42,3,5
+1742,Antakalnis,Antakalnio g.,78000,1857,2,42,3,5
+1743,Pilaitė,Priegliaus g.,108000,1714,3,63,1,7
+1744,Naujamiestis,A. Goštauto g.,122000,3167,1,38.52,3,5
+1745,Pašilaičiai,Perkūnkiemio g.,99000,1584,2,62.5,7,9
+1746,Senamiestis,Pamėnkalnio g.,199900,2499,4,80,3,4
+1747,Naujoji Vilnia,Darželio g.,16900,1323,1,12.77,1,5
+1748,Senamiestis,Gedimino pr.,99000,3094,1,32,3,5
+1749,Naujamiestis,Gedimino pr.,93000,2906,1,32,3,5
+1750,Senamiestis,Gedimino pr.,99000,3094,1,32,3,5
+1751,Pilaitė,Pilkalnio g.,109000,2096,3,52,2,4
+1752,Senamiestis,Teatro g.,499000,3235,4,154.24,2,5
+1753,Karoliniškės,Spaudos g.,61000,2176,1,28.03,13,16
+1754,Viršuliškės,Spaudos g.,79800,1815,2,43.96,10,16
+1755,Senamiestis,Vašingtono a.,195000,3095,2,63,3,6
+1756,Antakalnis,Vytauto Žalakevičiaus g.,135000,2721,2,49.61,1,6
+1757,Viršuliškės,Spaudos g.,72700,1659,2,43.81,5,16
+1758,Senamiestis,Gedimino pr.,230000,2170,4,106,5,6
+1759,Naujamiestis,Gedimino pr.,230000,2170,4,106,5,6
+1760,Lazdynai,Architektų g.,60000,1200,3,50,1,12
+1761,Pilaitė,Vydūno g.,110000,2075,3,53,9,9
+1762,Justiniškės,Taikos g.,118500,1749,3,67.76,1,4
+1763,Justiniškės,Taikos g.,82500,1739,2,47.44,2,4
+1764,Justiniškės,Taikos g.,112000,1710,4,65.49,4,4
+1765,Justiniškės,Taikos g.,51500,1731,1,29.76,1,4
+1766,Justiniškės,Taikos g.,49990,1680,1,29.76,1,4
+1767,Justiniškės,Taikos g.,100750,1770,3,56.92,3,4
+1768,Jeruzalė,Kviečių g.,98000,1892,2,51.79,2,4
+1769,Žvėrynas,Lapių g.,465876,3600,4,129.41,4,4
+1770,Naujamiestis,Pamėnkalnio g.,153000,2250,3,68,1,2
+1771,Pilaitė,Vydūno g.,69900,1384,2,50.5,5,9
+1772,Žvėrynas,Saltoniškių g.,94000,2686,1,35,6,10
+1773,Žvėrynas,Saltoniškių g.,134500,2280,2,59,2,10
+1774,Antakalnis,V. Grybo g.,168812,2061,3,81.9,1,4
+1775,Senamiestis,Gedimino pr.,157300,2700,3,58.25,4,4
+1776,Antakalnis,Pasakų g.,395000,4938,3,80,2,2
+1777,Valakampiai,Pasakų g.,395000,4938,3,80,2,2
+1778,Antakalnis,V. Grybo g.,169700,2424,3,70,2,4
+1779,Antakalnis,Pasakų g.,360000,4500,3,80,2,2
+1780,Šnipiškės,Kalvarijų g.,250000,2252,5,111,5,5
+1781,Naujamiestis,Statybininkų g.,83800,2465,1,34,5,5
+1782,Šeškinė,Musninkų g.,86500,1291,3,67,2,5
+1783,Senamiestis,Gėlių g.,299000,2875,3,104,2,2
+1784,Pilaitė,Priegliaus g.,109969,1669,2,65.89,1,8
+1785,Pilaitė,Priegliaus g.,109969,1669,2,65.89,1,8
+1786,Senamiestis,Vokiečių g.,310000,3690,4,84,5,5
+1787,Užupis,Malūnų g.,308750,3581,4,86.22,3,3
+1788,Užupis,Malūnų g.,183780,3335,3,55.1,2,3
+1789,Užupis,Malūnų g.,176000,4290,2,41.03,2,3
+1790,Trakų Vokė,Liudvinavo g.,25000,460,2,54.3,1,1
+1791,Žirmūnai,Kalvarijų g.,155000,2313,4,67,4,8
+1792,Šnipiškės,Kalvarijų g.,159000,2373,3,67,4,8
+1793,Senamiestis,Šv. Stepono g.,315000,2405,4,131,1,5
+1794,Naujamiestis,Savanorių pr.,130000,2500,2,52,6,11
+1795,Pilaitė,I. Simonaitytės g.,133000,2136,2,62.28,3,4
+1796,Viršuliškės,Viršilų g.,115000,1630,2,70.55,4,23
+1797,Viršuliškės,Viršilų g.,115000,1630,3,70.55,4,23
+1798,Žirmūnai,Rinktinės g.,73300,1879,2,39,3,4
+1799,Pilaitė,Bitėnų g.,79900,1776,2,45,3,4
+1800,Pilaitė,Bitėnų g.,79900,1776,2,45,3,4
+1801,Pilaitė,Bitėnų g.,79900,1776,2,45,3,4
+1802,Žvėrynas,Vytauto g.,395000,2926,4,135,3,3
+1803,Žvėrynas,Sėlių g.,99000,1962,2,50.47,5,5
+1804,Senamiestis,Didžioji g.,310000,3483,3,89,3,4
+1805,Pašilaičiai,Pavilnionių g.,63900,1997,1,32,4,5
+1806,Pašilaičiai,Pavilnionių g.,63900,1997,1,32,4,5
+1807,Senamiestis,Subačiaus g.,599000,3993,4,150,4,4
+1808,Žvėrynas,Lapių g.,174145,2900,3,60.05,1,4
+1809,Šiaurės miestelis,Žygio g.,99500,1973,2,50.44,5,6
+1810,Naujininkai,Panevėžio g.,85500,1449,3,59,1,4
+1811,Senamiestis,Šiaulių g.,189000,2662,3,71,1,3
+1812,Naujamiestis,Gerosios Vilties g.,87000,1851,2,47,3,6
+1813,Antakalnis,Pylimėlių g.,89300,1839,3,48.55,2,3
+1814,Saulėtekis,Pylimėlių g.,89300,1825,3,48.94,2,3
+1815,Antakalnis,Pylimėlių g.,68700,1858,2,36.98,1,3
+1816,Antakalnis,Pylimėlių g.,69800,1888,2,36.98,1,3
+1817,Naujamiestis,M. K. Čiurlionio g.,259000,2616,4,99,7,8
+1818,Pilaitė,I. Simonaitytės g.,83000,1836,2,45.2,2,4
+1819,Žirmūnai,Žirmūnų g.,63500,2193,1,28.96,5,5
+1820,Naujininkai,Burbiškių g.,87000,2108,2,41.27,1,3
+1821,Burbiškės,Burbiškių g.,87000,2108,2,41.27,1,3
+1822,Vilkpėdė,Burbiškių g.,87000,2108,2,41.27,1,3
+1823,Pašilaičiai,Leičių g.,78911,1642,2,48.07,8,9
+1824,Naujamiestis,Birželio 23-iosios g.,145900,2022,3,72.15,8,9
+1825,Šiaurės miestelis,J. Kubiliaus g.,89000,2023,2,44,7,8
+1826,Senamiestis,Švitrigailos g.,115900,2825,2,41.03,3,7
+1827,Naujamiestis,Kauno g.,115900,2825,2,41.03,3,7
+1828,Naujamiestis,Vytenio g.,115900,2825,2,41.03,3,7
+1829,Naujamiestis,Naugarduko g.,115000,1885,3,61,2,2
+1830,Naujamiestis,Statybininkų g.,142500,2603,3,54.74,6,9
+1831,Užupis,Filaretų g.,230000,2346,3,98.02,8,8
+1832,Užupis,Filaretų g.,240000,2500,3,96,8,8
+1833,Markučiai,Filaretų g.,230000,2346,3,98.02,8,8
+1834,Kirtimai,Meistrų g.,19500,1258,1,15.5,3,5
+1835,Lazdynai,Lazdynų g.,67500,1534,2,44,1,3
+1836,Justiniškės,Taikos g.,89500,1336,3,67,5,5
+1837,Senamiestis,Olimpiečių g.,370000,2824,4,131,5,6
+1838,Žirmūnai,Tuskulėnų g.,89800,1920,2,46.76,1,5
+1839,Viršuliškės,Viršuliškių g.,69000,1522,2,45.34,5,7
+1840,Jeruzalė,Bitininkų g.,112000,1867,2,60,2,10
+1841,Naujoji Vilnia,Pramonės g.,25600,1280,1,20,3,4
+1842,Naujoji Vilnia,Pramonės g.,24000,1200,1,20,3,4
+1843,Antakalnis,P. Vileišio g.,189900,2363,3,80.35,1,5
+1844,Senamiestis,Aušros Vartų g.,70500,2611,1,27,4,4
+1845,Justiniškės,Taikos g.,85000,1371,3,62,4,9
+1846,Pašilaičiai,Jurgio Baltrušaičio g.,119500,1106,4,108,5,6
+1847,Šnipiškės,Kintų g.,130000,2518,3,51.62,2,7
+1848,Šnipiškės,Daugėliškio g.,175000,2060,4,84.96,6,6
+1849,Naujamiestis,Gedimino pr.,511300,4456,4,114.74,3,5
+1850,Naujamiestis,Gedimino pr.,699000,5974,3,117,5,5
+1851,Šeškinė,Siesikų g.,161900,2211,4,73.22,7,9
+1852,Bajorai,Fizikų g.,78500,1835,2,42.77,3,5
+1853,Šnipiškės,Kalvarijų g.,49000,1730,2,28.32,3,4
+1854,Jeruzalė,Kviečių g.,125250,1630,3,76.84,3,4
+1855,Naujamiestis,Birželio 23-iosios g.,170500,2353,3,72.45,3,9
+1856,Naujamiestis,Birželio 23-iosios g.,87000,2432,1,35.77,2,9
+1857,Naujamiestis,Birželio 23-iosios g.,137000,2522,2,54.33,2,9
+1858,Žvėrynas,Lūšių g.,217000,1938,4,112,1,4
+1859,Pilaitė,I. Kanto al.,81000,1157,3,70,9,9
+1860,Pilaitė,I. Kanto al.,81000,1157,3,70,9,9
+1861,Šiaurės miestelis,Žirmūnų g.,54800,1827,1,30,2,9
+1862,Bajorai,Fizikų g.,97020,1990,2,48.75,2,5
+1863,Pašilaičiai,Leičių g.,85600,1614,2,53.03,6,9
+1864,Žirmūnai,Tuskulėnų g.,84700,1715,2,49.39,4,9
+1865,Šnipiškės,Apkasų g.,64500,1402,2,46,5,5
+1866,Šeškinė,Ozo g.,101000,1965,2,51.4,3,5
+1867,Lazdynėliai,Lazdynėlių g.,99000,1814,3,54.58,2,4
+1868,Pilaitė,Gilužio g.,76000,1532,2,49.62,2,3
+1869,Šeškinė,Ozo g.,91000,1847,2,49.26,1,5
+1870,Senamiestis,Krivūlės g.,154420,2608,3,59.21,2,4
+1871,Užupis,Krivūlės g.,154420,2608,3,59.21,2,4
+1872,Valakampiai,Rato g.,220000,2981,3,73.79,2,3
+1873,Antakalnis,Nemenčinės pl.,230000,3109,3,73.97,2,3
+1874,Antakalnis,Nemenčinės pl.,220000,2981,3,73.79,2,3
+1875,Lazdynėliai,Neužmirštuolių g.,180000,1169,5,154,2,3
+1876,Šnipiškės,Kalvarijų g.,59000,1769,2,33.35,3,4
+1877,Lazdynėliai,Lazdynėlių g.,75000,1563,2,48,2,4
+1878,Pilaitė,Karaliaučiaus g.,87000,2122,2,41,3,4
+1879,Pilaitė,Bitėnų g.,87000,2122,2,41,3,4
+1880,Antakalnis,Antakalnio g.,113767,2290,2,49.68,3,3
+1881,Verkiai,Žvorūnos g.,125000,1214,4,103,1,2
+1882,Balsiai,Žvorūnos g.,125000,1214,4,103,1,2
+1883,Karoliniškės,Loretos Asanavičiūtės g.,95000,1338,3,71,9,9
+1884,Karoliniškės,Loretos Asanavičiūtės g.,95000,1338,3,71,9,9
+1885,Lazdynėliai,Jonažolių g.,185000,1869,4,99,3,9
+1886,Pilaitė,Gilužio g.,103000,1707,3,60.35,2,3
+1887,Pilaitė,Gilužio g.,60000,1649,1,36.38,3,3
+1888,Lazdynėliai,Lazdynėlių g.,109000,1683,3,64.75,3,4
+1889,Lazdynėliai,Lazdynėlių g.,73000,1741,2,41.93,3,4
+1890,Lazdynai,Kazimiero Jelskio g.,179000,3355,2,53.35,1,4
+1891,Fabijoniškės,P. Žadeikos g.,113000,1282,4,88.15,8,13
+1892,Pašilaičiai,Pavilnionių g.,79900,2062,2,38.75,4,5
+1893,Antakalnis,Žirgo g.,93000,1329,3,70,2,2
+1894,Antakalnis,Žirgo g.,93000,1348,3,69,2,2
+1895,Šiaurės miestelis,S. Žukausko g.,115000,1500,3,76.69,2,8
+1896,Žirmūnai,S. Žukausko g.,115000,1500,3,76.69,2,8
+1897,Pilaitė,Gilužio g.,99000,1640,3,60.35,2,3
+1898,Antakalnis,Filaretų g.,99000,919,3,107.72,4,4
+1899,Žirmūnai,Raitininkų g.,130000,2515,2,51.7,6,7
+1900,Naujamiestis,V. Pietario g.,22500,1250,1,18,2,5
+1901,Grigiškės,Vilniaus g.,55000,1310,2,42,1,3
+1902,Pilaitė,Priegliaus g.,93900,1764,2,53.22,7,9
+1903,Žirmūnai,Raitininkų g.,151000,3643,2,41.45,3,7
+1904,Antakalnis,Rato g.,118000,2807,2,42.04,1,3
+1905,Valakampiai,Rato g.,118000,2807,2,42.04,1,3
+1906,Fabijoniškės,Fabijoniškių g.,72900,1429,2,51,6,9
+1907,Naujamiestis,Švitrigailos g.,43500,2559,1,17,4,4
+1908,Žvėrynas,Latvių g.,285000,4655,2,61.23,4,4
+1909,Senamiestis,Labdarių g.,630000,3990,5,157.9,5,5
+1910,Naujamiestis,T. Ševčenkos g.,149000,1774,2,84,2,6
+1911,Rasos,Birbynių g.,75000,1479,3,50.7,2,2
+1912,Jeruzalė,Kviečių g.,135810,1800,3,75.45,4,4
+1913,Santariškės,Santariškių g.,165000,2577,3,64.02,1,3
+1914,Šeškinė,Dūkštų g.,63000,1251,2,50.35,6,9
+1915,Baltupiai,Didlaukio g.,50100,1625,1,30.83,2,6
+1916,Baltupiai,Didlaukio g.,56200,1399,2,40.16,2,6
+1917,Baltupiai,Didlaukio g.,56200,1400,2,40.13,2,6
+1918,Jeruzalė,Didlaukio g.,63900,1591,1,40.16,2,6
+1919,Pašilaičiai,Perkūnkiemio g.,99000,1731,3,57.18,9,9
+1920,Valakampiai,Balžio g.,220000,1849,3,119,2,2
+1921,Antakalnis,Balžio g.,220000,1849,3,119,2,2
+1922,Naujamiestis,M. K. Čiurlionio g.,144000,2214,3,65.05,1,1
+1923,Naujamiestis,Brolių g.,130000,1857,3,70,1,2
+1924,Naujininkai,Brolių g.,130000,1857,3,70,1,2
+1925,Justiniškės,Laisvės pr.,115000,1371,4,83.86,2,5
+1926,Antakalnis,Turniškių g.,210000,3443,2,61,2,3
+1927,Valakampiai,Turniškių g.,210000,3443,2,61,2,3
+1928,Šnipiškės,Giedraičių g.,215000,2263,4,95,4,4
+1929,Lazdynai,Kazimiero Jelskio g.,300000,2793,2,107.4,4,4
+1930,Šnipiškės,Giedraičių g.,119000,1890,3,62.96,1,4
+1931,Šnipiškės,Giedraičių g.,81900,1569,2,52.2,1,4
+1932,Justiniškės,Rygos g.,83000,1235,3,67.2,3,9
+1933,Naujamiestis,S. Konarskio g.,73000,1659,2,44,3,5
+1934,Antakalnis,Švyturio g.,56000,1747,1,32.05,4,5
+1935,Pašilaičiai,Leičių g.,78900,1643,2,48.01,8,9
+1936,Antakalnis,Duburio g.,66000,1315,2,50.18,4,4
+1937,Užupis,Olandų g.,87000,2613,2,33.3,2,6
+1938,Senamiestis,Šv. Mykolo g.,495000,2912,5,170,2,2
+1939,Šnipiškės,Linkmenų g.,130700,1637,4,79.86,1,9
+1940,Šnipiškės,Linkmenų g.,110900,1900,3,58.36,7,9
+1941,Naujoji Vilnia,Pergalės g.,16000,1000,1,16,4,4
+1942,Naujamiestis,A. Jakšto g.,147000,3642,2,40.36,3,6
+1943,Turniškės,Turniškių g.,99000,1725,3,57.4,3,3
+1944,Šiaurės miestelis,Kazimiero Ladygos g.,103000,1907,2,54,2,9
+1945,Šnipiškės,Giedraičių g.,99950,1973,2,50.66,9,9
+1946,Šnipiškės,Giedraičių g.,99950,1973,2,50.66,9,9
+1947,Šnipiškės,Giedraičių g.,75000,2340,1,32.05,8,10
+1948,Šnipiškės,Giedraičių g.,75000,2305,1,32.54,8,10
+1949,Šeškinė,Musninkų g.,56000,1556,1,36,1,5
+1950,Naujamiestis,Naugarduko g.,49000,975,2,50.25,1,1
+1951,Užupis,Olandų g.,110000,2397,2,45.9,3,5
+1952,Baltupiai,Didlaukio g.,67700,1816,2,37.29,2,6
+1953,Baltupiai,Didlaukio g.,46200,1642,1,28.14,2,6
+1954,Justiniškės,Taikos g.,83000,1239,3,67,3,5
+1955,Verkiai,Žaliųjų Ežerų g.,64900,1336,2,48.58,6,8
+1956,Antakalnis,Duburio g.,70722,1310,2,54,2,4
+1957,Antakalnis,Svajonių g.,139000,1853,2,75,1,3
+1958,Antakalnis,K. Semenavičiaus g.,169000,2045,3,82.63,2,3
+1959,Antakalnis,K. Semenavičiaus g.,169000,2045,4,82.63,2,3
+1960,Naujamiestis,Žemaitės g.,57000,2375,1,24,2,5
+1961,Šnipiškės,Kintų g.,150000,1987,4,75.5,5,6
+1962,Šnipiškės,Kernavės g.,90000,2166,2,41.56,1,6
+1963,Naujamiestis,Savanorių pr.,50000,2778,1,18,2,5
+1964,Naujamiestis,Kedrų g.,50000,2778,1,18,2,5
+1965,Užupis,Paupio g.,125000,2598,2,48.12,2,3
+1966,Naujamiestis,S. Konarskio g.,130000,2500,2,52,2,9
+1967,Senamiestis,M. K. Čiurlionio g.,840000,4000,6,210,3,3
+1968,Naujamiestis,M. K. Čiurlionio g.,840000,4000,6,210,3,3
+1969,Senamiestis,Šiaulių g.,1849000,9386,4,197,3,3
+1970,Žirmūnai,Trinapolio g.,98300,1830,2,53.72,9,9
+1971,Žirmūnai,Trinapolio g.,98300,1830,2,53.72,9,9
+1972,Verkiai,Trinapolio g.,98300,1830,2,53.72,9,9
+1973,Senamiestis,Gedimino pr.,139000,2707,2,51.35,4,5
+1974,Grigiškės,Kovo 11-osios g.,89000,1126,3,79.04,3,5
+1975,Užupis,Manufaktūrų g.,181425,2784,3,65.17,2,6
+1976,Markučiai,Manufaktūrų g.,78990,1500,2,52.66,3,6
+1977,Užupis,Manufaktūrų g.,78990,1500,2,52.66,3,6
+1978,Markučiai,Manufaktūrų g.,102637,1750,3,58.65,5,6
+1979,Užupis,Manufaktūrų g.,102637,1750,3,58.65,5,6
+1980,Žirmūnai,Tuskulėnų g.,65000,1757,1,37,2,5
+1981,Naujininkai,Panevėžio g.,84500,1565,2,54,3,4
+1982,Senamiestis,Didžioji g.,122000,3935,1,31,3,4
+1983,Viršuliškės,Viršuliškių g.,78000,1829,2,42.65,3,11
+1984,Naujininkai,Darbininkų g.,50000,1163,3,43,1,3
+1985,Antakalnis,Pylimėlių g.,115200,1820,3,63.3,3,3
+1986,Karoliniškės,Vytauto Vaitkaus g.,67000,985,2,68,1,12
+1987,Justiniškės,Rygos g.,52000,1466,1,35.48,5,5
+1988,Naujamiestis,Kauno g.,123000,1836,3,67,1,1
+1989,Pašilaičiai,Eitminų g.,99900,1693,3,59,2,9
+1990,Avižieniai,Mokyklos g.,45000,1250,2,36,3,5
+1991,Bukiškio k.,Mokyklos g.,45000,1250,2,36,3,5
+1992,Pašilaičiai,Leičių g.,85000,1771,2,48,2,2
+1993,Naujamiestis,Vytenio g.,75000,1389,2,54,4,4
+1994,Žvėrynas,Latvių g.,134964,2980,2,45.29,6,6
+1995,Antakalnis,V. Grybo g.,168812,2059,3,82,2,4
+1996,Antakalnis,V. Grybo g.,112554,2251,2,50,2,4
+1997,Užupis,Olandų g.,79000,2548,1,31,2,5
+1998,Senamiestis,Kėdainių g.,599130,4500,4,133.14,2,3
+1999,Senamiestis,Kėdainių g.,598635,4500,4,133.03,2,2
+2000,Senamiestis,Kėdainių g.,190122,3200,3,59.41,1,1
+2001,Lazdynėliai,Jonažolių g.,65000,1895,1,34.3,3,7
+2002,Naujamiestis,S. Konarskio g.,179000,1481,5,120.9,3,5
+2003,Senamiestis,Pylimo g.,146000,3842,2,38,2,3
+2004,Žvėrynas,Danielių g.,275000,3161,2,87,4,5
+2005,Fabijoniškės,Salomėjos Nėries g.,71900,1067,3,67.37,5,5
+2006,Žvėrynas,Lokių g.,240000,2901,3,82.73,2,3
+2007,Naujamiestis,Smolensko g.,177000,2835,2,62.44,7,10
+2008,Antakalnis,Klinikų g.,125000,1736,3,72,4,5
+2009,Antakalnis,Klinikų g.,125000,1736,3,72,4,5
+2010,Naujamiestis,Savanorių pr.,40000,1818,1,22,4,9
+2011,Žirmūnai,Kalvarijų g.,57500,1742,1,33,2,5
+2012,Šnipiškės,Kalvarijų g.,57500,1742,1,33,2,5
+2013,Antakalnis,V. Grybo g.,144944,2511,2,57.73,8,10
+2014,Naujamiestis,Muitinės g.,55450,1232,2,45,1,5
+2015,Justiniškės,Taikos g.,107000,1621,3,66,3,5
+2016,Naujamiestis,Algirdo g.,63000,1370,2,46,1,5
+2017,Naujamiestis,Kauno g.,46000,2706,1,17,3,4
+2018,Pašilaičiai,Perkūnkiemio g.,79000,1795,2,44,4,9
+2019,Viršuliškės,Viršuliškių g.,64000,1000,3,64,9,9
+2020,Viršuliškės,Viršuliškių g.,64000,1000,3,64,9,9
+2021,Senamiestis,Lydos g.,135900,3883,2,35,1,3
+2022,Senamiestis,V. Šopeno g.,135000,2547,2,53.01,2,3
+2023,Senamiestis,Šv. Stepono g.,169000,2486,3,67.99,2,5
+2024,Lazdynėliai,Bukčių g.,137670,1707,4,80.66,2,5
+2025,Senamiestis,M. K. Čiurlionio g.,870000,4416,4,197,6,7
+2026,Naujamiestis,M. K. Čiurlionio g.,870000,4416,4,197,6,7
+2027,Lazdynėliai,Bukčių g.,69070,1707,2,40.46,2,5
+2028,Lazdynėliai,Bukčių g.,67840,1677,2,40.46,2,5
+2029,Lazdynėliai,Bukčių g.,102230,1630,3,62.71,2,5
+2030,Lazdynėliai,Bukčių g.,111920,1676,3,66.79,2,5
+2031,Lazdynėliai,Bukčių g.,74410,1723,2,43.18,2,5
+2032,Lazdynėliai,Bukčių g.,94050,1719,3,54.71,2,5
+2033,Lazdynėliai,Bukčių g.,90020,1637,3,54.98,2,5
+2034,Lazdynėliai,Bukčių g.,67680,1566,2,43.22,2,5
+2035,Žirmūnai,Žirmūnų g.,55000,2500,1,22,7,9
+2036,Naujamiestis,Gedimino pr.,139000,2673,2,52,3,3
+2037,Naujamiestis,Naugarduko g.,99900,1665,2,60,1,2
+2038,Naujamiestis,Mindaugo g.,166000,2285,3,72.64,2,3
+2039,Žirmūnai,Tuskulėnų g.,68500,1457,2,47,1,5
+2040,Naujamiestis,S. Konarskio g.,70000,1892,2,37,1,4
+2041,Žirmūnai,Žirmūnų g.,52000,2364,1,22,9,9
+2042,Žirmūnai,Minties g.,69000,1567,2,44.04,5,5
+2043,Justiniškės,Taikos g.,87900,1418,3,62.01,3,5
+2044,Jeruzalė,Baltupio g.,149000,1231,4,121,3,4
+2045,Šnipiškės,Daugėliškio g.,100000,1111,4,90,1,2
+2046,Šnipiškės,Daugėliškio g.,100000,1120,3,89.32,1,2
+2047,Karoliniškės,Vytauto Vaitkaus g.,58000,1239,2,46.8,1,9
+2048,Antakalnis,V. Grybo g.,259000,1738,4,149,4,5
+2049,Užupis,Užupio g.,53000,1606,1,33,0,2
+2050,Karoliniškės,Sietyno g.,49900,1279,2,39,2,4
+2051,Santariškės,Bajorų kel.,96000,1882,2,51,1,4
+2052,Visoriai,Bajorų kel.,96000,1882,2,51,1,4
+2053,Bajorai,Bajorų kel.,96000,1882,2,51,1,4
+2054,Bajorai,Mykolo Marcinkevičiaus g.,143000,1363,3,104.93,2,4
+2055,Santariškės,Mykolo Marcinkevičiaus g.,143000,1363,3,104.93,2,4
+2056,Jeruzalė,Mykolo Marcinkevičiaus g.,143000,1363,3,104.93,2,4
+2057,Šeškinė,Gelvonų g.,70000,1388,2,50.43,4,9
+2058,Šnipiškės,Lvovo g.,81500,2397,2,34,2,6
+2059,Senamiestis,Vilniaus g.,120000,4000,1,30,1,4
+2060,Antakalnis,V. Grybo g.,79900,1902,2,42,1,4
+2061,Naujoji Vilnia,Pavilnionių g.,71500,1324,2,54,1,4
+2062,Šnipiškės,Daugėliškio g.,115000,2228,3,51.62,2,7
+2063,Verkiai,Verkių g.,310000,3374,3,91.87,4,4
+2064,Senamiestis,Lydos g.,326000,3496,3,93.24,2,3
+2065,Senamiestis,Lydos g.,221000,4390,2,50.34,3,3
+2066,Senamiestis,Lydos g.,345000,4295,3,80.33,3,3
+2067,Senamiestis,Lydos g.,352000,4195,3,83.91,3,3
+2068,Senamiestis,Lydos g.,345400,4300,3,80.33,3,3
+2069,Senamiestis,Lydos g.,297000,4302,2,69.04,1,3
+2070,Senamiestis,Lydos g.,563000,4504,3,125,2,4
+2071,Antakalnis,Filaretų g.,129000,2847,2,45.31,2,4
+2072,Lazdynai,Architektų g.,44000,1350,1,32.6,3,12
+2073,Karoliniškės,Algimanto Petro Kavoliuko g.,86000,1732,2,49.65,3,5
+2074,Šnipiškės,Jurgio Lebedžio g.,150000,2331,3,64.34,1,5
+2075,Baltupiai,Jurgio Lebedžio g.,150000,2331,3,64.34,1,5
+2076,Pilaitė,I. Kanto al.,124000,1253,4,99,5,5
+2077,Lazdynėliai,Jonažolių g.,133000,2151,2,61.83,8,9
+2078,Senamiestis,Bazilijonų g.,327336,2389,4,137,2,3
+2079,Pašilaičiai,Laisvės pr.,99800,1379,3,72.37,2,5
+2080,Senamiestis,A. Rotundo g.,73500,3500,1,21,2,3
+2081,Naujamiestis,A. Rotundo g.,73500,3500,1,21,2,3
+2082,Pilaitė,Bitėnų g.,90000,1503,3,59.88,1,5
+2083,Pilaitė,Bitėnų g.,91000,1571,3,57.94,4,5
+2084,Grigiškės,Vilniaus g.,37000,1316,1,28.12,1,2
+2085,Grigiškės,Vilniaus g.,37000,1276,1,29,1,2
+2086,Šeškinė,Deltuvos g.,85100,1807,2,47.1,1,9
+2087,Šnipiškės,Linkmenų g.,142100,1782,4,79.73,4,9
+2088,Senamiestis,Literatų g.,99000,4514,1,21.93,3,4
+2089,Baltupiai,Trinapolio g.,72500,2071,1,35,3,9
+2090,Lazdynai,Erfurto g.,67000,1047,3,64,4,9
+2091,Turniškės,Turniškių g.,155000,1742,3,89,1,3
+2092,Valakampiai,Turniškių g.,155000,1742,3,89,1,3
+2093,Senamiestis,Dysnos g.,152000,4471,1,34,1,2
+2094,Senamiestis,Klaipėdos g.,175000,4167,2,42,1,2
+2095,Karoliniškės,Igno Šimulionio g.,115000,1386,3,83,2,7
+2096,Karoliniškės,Sausio 13-osios g.,115000,1386,2,83,2,7
+2097,Naujamiestis,J. Basanavičiaus g.,140000,2000,4,70,2,3
+2098,Naujamiestis,J. Basanavičiaus g.,140000,2009,3,69.68,2,2
+2099,Užupis,Paplaujos g.,242500,2500,4,97,6,6
+2100,Žirmūnai,Žirmūnų g.,175000,2650,3,66.03,1,4
+2101,Žirmūnai,Žirmūnų g.,180000,2669,3,67.43,1,4
+2102,Jeruzalė,Kviečių g.,141710,1800,3,78.73,6,6
+2103,Šnipiškės,Konstitucijos pr.,175000,2431,2,72,9,13
+2104,Senamiestis,M. K. Čiurlionio g.,280000,4641,2,60.33,3,7
+2105,Naujamiestis,M. K. Čiurlionio g.,280000,4641,2,60.33,3,7
+2106,Senamiestis,Lydos g.,189900,3165,2,60,1,3
+2107,Senamiestis,Lydos g.,190112,3169,3,60,1,3
+2108,Naujamiestis,M. K. Čiurlionio g.,161500,1755,2,92,4,4
+2109,Justiniškės,Rygos g.,92000,1500,2,61.33,4,5
+2110,Antakalnis,L. Sapiegos g.,79900,2350,2,34,2,7
+2111,Antakalnis,L. Sapiegos g.,79900,2350,1,34,2,7
+2112,Naujamiestis,Gerosios Vilties g.,141500,1912,3,74,3,6
+2113,Naujininkai,Šaltkalvių g.,63000,955,3,66,1,5
+2114,Užupis,Paupio g.,119500,2390,3,50,3,5
+2115,Karoliniškės,Algimanto Petro Kavoliuko g.,121500,1702,4,71.4,3,5
+2116,Šnipiškės,Konstitucijos pr.,157430,3500,1,44.98,19,29
+2117,Antakalnis,Kanklių g.,135000,2288,3,59,1,4
+2118,Šnipiškės,Lvovo g.,145000,2302,2,63,3,3
+2119,Senamiestis,Lvovo g.,145000,2302,2,63,3,3
+2120,Bajorai,Bajorų kel.,55400,1947,1,28.45,5,9
+2121,Bajorai,Bajorų kel.,93400,1968,2,47.45,7,9
+2122,Bajorai,Bajorų kel.,99600,1529,3,65.13,2,9
+2123,Bajorai,Bajorų kel.,99500,1623,3,61.29,2,9
+2124,Senamiestis,Klaipėdos g.,530000,3681,5,144,3,3
+2125,Senamiestis,Savičiaus g.,310000,3483,3,89,3,3
+2126,Senamiestis,T. Kosciuškos g.,261000,3035,3,86,2,5
+2127,Senamiestis,T. Kosciuškos g.,261000,3035,3,86,2,4
+2128,Viršuliškės,Viršuliškių g.,79500,1849,2,42.99,1,11
+2129,Viršuliškės,Viršuliškių g.,137400,1811,4,75.89,8,11
+2130,Senamiestis,Sodų g.,100000,2484,2,40.25,2,3
+2131,Viršuliškės,Viršuliškių g.,132900,1751,4,75.89,5,11
+2132,Viršuliškės,Viršuliškių g.,84700,1960,2,43.21,8,11
+2133,Viršuliškės,Viršuliškių g.,101900,1775,3,57.42,2,11
+2134,Viršuliškės,Viršuliškių g.,86300,1963,2,43.97,10,11
+2135,Viršuliškės,Viršuliškių g.,84300,1925,2,43.79,5,11
+2136,Viršuliškės,Viršuliškių g.,89000,2033,2,43.77,11,11
+2137,Pašilaičiai,Budiniškių g.,95000,1623,3,58.54,2,5
+2138,Pašilaičiai,Budiniškių g.,96600,1655,3,58.37,4,5
+2139,Pašilaičiai,Budiniškių g.,97500,1483,3,65.76,1,5
+2140,Pašilaičiai,Budiniškių g.,113000,1469,4,76.92,2,5
+2141,Pašilaičiai,Budiniškių g.,113400,1542,4,73.55,2,5
+2142,Pašilaičiai,Budiniškių g.,115500,1573,3,73.42,4,5
+2143,Pašilaičiai,Budiniškių g.,79700,1729,2,46.1,4,5
+2144,Pašilaičiai,Budiniškių g.,80500,1653,2,48.69,1,5
+2145,Pašilaičiai,Budiniškių g.,89800,1527,2,58.79,1,5
+2146,Bajorai,Bajorų kel.,100000,1629,3,61.39,1,6
+2147,Bajorai,Bajorų kel.,69200,1752,2,39.49,1,6
+2148,Bajorai,Bajorų kel.,69200,1752,2,39.49,1,6
+2149,Bajorai,Bajorų kel.,69300,1755,2,39.49,1,9
+2150,Bajorai,Bajorų kel.,98500,1646,3,59.85,1,6
+2151,Bajorai,Bajorų kel.,49100,1935,1,25.37,2,6
+2152,Bajorai,Bajorų kel.,71500,1772,2,40.35,3,9
+2153,Bajorai,Bajorų kel.,100100,1673,3,59.85,2,6
+2154,Bajorai,Bajorų kel.,104100,1497,4,69.52,1,6
+2155,Žvėrynas,A. Mickevičiaus g.,400000,3001,4,133.3,1,2
+2156,Kalnėnai,Gurių g.,149900,1996,3,75.1,1,2
+2157,Šeškinė,Gelvonų g.,77500,1462,2,53,12,16
+2158,Turniškės,Turniškių g.,129000,1766,4,73.06,3,3
+2159,Naujamiestis,Naugarduko g.,60000,2097,1,28.61,1,2
+2160,Bajorai,Bajorų Sodų 2-oji g.,149000,1953,3,76.3,2,2
+2161,Užupis,Baltasis skg.,390000,3602,4,108.27,2,2
+2162,Senamiestis,Baltasis skg.,390000,3602,4,108.27,2,2
+2163,Naujoji Vilnia,Darželio g.,32500,1250,1,26,5,5
+2164,Naujoji Vilnia,Darželio g.,32500,1250,1,26,5,5
+2165,Naujoji Vilnia,Darželio g.,32500,1250,1,26,5,5
+2166,Senamiestis,Vingrių g.,139000,3390,2,41,1,4
+2167,Verkiai,Popieriaus g.,66800,1250,3,53.44,1,2
+2168,Lazdynėliai,Neužmirštuolių g.,90000,1452,3,62,1,4
+2169,Naujamiestis,Jogailos g.,99000,1980,1,50,1,5
+2170,Šnipiškės,Lvovo g.,119000,2047,2,58.12,5,6
+2171,Senamiestis,Gėlių g.,235280,1994,4,118,3,3
+2172,Žirmūnai,Trinapolio g.,98000,1750,2,56.01,6,9
+2173,Žirmūnai,Trinapolio g.,98000,1750,2,56,6,9
+2174,Žirmūnai,Trinapolio g.,118000,1996,2,59.12,10,10
+2175,Žirmūnai,Trinapolio g.,153000,2002,3,76.41,10,10
+2176,Pilaitė,Nidos g.,93000,1930,2,48.18,9,9
+2177,Lazdynai,Architektų g.,16000,800,1,20,4,5
+2178,Žirmūnai,Trinapolio g.,136000,1853,3,73.39,9,9
+2179,Naujamiestis,M. K. Čiurlionio g.,430000,4095,4,105,3,4
+2180,Pilaitė,Bitėnų g.,79900,1776,2,45,2,4
+2181,Pilaitė,Bitėnų g.,77990,1733,2,45,2,4
+2182,Pilaitė,Bitėnų g.,79900,1737,2,46,2,4
+2183,Žemieji Paneriai,Savanorių pr.,90762,926,4,98,2,5
+2184,Žemieji Paneriai,Savanorių pr.,44885,922,2,48.69,2,5
+2185,Žemieji Paneriai,Savanorių pr.,47500,981,2,48.41,5,5
+2186,Žemieji Paneriai,Savanorių pr.,36388,1239,2,29.37,2,5
+2187,Žemieji Paneriai,Savanorių pr.,36997,920,2,40.2,1,5
+2188,Žemieji Paneriai,Savanorių pr.,37803,927,2,40.78,2,5
+2189,Žemieji Paneriai,Savanorių pr.,36918,905,2,40.78,3,5
+2190,Žemieji Paneriai,Savanorių pr.,38500,1176,2,32.73,2,5
+2191,Karoliniškės,Apolinaro Juozo Povilaičio g.,65000,1383,2,47,3,5
+2192,Senamiestis,Bazilijonų g.,200000,2400,4,83.34,2,4
+2193,Šnipiškės,Žalgirio g.,255000,2770,3,92.06,7,7
+2194,Senamiestis,Šaltinių g.,156000,3000,2,52,3,3
+2195,Justiniškės,Rygos g.,79900,1582,2,50.52,3,13
+2196,Šnipiškės,Giedraičių g.,96000,1978,2,48.53,6,9
+2197,Kirtimai,Meistrų g.,29500,937,1,31.5,4,5
+2198,Šnipiškės,Giedraičių g.,67500,2399,1,28.14,8,9
+2199,Šnipiškės,Giedraičių g.,85000,2001,2,42.47,5,9
+2200,Šnipiškės,Giedraičių g.,80000,2100,2,38.1,7,9
+2201,Senamiestis,Vokiečių g.,359000,2967,4,121,4,4
+2202,Šnipiškės,Giedraičių g.,67000,2205,1,30.38,5,9
+2203,Pilaitė,Bitėnų g.,145000,1292,4,112.19,1,3
+2204,Senamiestis,Rusų g.,360000,2757,4,130.6,2,4
+2205,Senamiestis,Pilies g.,360000,2757,5,130.6,2,4
+2206,Antakalnis,Antakalnio g.,199000,1843,4,108,6,13
+2207,Antakalnis,Antakalnio g.,200000,1852,4,108,6,13
+2208,Naujamiestis,Savanorių pr.,209000,2200,4,95,8,27
+2209,Antakalnis,Švyturio g.,139800,1770,3,79,1,5
+2210,Naujamiestis,Mindaugo g.,138000,2489,2,55.44,4,9
+2211,Grigiškės,Saulės g.,89000,802,4,111,1,2
+2212,Lentvario m.,Saulės g.,89000,802,4,111,1,2
+2213,Avižieniai,Kardelių g.,85000,2073,2,41,2,2
+2214,Avižienių k.,Kardelių g.,85000,2073,2,41,2,2
+2215,Lazdynai,M. Mironaitės g.,118000,1838,3,64.2,3,6
+2216,Lazdynėliai,Lazdynėlių g.,103700,1599,3,64.85,1,4
+2217,Lazdynėliai,Lazdynėlių g.,107000,1554,3,68.85,1,4
+2218,Lazdynėliai,Lazdynėlių g.,107000,1554,3,68.85,1,4
+2219,Pilaitė,Gilužio g.,102700,1584,3,64.82,1,3
+2220,Pilaitė,Gilužio g.,103700,1599,3,64.85,1,3
+2221,Lazdynėliai,Lazdynėlių g.,71000,1621,2,43.81,2,4
+2222,Lazdynėliai,Lazdynėlių g.,103000,1589,2,64.82,2,4
+2223,Lazdynėliai,Lazdynėlių g.,73500,1680,2,43.74,3,4
+2224,Lazdynėliai,Lazdynėlių g.,71500,1635,2,43.74,3,4
+2225,Lazdynėliai,Lazdynėlių g.,73500,1680,2,43.74,3,4
+2226,Šeškinė,Ozo g.,103000,1845,3,55.84,2,5
+2227,Šeškinė,Ozo g.,120000,1913,3,62.73,4,5
+2228,Pilaitė,Gilužio g.,52000,1714,1,30.33,3,3
+2229,Šeškinė,Ozo g.,90000,1924,2,46.78,3,5
+2230,Šeškinė,Ozo g.,90000,1924,2,46.78,3,5
+2231,Antakalnis,Saulės g.,160000,2478,3,64.56,2,3
+2232,Senamiestis,A. Goštauto g.,169000,2192,3,77.1,4,7
+2233,Fabijoniškės,S. Stanevičiaus g.,79900,1204,3,66.37,7,9
+2234,Kalnėnai,Juodasis kel.,95000,913,5,104,1,2
+2235,Naujoji Vilnia,Parko g.,75000,904,4,83,4,5
+2236,Bajorai,Vanaginės Sodų 3-ioji g.,255000,2742,3,93,1,2
+2237,Senamiestis,Kauno g.,115000,2995,2,38.4,5,6
+2238,Bajorai,Bajorų Sodų 17-oji g.,259000,1727,4,150,1,2
+2239,Jeruzalė,Braškių g.,72000,1440,2,50,5,5
+2240,Baltupiai,Šeškinės Sodų g.,175000,1636,5,107,1,2
+2241,Tarandė,Užubalių g.,123000,2101,3,58.53,1,2
+2242,Liepkalnis,Perlojos g.,30000,1182,1,25.39,1,1
+2243,Senamiestis,Vilniaus g.,340000,2345,4,145,3,3
+2244,Senamiestis,Šaltinių g.,350000,4667,4,75,6,6
+2245,Naujininkai,Kaminkelio g.,160000,1468,3,109,4,4
+2246,Užupis,Krivūlės g.,114000,3257,2,35,2,4
+2247,Senamiestis,Krivūlės g.,114000,3257,2,35,2,4
+2248,Senamiestis,Naugarduko g.,265817,3250,4,81.79,2,4
+2249,Žvėrynas,Paribio g.,398000,3317,4,120,4,4
+2250,Naujamiestis,M. K. Čiurlionio g.,600000,2564,6,234,3,3
+2251,Naujamiestis,Vinco Kudirkos g.,250000,2273,4,110,4,4
+2252,Markučiai,Paplaujos g.,123000,1977,3,62.2,2,5
+2253,Užupis,Paplaujos g.,123000,1977,3,62.2,2,5
+2254,Senamiestis,Mindaugo g.,195000,2657,3,73.4,7,7
+2255,Senamiestis,Raugyklos g.,118000,2495,1,47.29,1,4
+2256,Senamiestis,Raugyklos g.,220000,2746,4,80.11,1,4
+2257,Naujamiestis,Raugyklos g.,220000,2733,4,80.5,1,4
+2258,Senamiestis,Raugyklos g.,220000,2746,4,80.11,1,4
+2259,Senamiestis,Raugyklos g.,220000,2733,4,80.5,1,4
+2260,Užupis,Polocko g.,570000,2028,5,281,1,3
+2261,Senamiestis,J. Basanavičiaus g.,420000,4516,3,93,3,3
+2262,Senamiestis,Raugyklos g.,150000,3129,2,47.94,4,4
+2263,Senamiestis,Raugyklos g.,150000,3125,2,48,4,4
+2264,Naujamiestis,Raugyklos g.,150000,3125,2,48,4,4
+2265,Naujamiestis,Raugyklos g.,150000,3128,2,47.95,4,4
+2266,Senamiestis,Raugyklos g.,202000,2617,3,77.18,1,4
+2267,Naujamiestis,Raugyklos g.,202000,2606,3,77.5,1,4
+2268,Senamiestis,Raugyklos g.,202000,2617,3,77.18,1,4
+2269,Žirmūnai,Žirmūnų g.,230000,1243,5,185,4,4
+2270,Senamiestis,Šiaulių g.,390000,4756,2,82,1,4
+2271,Senamiestis,Šiaulių g.,390000,4756,2,82,1,4
+2272,Šnipiškės,A. Juozapavičiaus g.,595000,3914,4,152,9,12
+2273,Senamiestis,A. Juozapavičiaus g.,595000,3914,4,152,9,12
+2274,Senamiestis,Žygimantų g.,465000,3661,3,127,3,5
+2275,Senamiestis,Stiklių g.,180000,2857,2,63,3,3
+2276,Naujamiestis,Savanorių pr.,135000,3068,2,44,10,11
+2277,Šnipiškės,Konstitucijos pr.,350000,3097,3,113,23,27
+2278,Senamiestis,Žemaitijos g.,60000,4286,1,14,3,3
+2279,Užupis,Polocko g.,432000,4500,3,96,2,5
+2280,Senamiestis,Mindaugo g.,290000,3811,2,76.09,6,7
+2281,Senamiestis,Žemaitijos g.,295000,3430,3,86,4,4
+2282,Antakalnis,Saulėtekio al.,230000,1949,4,118,1,3
+2283,Pašilaičiai,Žemynos g.,78000,1057,4,73.78,9,9
+2284,Pašilaičiai,Žemynos g.,78000,1057,3,73.78,9,9
+2285,Baltupiai,Jeronimo Ralio g.,57500,1855,2,31,2,5
+2286,Naujamiestis,S. Konarskio g.,129000,1514,3,85.19,2,4
+2287,Užupis,Krivūlės g.,127833,2144,3,59.62,2,4
+2288,Senamiestis,Krivūlės g.,127833,2144,3,59.62,2,4
+2289,Karoliniškės,Algimanto Petro Kavoliuko g.,64000,985,3,65,1,9
+2290,Karoliniškės,Algimanto Petro Kavoliuko g.,64000,1000,3,64,1,9
+2291,Šnipiškės,Konstitucijos pr.,245000,2500,3,98,12,13
+2292,Šnipiškės,Konstitucijos pr.,218000,2788,2,78.2,12,27
+2293,Šnipiškės,Konstitucijos pr.,218000,2759,2,79,12,27
+2294,Šnipiškės,Konstitucijos pr.,218000,2788,2,78.18,12,27
+2295,Pilaitė,Bitėnų g.,100000,1536,3,65.1,2,5
+2296,Lazdynėliai,Jonažolių g.,87500,1709,2,51.2,3,7
+2297,Antakalnis,P. Vileišio g.,205000,2852,3,71.89,2,4
+2298,Naujamiestis,Skroblų g.,49900,1721,1,29,1,5
+2299,Žvėrynas,A. Mickevičiaus g.,72000,2057,1,35,0,2
+2300,Pilaitė,Bitėnų g.,112000,1769,3,63.3,5,5
+2301,Vilkpėdė,Savanorių pr.,32900,1316,1,25,3,5
+2302,Žirmūnai,Trinapolio g.,112000,1888,2,59.33,7,11
+2303,Baltupiai,Trinapolio g.,112000,1888,2,59.33,7,11
+2304,Pilaitė,Vydūno g.,68000,1114,3,61.04,7,9
+2305,Justiniškės,Justiniškių g.,89900,1228,3,73.2,7,16
+2306,Naujamiestis,Statybininkų g.,83800,2529,1,33.14,5,5
+2307,Pašilaičiai,Leičių g.,75011,1559,2,48.1,7,9
+2308,Markučiai,Subačiaus g.,24900,1383,1,18,12,12
+2309,Senamiestis,Bazilijonų g.,97214,2600,2,37.39,2,4
+2310,Antakalnis,Saulenių g.,69900,848,3,82.47,2,3
+2311,Naujoji Vilnia,Saulenių g.,69900,848,3,82.47,2,3
+2312,Baltupiai,Didlaukio g.,92999,1187,4,78.33,2,5
+2313,Antakalnis,Šilo g.,109000,1879,2,58,1,5
+2314,Žvėrynas,Lapių g.,186111,3050,3,61.02,1,4
+2315,Karoliniškės,Algimanto Petro Kavoliuko g.,125900,1495,3,84.2,4,9
+2316,Karoliniškės,Algimanto Petro Kavoliuko g.,125900,1495,3,84.2,4,9
+2317,Karoliniškės,Algimanto Petro Kavoliuko g.,125900,1495,3,84.2,4,9
+2318,Pašilaičiai,Pavilnionių g.,86500,1694,2,51.05,2,5
+2319,Pašilaičiai,Pavilnionių g.,87900,1783,2,49.3,2,5
+2320,Antakalnis,Peteliškių g.,336000,3375,4,99.56,4,5
+2321,Naujamiestis,Statybininkų g.,145000,2515,3,57.65,5,9
+2322,Naujininkai,Pelesos g.,13500,501,1,26.96,1,1
+2323,Naujininkai,Pelesos g.,15200,650,2,23.4,1,1
+2324,Naujamiestis,Raugyklos g.,203000,2671,3,76,2,4
+2325,Senamiestis,Raugyklos g.,203000,2671,3,76,2,4
+2326,Pašilaičiai,Eitminų g.,62000,1305,2,47.52,2,9
+2327,Naujoji Vilnia,Dūmų g.,44500,1141,2,39,1,1
+2328,Fabijoniškės,Fabijoniškių g.,87300,1505,2,58,2,5
+2329,Naujoji Vilnia,Pramonės g.,15999,842,1,19,5,5
+2330,Šnipiškės,Kernavės g.,86500,2094,2,41.31,3,7
+2331,Senamiestis,L. Stuokos-Gucevičiaus g.,249000,2196,4,113.37,1,3
+2332,Naujininkai,Dzūkų g.,19000,801,1,23.71,1,1
+2333,Antakalnis,Antakalnio g.,90000,2790,1,32.26,1,1
+2334,Naujininkai,A. Jaroševičiaus g.,27600,946,1,29.17,1,1
+2335,Žvėrynas,Lapių g.,125216,3200,2,39.13,3,4
+2336,Pašilaičiai,Leičių g.,79000,1162,3,68,5,9
+2337,Naujamiestis,Panerių g.,51000,2103,1,24.25,8,8
+2338,Viršuliškės,Viršuliškių g.,79000,1681,2,47,6,7
+2339,Viršuliškės,Viršuliškių g.,57000,1425,2,40,4,7
+2340,Tarandė,Tarandės g.,59500,1190,2,50,2,4
+2341,Šeškinė,Ozo g.,57000,1541,1,37,1,9
+2342,Tarandė,Tarandės g.,73000,1217,3,60,2,4
+2343,Tarandė,Tarandės g.,52000,1238,2,42,2,4
+2344,Pašilaičiai,Leičių g.,60000,1320,2,45.45,5,9
+2345,Pašilaičiai,Leičių g.,61000,1287,2,47.38,6,9
+2346,Bajorai,Bajorų kel.,96900,1922,2,50.42,2,4
+2347,Senamiestis,Didžioji g.,330000,4125,3,80,3,4
+2348,Šnipiškės,Konstitucijos pr.,190000,2289,2,83,13,27
+2349,Pašilaičiai,Budiniškių g.,65000,2547,1,25.52,7,7
+2350,Bajorai,Bajorų kel.,105000,1780,2,59,2,4
+2351,Šnipiškės,A. Juozapavičiaus g.,270000,2943,3,91.74,5,12
+2352,Žirmūnai,S. Žukausko g.,90000,2368,2,38,6,6
+2353,Baltupiai,Kviečių g.,109000,1514,3,72,5,6
+2354,Jeruzalė,Kviečių g.,109000,1514,3,72,5,6
+2355,Senamiestis,Sodų g.,520000,3086,5,168.48,3,3
+2356,Naujamiestis,Smolensko g.,389000,5572,3,69.81,7,11
+2357,Pašilaičiai,Pavilnionių g.,72900,1887,2,38.64,2,5
+2358,Bajorai,Jono Kairiūkščio g.,77800,1496,3,52.01,3,9
+2359,Žirmūnai,S. Žukausko g.,229900,2045,3,112.4,3,9
+2360,Šiaurės miestelis,S. Žukausko g.,229900,2045,3,112.4,3,9
+2361,Senamiestis,Totorių g.,207000,2665,3,77.66,1,2
+2362,Senamiestis,A. Vienuolio g.,218000,1929,4,113,4,4
+2363,Naujamiestis,Naugarduko g.,109900,2254,2,48.75,5,5
+2364,Baltupiai,Šeškinės Sodų g.,199000,1579,5,126,1,2
+2365,Šeškinė,Siesikų g.,65300,2229,1,29.29,7,9
+2366,Šeškinė,Siesikų g.,69700,2182,1,31.95,6,9
+2367,Senamiestis,Šiaulių g.,83500,2783,1,30,2,2
+2368,Senamiestis,Aguonų g.,312000,2601,5,119.95,3,6
+2369,Naujamiestis,Aguonų g.,276000,2300,4,120,2,6
+2370,Senamiestis,Aguonų g.,276000,2301,4,119.95,2,6
+2371,Pilaitė,Spaudos g.,77200,1749,2,44.14,2,16
+2372,Užupis,Užupio g.,255000,4250,2,60,2,3
+2373,Fabijoniškės,Fabijoniškių g.,72000,1074,3,67.07,5,5
+2374,Baltupiai,Kazio Ulvydo g.,179000,2694,3,66.44,1,5
+2375,Šiaurės miestelis,Kazio Ulvydo g.,179000,2694,3,66.44,1,5
+2376,Šnipiškės,Kazio Ulvydo g.,179000,2694,3,66.44,1,5
+2377,Antakalnis,Duburio g.,89200,1316,3,67.78,2,4
+2378,Antakalnis,Duburio g.,111300,1316,4,84.57,1,4
+2379,Senamiestis,J. Basanavičiaus g.,224000,2635,3,85,2,4
+2380,Pašilaičiai,Tarandės g.,52000,1238,2,42,3,4
+2381,Lazdynai,Kazimiero Jelskio g.,179000,2387,3,75,1,3
+2382,Naujininkai,Kapsų g.,81500,2326,2,35.04,2,7
+2383,Antakalnis,Pauliaus Širvio g.,81000,1397,3,58,3,5
+2384,Baltupiai,Trinapolio g.,139000,1533,4,90.65,4,9
+2385,Šnipiškės,Kalvarijų g.,75000,1442,3,52,1,1
+2386,Lazdynėliai,Jonažolių g.,146000,1738,3,84.02,1,9
+2387,Naujamiestis,Aguonų g.,223400,3893,3,57.38,4,5
+2388,Senamiestis,Šaltinių g.,31000,1824,1,17,2,4
+2389,Žirmūnai,Žirmūnų g.,85000,1232,3,69,1,12
+2390,Šnipiškės,Konstitucijos pr.,145000,3253,2,44.58,5,29
+2391,Naujamiestis,Statybininkų g.,86000,2738,1,31.41,6,9
+2392,Šnipiškės,Kintų g.,134000,2140,2,62.63,3,6
+2393,Šnipiškės,Kernavės g.,134000,2140,3,62.62,3,7
+2394,Šnipiškės,Kernavės g.,74000,2711,1,27.3,2,6
+2395,Antakalnis,Vytauto Žalakevičiaus g.,287000,3588,3,80,4,6
+2396,Jeruzalė,Rugių g.,135000,1875,3,72,5,6
+2397,Pilaitė,M. Mažvydo g.,125500,1526,3,82.25,3,6
+2398,Antakalnis,Nemenčinės pl.,175000,1389,4,125.97,2,2
+2399,Naujoji Vilnia,Pramonės g.,31000,1069,2,29,4,4
+2400,Pilaitė,Valtarkiemio g.,105000,1739,2,60.37,2,5
+2401,Senamiestis,Vasario 16-osios g.,185000,3304,2,56,1,5
+2402,Antakalnis,Bistryčios g.,69500,2093,1,33.21,1,4
+2403,Pilaitė,Gilužio g.,76000,1571,2,48.38,1,3
+2404,Šeškinė,Ozo g.,106000,1898,3,55.84,3,5
+2405,Šnipiškės,Daugėliškio g.,103000,2200,2,46.81,6,7
+2406,Kalnėnai,Kroatų g.,92000,1146,4,80.26,1,2
+2407,Burbiškės,Eišiškių pl.,75000,2252,1,33.31,3,5
+2408,Naujamiestis,Eišiškių pl.,75000,2252,1,33.31,3,5
+2409,Pilaitė,Simono Grunau g.,93011,1755,3,53,1,3
+2410,Senamiestis,Kauno g.,199000,1734,4,114.77,2,4
+2411,Pašilaičiai,Girulių g.,72900,1719,2,42.41,8,9
+2412,Šiaurės miestelis,Žygio g.,225000,2155,3,104.39,2,2
+2413,Naujamiestis,Savanorių pr.,93000,1240,3,75,4,4
+2414,Užupis,Baltasis skg.,410000,3517,4,116.59,2,2
+2415,Senamiestis,Šv. Mykolo g.,210000,3621,2,58,2,2
+2416,Pilaitė,Bitėnų g.,87000,2122,2,41,3,4
+2417,Užupis,Krivių g.,335000,2680,4,125,3,3
+2418,Antakalnis,Duburio g.,106800,1316,4,81.16,4,4
+2419,Senamiestis,Rūdninkų g.,299000,3211,3,93.11,2,4
+2420,Senamiestis,Rūdninkų g.,299000,3211,3,93.11,2,4
+2421,Justiniškės,Taikos g.,82900,1337,3,62,5,5
+2422,Pilaitė,Įsruties g.,105000,1810,3,58,5,6
+2423,Užupis,Manufaktūrų g.,113364,2776,1,40.84,3,6
+2424,Žirmūnai,Žirmūnų g.,115000,1205,5,95.41,5,5
+2425,Senamiestis,Pylimo g.,91000,1022,3,89,1,2
+2426,Šiaurės miestelis,S. Žukausko g.,94000,2000,1,47,5,9
+2427,Karoliniškės,Algimanto Petro Kavoliuko g.,70000,1681,2,41.64,1,5
+2428,Viršuliškės,Viršuliškių g.,71900,1123,3,64,2,12
+2429,Pašilaičiai,Laisvės pr.,165000,1086,4,152,4,5
+2430,Senamiestis,Gedimino pr.,152615,3399,2,44.9,4,6
+2431,Fabijoniškės,Kaimelio g.,117900,1593,3,74,3,4
+2432,Senamiestis,Bazilijonų g.,154800,3000,2,51.6,4,4
+2433,Senamiestis,Bazilijonų g.,162014,2950,3,54.92,4,4
+2434,Senamiestis,Bazilijonų g.,103896,2700,2,38.48,3,4
+2435,Senamiestis,Bazilijonų g.,169400,2500,3,67.76,3,4
+2436,Antakalnis,Rudens g.,139000,1605,3,86.62,4,5
+2437,Žvėrynas,Latgalių g.,329000,2788,4,118,3,3
+2438,Naujoji Vilnia,Parko g.,41565,1386,1,30,4,4
+2439,Senamiestis,Raugyklos g.,150000,3128,2,47.95,4,4
+2440,Šnipiškės,Šilutės g.,11900,596,1,19.96,1,1
+2441,Antakalnis,Žirgo g.,189000,2155,3,87.71,8,20
+2442,Lazdynėliai,Lazdynėlių g.,69500,1622,2,42.85,5,5
+2443,Naujamiestis,Statybininkų g.,167000,3236,2,51.61,7,9
+2444,Karoliniškės,Loretos Asanavičiūtės g.,73800,2450,2,30.12,2,4
+2445,Šnipiškės,Kintų g.,150000,1746,4,85.91,2,6
+2446,Viršuliškės,Spaudos g.,67800,1550,2,43.75,2,16
+2447,Lazdynėliai,Lazdynėlių g.,89000,1745,2,51,1,5
+2448,Pašilaičiai,Eitminų g.,92000,1278,3,72,5,9
+2449,Žvėrynas,Birutės g.,441336,4899,3,90.08,1,3
+2450,Senamiestis,Barboros Radvilaitės g.,199000,4326,2,46,2,2
+2451,Žvėrynas,Sėlių g.,220000,2580,3,85.28,3,4
+2452,Karoliniškės,Spaudos g.,63900,1728,2,36.97,3,16
+2453,Šnipiškės,Giedraičių g.,78000,1755,2,44.44,1,10
+2454,Užupis,Užupio g.,135000,3506,1,38.51,1,1
+2455,Užupis,Užupio g.,125000,3553,1,35.18,1,1
+2456,Salininkai,Kalviškių g.,53000,1128,2,47,3,3
+2457,Bajorai,Bajorų kel.,94999,2291,2,41.47,4,4
+2458,Bajorai,Bajorų kel.,94999,2262,2,42,4,4
+2459,Senamiestis,Krivių g.,249000,3000,3,83,1,4
+2460,Žirmūnai,Rinktinės g.,69300,2119,1,32.71,2,9
+2461,Šeškinė,Siesikų g.,62500,2100,1,29.76,4,9
+2462,Žirmūnai,Trinapolio g.,139000,1550,4,89.67,4,10
+2463,Senamiestis,L. Stuokos-Gucevičiaus g.,249000,2800,4,88.92,1,3
+2464,Žirmūnai,Trinapolio g.,142000,1578,4,89.99,7,10
+2465,Lazdynėliai,Jonažolių g.,119000,1768,3,67.3,3,7
+2466,Pašilaičiai,Perkūnkiemio g.,89900,1499,2,59.97,5,8
+2467,Antakalnis,Vytauto Žalakevičiaus g.,329000,3392,3,97,5,6
+2468,Naujamiestis,J. Basanavičiaus g.,180000,1856,3,97,4,4
+2469,Senamiestis,Malūnų g.,308750,3356,4,92,3,3
+2470,Šnipiškės,Daugėliškio g.,110000,2556,2,43.04,6,6
+2471,Šnipiškės,Kernavės g.,105000,2389,2,43.95,2,7
+2472,Senamiestis,Naugarduko g.,147000,1905,3,77.17,3,4
+2473,Naujamiestis,Naugarduko g.,147000,1905,3,77.17,3,4
+2474,Šnipiškės,Kalvarijų g.,56000,1613,1,34.71,2,5
+2475,Naujininkai,Zanavykų g.,65000,1490,2,43.63,4,4
+2476,Vilkpėdė,Gerosios Vilties g.,117000,1887,3,62,2,6
+2477,Naujamiestis,Gerosios Vilties g.,127500,1933,3,65.96,4,6
+2478,Naujininkai,Dariaus ir Girėno g.,11050,181,3,61.11,1,1
+2479,Senamiestis,A. Rotundo g.,780000,4671,4,167,6,6
+2480,Senamiestis,Ligoninės g.,365000,2808,4,130,1,4
+2481,Lazdynai,Architektų g.,77500,1250,3,62,5,5
+2482,Senamiestis,J. Basanavičiaus g.,228000,1900,4,120,3,3
+2483,Naujamiestis,Gerosios Vilties g.,117500,1903,3,61.73,3,6
+2484,Naujamiestis,Gerosios Vilties g.,117000,1887,3,62,3,6
+2485,Naujamiestis,Gerosios Vilties g.,98500,1921,2,51.28,3,6
+2486,Naujamiestis,Gerosios Vilties g.,163000,2081,3,78.34,1,6
+2487,Naujamiestis,Gerosios Vilties g.,152000,2064,3,73.65,1,6
+2488,Markučiai,Subačiaus g.,109000,2249,2,48.47,3,3
+2489,Senamiestis,Vašingtono a.,360000,1764,5,204.12,5,5
+2490,Senamiestis,Etmonų g.,390000,6494,3,60.06,2,4
+2491,Baltupiai,Jeronimo Ralio g.,60450,1950,2,31,5,5
+2492,Senamiestis,Pranciškonų g.,197000,3243,2,60.75,1,2
+2493,Šnipiškės,Kintų g.,81000,2401,1,33.74,1,6
+2494,Šnipiškės,Kernavės g.,81000,2401,1,33.74,1,7
+2495,Šnipiškės,Kernavės g.,140000,1987,3,70.46,3,6
+2496,Šnipiškės,A. Juozapavičiaus g.,595000,3790,4,157,9,12
+2497,Šnipiškės,Konstitucijos pr.,560788,4559,4,123,27,29
+2498,Šnipiškės,Konstitucijos pr.,752840,4000,4,188.21,20,29
+2499,Šnipiškės,Konstitucijos pr.,504906,3796,4,133,22,29
+2500,Rasos,Liepkalnio g.,112000,1867,3,60,1,3
+2501,Senamiestis,Liepkalnio g.,112000,1867,3,60,1,3
+2502,Naujininkai,Liepkalnio g.,112000,1867,3,60,1,3
+2503,Naujamiestis,Gerosios Vilties g.,104000,2120,2,49.05,1,6
+2504,Naujamiestis,Gerosios Vilties g.,96500,2188,2,44.11,1,6
+2505,Naujamiestis,Gerosios Vilties g.,95499,2252,2,42.4,1,6
+2506,Senamiestis,T. Ševčenkos g.,92000,2190,2,42,4,4
+2507,Naujamiestis,T. Ševčenkos g.,92000,2190,2,42,4,4
+2508,Valakampiai,Svajonių g.,109900,1340,3,82,2,3
+2509,Šnipiškės,Vito Gerulaičio g.,140000,2333,3,60,1,5
+2510,Šiaurės miestelis,Vito Gerulaičio g.,140000,2333,3,60,1,5
+2511,Žirmūnai,Vito Gerulaičio g.,140000,2333,3,60,1,5
+2512,Baltupiai,Vito Gerulaičio g.,140000,2333,3,60,1,5
+2513,Senamiestis,Šaltinio g.,268000,3454,3,77.6,2,7
+2514,Naujamiestis,Vytenio g.,149000,1863,2,80,4,4
+2515,Naujoji Vilnia,Parko g.,36000,1184,1,30.4,5,5
+2516,Karoliniškės,Spaudos g.,55800,2015,1,27.69,7,16
+2517,Lazdynėliai,Neužmirštuolių g.,121000,1330,4,91,3,4
+2518,Naujininkai,Šv. Stepono g.,21700,948,1,22.89,1,2
+2519,Naujininkai,Šv. Stepono g.,49400,339,2,145.73,1,2
+2520,Naujininkai,Panevėžio g.,99000,1253,4,79,3,4
+2521,Naujininkai,Panevėžio g.,69000,1500,2,46,2,4
+2522,Pilaitė,Karaliaučiaus g.,79999,1818,2,44,4,5
+2523,Šnipiškės,Linkmenų g.,135800,1700,4,79.86,2,9
+2524,Šnipiškės,Kernavės g.,87000,2446,2,35.57,2,7
+2525,Šnipiškės,Daugėliškio g.,152000,1848,4,82.26,5,7
+2526,Senamiestis,Naugarduko g.,235000,3367,3,69.8,1,4
+2527,Senamiestis,Pylimo g.,235000,3357,3,70,1,3
+2528,Žvėrynas,Liepyno g.,149900,3222,2,46.52,4,6
+2529,Naujoji Vilnia,A. Kojelavičiaus g.,77000,713,5,108,2,2
+2530,Antakalnis,Nemenčinės pl.,175000,1496,4,117,3,6
+2531,Valakampiai,Rato g.,179000,2754,2,65,2,3
+2532,Grigiškės,Viržių g.,67000,1000,3,67,1,1
+2533,Balsiai,Želmenų g.,104900,1110,4,94.5,1,2
+2534,Antakalnis,Rudens g.,159000,1993,3,79.77,4,5
+2535,Filaretai,Rudens g.,159000,1993,2,79.77,4,5
+2536,Filaretai,Rudens g.,159000,1993,3,79.77,4,5
+2537,Pilaitė,M. Mažvydo g.,62600,1610,2,38.89,5,5
+2538,Pilaitė,M. Mažvydo g.,73500,1587,2,46.32,4,5
+2539,Pilaitė,M. Mažvydo g.,86000,1577,3,54.52,4,5
+2540,Pilaitė,M. Mažvydo g.,65900,1530,2,43.06,2,5
+2541,Pilaitė,M. Mažvydo g.,93900,1543,3,60.87,3,5
+2542,Pilaitė,M. Mažvydo g.,49000,1638,1,29.91,2,5
+2543,Žvėrynas,Treniotos g.,180000,2539,3,70.89,1,2
+2544,Žirmūnai,Raitininkų g.,375000,2913,4,128.72,2,6
+2545,Pilaitė,M. Mažvydo g.,48300,1567,1,30.82,1,5
+2546,Naujamiestis,A. Smetonos g.,269000,2562,5,105,2,4
+2547,Pilaitė,Spaudos g.,87500,1552,3,56.39,4,16
+2548,Karoliniškės,Pilaitės pr.,91000,1591,3,57.19,5,16
+2549,Viršuliškės,Spaudos g.,119700,2080,3,57.54,16,16
+2550,Justiniškės,Spaudos g.,96100,1702,3,56.45,2,16
+2551,Justiniškės,Spaudos g.,96100,1702,3,56.45,2,16
+2552,Senamiestis,Šaltinių g.,350000,4118,3,85,5,5
+2553,Jeruzalė,Bitininkų g.,91000,1690,2,53.85,8,8
+2554,Karoliniškės,Spaudos g.,155100,1919,4,80.83,12,16
+2555,Šnipiškės,Giedraičių g.,66000,2115,1,31.21,2,9
+2556,Lazdynėliai,Miškinių g.,186000,1431,4,130,1,2
+2557,Užupis,Olandų g.,150000,2308,3,65,1,5
+2558,Žirmūnai,Olimpiečių g.,378793,4474,3,84.66,2,4
+2559,Antakalnis,Rudens g.,140000,1348,4,103.86,2,2
+2560,Šnipiškės,Kalvarijų g.,11430,534,1,21.41,1,1
+2561,Šnipiškės,Kalvarijų g.,19170,433,2,44.26,1,1
+2562,Naujamiestis,Gerosios Vilties g.,128000,1931,3,66.29,2,6
+2563,Karoliniškės,Loretos Asanavičiūtės g.,62000,1240,2,50,5,9
+2564,Naujininkai,Gudų g.,9500,402,1,23.64,2,2
+2565,Naujininkai,Gudų g.,19600,503,4,39,1,1
+2566,Liepkalnis,Liepkalnio g.,22000,1940,1,11.34,4,5
+2567,Senamiestis,Raugyklos g.,110000,3653,1,30.11,1,3
+2568,Senamiestis,K. Kalinausko g.,97314,2050,2,47.47,2,2
+2569,Senamiestis,Olimpiečių g.,740000,5827,3,127,3,4
+2570,Pašilaičiai,Laisvės pr.,68000,1598,2,42.55,5,6
+2571,Fabijoniškės,S. Stanevičiaus g.,106000,1342,4,79,8,9
+2572,Balsiai,Želmenų g.,110000,1170,4,94,1,2
+2573,Pašilaičiai,Leičių g.,63300,1319,2,48,6,9
+2574,Pašilaičiai,Laisvės pr.,62000,1378,2,45,8,9
+2575,Antakalnis,Rūtų g.,524857,4374,3,120,1,4
+2576,Šeškinė,Ozo g.,95000,2030,2,46.79,4,5
+2577,Žirmūnai,Žirmūnų g.,29000,1239,1,23.4,3,5
+2578,Lazdynėliai,Lazdynėlių g.,76000,1651,2,46.03,2,4
+2579,Lazdynėliai,Lazdynėlių g.,76000,1651,2,46.03,2,4
+2580,Grigiškės,Kovo 11-osios g.,64900,1202,2,54,1,2
+2581,Antakalnis,Antakalnio g.,114000,1713,2,66.54,4,4
+2582,Šnipiškės,Giedraičių g.,139900,1930,3,72.49,4,4
+2583,Naujamiestis,Gerosios Vilties g.,171000,1901,4,89.93,3,6
+2584,Šeškinė,Laisvės pr.,78800,1876,2,42,9,9
+2585,Senamiestis,Gaono g.,165600,2367,1,69.96,1,3
+2586,Šnipiškės,Kernavės g.,150000,1746,4,85.91,5,6
+2587,Šnipiškės,Kernavės g.,150000,1746,4,85.91,5,6
+2588,Šnipiškės,Konstitucijos pr.,220000,3860,2,57,22,29
+2589,Žvėrynas,Birutės g.,815233,7479,3,109,3,3
+2590,Šnipiškės,Konstitucijos pr.,345000,2654,4,130,13,29
+2591,Šnipiškės,Konstitucijos pr.,284500,3197,3,89,19,29
+2592,Senamiestis,Savičiaus g.,290000,3494,4,83,1,3
+2593,Viršuliškės,Pilaitės pr.,155100,1919,4,80.83,12,16
+2594,Karoliniškės,Algimanto Petro Kavoliuko g.,134950,1754,3,76.96,5,5
+2595,Pilaitė,Bitėnų g.,75000,1430,3,52.44,2,5
+2596,Naujamiestis,Z. Sierakausko g.,133068,2629,2,50.62,1,4
+2597,Antakalnis,L. Sapiegos g.,110300,2209,2,49.93,3,7
+2598,Antakalnis,L. Sapiegos g.,111300,2224,2,50.04,3,7
+2599,Antakalnis,L. Sapiegos g.,144800,2115,3,68.46,3,7
+2600,Antakalnis,L. Sapiegos g.,117200,2176,2,53.86,3,7
+2601,Antakalnis,L. Sapiegos g.,111300,2184,2,50.96,3,7
+2602,Antakalnis,L. Sapiegos g.,147500,2053,3,71.84,3,7
+2603,Naujamiestis,Gerosios Vilties g.,56000,2150,1,26.05,1,6
+2604,Šeškinė,Siesikų g.,103700,1863,3,55.66,2,9
+2605,Šeškinė,Ozo g.,75000,1908,2,39.31,3,5
+2606,Šeškinė,Ozo g.,165000,1969,4,83.8,3,5
+2607,Šeškinė,Siesikų g.,79300,2488,1,31.87,5,8
+2608,Naujamiestis,Gerosios Vilties g.,64500,1947,1,33.12,2,6
+2609,Naujamiestis,Gerosios Vilties g.,63000,1902,1,33.12,2,6
+2610,Antakalnis,Gailestingųjų Seserų g.,199000,2726,3,73,1,3
+2611,Antakalnis,L. Sapiegos g.,114500,2340,2,48.93,4,7
+2612,Antakalnis,L. Sapiegos g.,147800,2237,3,66.06,4,7
+2613,Antakalnis,L. Sapiegos g.,120300,2280,2,52.76,4,7
+2614,Antakalnis,L. Sapiegos g.,114400,2302,2,49.7,4,7
+2615,Antakalnis,L. Sapiegos g.,154600,2187,3,70.69,4,7
+2616,Antakalnis,L. Sapiegos g.,110300,2250,2,49.03,3,7
+2617,Antakalnis,L. Sapiegos g.,144800,2196,3,65.94,3,7
+2618,Antakalnis,L. Sapiegos g.,117200,2216,2,52.89,3,7
+2619,Antakalnis,L. Sapiegos g.,147500,2091,3,70.55,3,7
+2620,Pašilaičiai,Ukmergės g.,121000,1514,3,79.93,8,8
+2621,Naujininkai,A. Jaroševičiaus g.,35500,777,2,45.66,2,2
+2622,Baltupiai,Kolektyvo g.,190000,1462,5,130,1,2
+2623,Senamiestis,T. Vrublevskio g.,425000,2742,5,155,4,5
+2624,Senamiestis,T. Vrublevskio g.,195000,2635,3,74,4,5
+2625,Naujoji Vilnia,Gerovės g.,79500,987,4,80.58,1,5
+2626,Žirmūnai,Šeimyniškių g.,214999,2219,4,96.89,1,2
+2627,Šnipiškės,Šeimyniškių g.,214999,2219,4,96.89,1,2
+2628,Naujamiestis,Savanorių pr.,244000,3486,3,70,1,8
+2629,Senamiestis,Šv. Stepono g.,89000,1220,5,72.95,3,3
+2630,Lazdynėliai,Rūko g.,77000,1638,2,47,2,3
+2631,Šeškinė,Gelvonų g.,86500,1368,3,63.25,3,5
+2632,Senamiestis,Šv. Stepono g.,110000,994,3,110.63,3,3
+2633,Senamiestis,Šv. Stepono g.,349000,999,7,349.4,3,3
+2634,Markučiai,Sibiro g.,79000,1302,3,60.69,1,2
+2635,Šnipiškės,Konstitucijos pr.,198999,2884,3,69,21,27
+2636,Senamiestis,Aguonų g.,425000,2977,5,142.76,5,6
+2637,Senamiestis,Didžioji g.,300000,5556,2,54,2,4
+2638,Trakų Vokė,Žalioji a.,49000,1155,2,42.42,2,2
+2639,Lazdynai,Architektų g.,66500,1091,3,60.95,5,5
+2640,Pašilaičiai,Ukmergės g.,130000,1704,3,76.28,4,9
+2641,Senamiestis,Šv. Stepono g.,122000,999,2,122.14,3,3
+2642,Senamiestis,Šv. Stepono g.,116000,995,3,116.63,3,3
+2643,Užupis,Malūnų g.,176000,4142,2,42.49,2,3
+2644,Žvėrynas,Malonioji g.,100000,1225,4,81.61,2,2
+2645,Baltupiai,Didlaukio g.,18990,1073,1,17.7,6,12
+2646,Pilaitė,Simono Grunau g.,119900,1262,4,95,1,2
+2647,Žirmūnai,Olimpiečių g.,304847,3542,3,86.07,3,4
+2648,Šeškinė,Ozo g.,86000,1934,2,44.46,2,5
+2649,Šeškinė,Ozo g.,114000,1817,3,62.73,2,5
+2650,Senamiestis,Mindaugo g.,129000,3071,2,42,2,3
+2651,Naujamiestis,Savanorių pr.,145000,1933,3,75,1,5
+2652,Senamiestis,Aušros Vartų g.,980000,1463,20,670,2,3
+2653,Senamiestis,Šv. Stepono g.,238000,997,5,238.77,3,3
+2654,Šeškinė,Siesikų g.,88100,1847,2,47.71,1,9
+2655,Pašilaičiai,Perkūnkiemio g.,113000,1355,3,83.37,6,10
+2656,Pilaitė,Tolminkiemio g.,65000,1287,2,50.49,5,5
+2657,Antakalnis,Žolyno g.,300000,2585,4,116.05,4,4
+2658,Šnipiškės,Konstitucijos pr.,223533,2550,4,87.66,11,29
+2659,Naujamiestis,Konstitucijos pr.,222852,2450,4,90.96,10,29
+2660,Šnipiškės,Konstitucijos pr.,390156,3900,3,100.04,14,29
+2661,Naujoji Vilnia,A. Kojelavičiaus g.,117000,1560,3,75,2,2
+2662,Kalnėnai,Kroatų g.,125000,1185,4,105.45,1,2
+2663,Pilaitė,Tolminkiemio g.,89999,1027,4,87.62,5,5
+2664,Pašilaičiai,Perkūnkiemio g.,97000,1528,2,63.5,8,9
+2665,Senamiestis,Stiklių g.,360000,4390,4,82,4,4
+2666,Žirmūnai,Kalvarijų g.,13950,401,2,34.75,2,2
+2667,Žvėrynas,Vytauto g.,13410,715,1,18.75,1,1
+2668,Viršuliškės,Spaudos g.,54500,1968,1,27.69,6,16
+2669,Viršuliškės,Spaudos g.,54500,1968,1,27.69,6,16
+2670,Užupis,Manufaktūrų g.,75000,2040,1,36.76,2,4
+2671,Antakalnis,Tverečiaus g.,95000,1347,4,70.54,1,7
+2672,Senamiestis,Trakų g.,399968,3495,3,114.44,2,3
+2673,Šnipiškės,Konstitucijos pr.,239895,2700,4,88.85,6,29
+2674,Naujamiestis,Raugyklos g.,221000,2680,4,82.45,2,4
+2675,Senamiestis,Raugyklos g.,221000,2679,4,82.5,2,4
+2676,Šnipiškės,Konstitucijos pr.,162965,2750,2,59.26,11,29
+2677,Senamiestis,Konstitucijos pr.,162965,2750,2,59.26,11,29
+2678,Žirmūnai,Kalvarijų g.,329900,2307,4,143.02,7,8
+2679,Šnipiškės,Kalvarijų g.,329900,2307,4,143.02,7,8
+2680,Antakalnis,Vytauto Žalakevičiaus g.,161000,2758,2,58.37,4,6
+2681,Šnipiškės,Konstitucijos pr.,160839,2700,3,59.57,12,29
+2682,Šnipiškės,Konstitucijos pr.,163000,2739,2,59.5,12,29
+2683,Naujamiestis,Konstitucijos pr.,160000,2667,2,60,12,29
+2684,Šeškinė,Siesikų g.,329000,2329,5,141.25,8,8
+2685,Pašilaičiai,Leičių g.,64000,1187,2,53.9,1,9
+2686,Pašilaičiai,Leičių g.,64000,1187,2,53.9,1,9
+2687,Pašilaičiai,Leičių g.,62000,1292,2,48,1,9
+2688,Šnipiškės,Kernavės g.,92000,2576,2,35.71,2,6
+2689,Šnipiškės,Kernavės g.,85000,2389,2,35.58,1,6
+2690,Viršuliškės,Spaudos g.,70600,1699,2,41.55,8,16
+2691,Fabijoniškės,S. Stanevičiaus g.,55900,1402,1,39.87,3,5
+2692,Antakalnis,Olandų g.,87000,2472,2,35.2,2,6
+2693,Lazdynėliai,Rūko g.,48000,1800,1,26.67,2,3
+2694,Šeškinė,Siesikų g.,112900,2028,3,55.66,1,8
+2695,Lazdynėliai,Lazdynėlių g.,97500,1681,3,58,4,4
+2696,Lazdynėliai,Lazdynėlių g.,78400,1702,2,46.05,4,4
+2697,Lazdynėliai,Lazdynėlių g.,87900,1660,3,52.95,3,4
+2698,Lazdynėliai,Lazdynėlių g.,92700,1644,3,56.39,3,4
+2699,Lazdynėliai,Lazdynėlių g.,79200,1662,2,47.64,3,4
+2700,Lazdynėliai,Lazdynėlių g.,56800,1709,1,33.24,2,4
+2701,Lazdynėliai,Lazdynėlių g.,49600,1696,1,29.25,2,4
+2702,Lazdynėliai,Lazdynėlių g.,105000,1666,4,63.03,2,4
+2703,Lazdynėliai,Lazdynėlių g.,48300,1651,1,29.25,1,4
+2704,Lazdynėliai,Lazdynėlių g.,73900,1637,2,45.14,1,4
+2705,Lazdynėliai,Lazdynėlių g.,86300,1669,2,51.7,3,5
+2706,Lazdynėliai,Lazdynėlių g.,86900,1646,3,52.81,3,5
+2707,Lazdynėliai,Lazdynėlių g.,89300,1648,2,54.18,4,5
+2708,Lazdynėliai,Lazdynėlių g.,94500,1710,3,55.25,5,5
+2709,Lazdynėliai,Lazdynėlių g.,61800,1695,2,36.45,1,4
+2710,Lazdynėliai,Lazdynėlių g.,79000,1687,2,46.84,3,4
+2711,Lazdynėliai,Lazdynėlių g.,76900,1683,2,45.68,4,4
+2712,Lazdynėliai,Lazdynėlių g.,59600,1746,1,34.13,4,4
+2713,Lazdynėliai,Lazdynėlių g.,111600,1639,4,68.08,3,5
+2714,Lazdynėliai,Lazdynėlių g.,111600,1629,4,68.52,3,5
+2715,Antakalnis,Antakalnio g.,100000,1658,2,60.33,1,3
+2716,Senamiestis,Didžioji g.,209000,3732,3,56,3,3
+2717,Senamiestis,Šv. Stepono g.,341900,3225,4,106,2,2
+2718,Šnipiškės,Konstitucijos pr.,482000,4228,3,114,25,29
+2719,Senamiestis,Šaltinių g.,282466,5100,2,55.39,6,6
+2720,Senamiestis,Šaltinių g.,133155,3200,2,41.61,6,6
+2721,Šnipiškės,Giedraičių g.,170000,1071,6,158.67,2,2
+2722,Šnipiškės,Giedraičių g.,104000,1937,3,53.68,4,9
+2723,Pašilaičiai,Ukmergės g.,88000,1397,2,63,2,9
+2724,Lazdynėliai,Rūko g.,158000,1596,3,99,1,3
+2725,Lazdynėliai,Rūko g.,50000,1687,1,29.63,1,3
+2726,Lazdynėliai,Pažagiškių g.,140000,1386,3,101,3,3
+2727,Fabijoniškės,Ukmergės g.,8100,301,1,26.94,1,1
+2728,Naujininkai,Prūsų g.,31300,896,2,34.92,2,2
+2729,Šnipiškės,Kalvarijų g.,24500,707,1,34.64,1,1
+2730,Naujininkai,Dzūkų g.,10900,532,1,20.5,1,1
+2731,Šnipiškės,Krokuvos g.,18000,801,1,22.48,1,1
+2732,Senamiestis,A. Jakšto g.,145000,2685,2,54,5,5
+2733,Senamiestis,A. Jakšto g.,145000,2685,2,54,5,5
+2734,Naujamiestis,Naugarduko g.,96000,1846,3,52,1,3
+2735,Pašilaičiai,Gabijos g.,82500,1607,2,51.35,2,5
+2736,Užupis,Užupio g.,680000,2957,5,230,2,3
+2737,Senamiestis,Šiaulių g.,640000,4923,3,130,4,4
+2738,Šnipiškės,Konstitucijos pr.,1300000,4075,4,319,27,27
+2739,Senamiestis,Vokiečių g.,279000,2942,3,94.82,4,4
+2740,Jeruzalė,Rugių g.,110000,1746,2,63,2,5
+2741,Karoliniškės,Algimanto Petro Kavoliuko g.,99500,1706,3,58.33,2,5
+2742,Karoliniškės,Algimanto Petro Kavoliuko g.,95000,1695,3,56.05,2,5
+2743,Naujamiestis,Mindaugo g.,195000,2671,2,73,6,7
+2744,Naujamiestis,Mindaugo g.,195000,2671,3,73,6,7
+2745,Šnipiškės,Olimpiečių g.,495000,5038,3,98.25,3,6
+2746,Lazdynai,Erfurto g.,139000,1695,3,82,7,9
+2747,Šiaurės miestelis,S. Žukausko g.,112500,2045,2,55,4,5
+2748,Lazdynai,Architektų g.,47499,1439,1,33,4,5
+2749,Visoriai,Bajorų Sodų 2-oji g.,144000,2365,3,60.9,2,2
+2750,Šnipiškės,Konstitucijos pr.,249000,3000,3,83,5,27
+2751,Senamiestis,Mindaugo g.,210000,2386,3,88,2,5
+2752,Liepkalnis,Liepkalnio g.,47900,1168,2,41,1,2
+2753,Baltupiai,Kalvarijų g.,18200,910,1,20,10,12
+2754,Senamiestis,A. Jakšto g.,148999,797,3,187,5,5
+2755,Pašilaičiai,Leičių g.,65000,1428,1,45.51,1,9
+2756,Pašilaičiai,Leičių g.,65000,1428,1,45.51,1,9
+2757,Pilaitė,Bitėnų g.,66000,1540,2,42.87,1,5
+2758,Antakalnis,P. Vileišio g.,287383,2811,4,102.24,4,4
+2759,Šiaurės miestelis,Žygio g.,105000,1974,2,53.18,2,8
+2760,Šiaurės miestelis,Žygio g.,105000,1974,1,53.18,2,8
+2761,Naujamiestis,Panerių g.,99000,1394,2,71,1,2
+2762,Pašilaičiai,Pašilaičių g.,74800,1438,2,52,3,9
+2763,Antakalnis,P. Vileišio g.,206000,2822,2,73,2,3
+2764,Antakalnis,P. Vileišio g.,246000,2899,3,84.87,2,3
+2765,Antakalnis,P. Vileišio g.,234000,2645,3,88.48,2,3
+2766,Senamiestis,K. Kalinausko g.,840000,5810,4,144.58,5,6
+2767,Naujamiestis,K. Kalinausko g.,840000,5810,4,144.58,5,6
+2768,Žirmūnai,Žirmūnų g.,54800,1827,1,30,1,9
+2769,Užupis,Krivių g.,255000,3000,3,85,4,4
+2770,Senamiestis,Krivių g.,255000,3000,3,85,4,4
+2771,Santariškės,J. Franko g.,229000,1495,4,153.22,3,4
+2772,Naujamiestis,S. Konarskio g.,85000,2237,1,38,6,9
+2773,Senamiestis,Pelesos g.,199000,1776,3,112.07,1,3
+2774,Senamiestis,T. Kosciuškos g.,300000,3333,4,90,4,4
+2775,Pilaitė,Gilužio g.,100000,1532,3,65.28,2,3
+2776,Senamiestis,Raugyklos g.,333000,2614,5,127.4,1,4
+2777,Senamiestis,Raugyklos g.,119000,2938,2,40.5,3,4
+2778,Lazdynėliai,Lazdynėlių g.,72000,1714,2,42,2,4
+2779,Antakalnis,V. Grybo g.,244900,2073,4,118.12,1,5
+2780,Lazdynėliai,Lazdynėlių g.,103000,1591,3,64.75,3,4
+2781,Lazdynėliai,Lazdynėlių g.,106000,1540,3,68.85,2,4
+2782,Lazdynėliai,Lazdynėlių g.,67000,1694,2,39.54,2,4
+2783,Lazdynėliai,Lazdynėlių g.,102000,1626,3,62.74,1,4
+2784,Senamiestis,Šv. Stepono g.,89900,2900,1,31,1,2
+2785,Senamiestis,Naugarduko g.,246000,2992,4,82.21,2,4
+2786,Senamiestis,Naugarduko g.,233700,2850,4,82,2,3
+2787,Senamiestis,Aguonų g.,278000,2897,4,95.96,4,6
+2788,Santariškės,Bajorų kel.,124900,1650,3,75.68,4,9
+2789,Bajorai,Bajorų kel.,124900,1650,3,75.68,4,9
+2790,Senamiestis,M. Antokolskio g.,150000,3333,2,45,2,3
+2791,Senamiestis,Ligoninės g.,149000,3333,3,44.7,2,2
+2792,Užupis,Baltasis skg.,430000,3711,4,115.86,2,2
+2793,Karoliniškės,Pilaitės pr.,81500,1919,2,42.47,11,16
+2794,Viršuliškės,Spaudos g.,81500,1919,2,42.47,11,16
+2795,Fabijoniškės,L. Giros g.,85000,1250,3,68,4,9
+2796,Senamiestis,Kaštonų g.,449000,2272,5,197.6,1,4
+2797,Senamiestis,Gedimino pr.,185000,2569,3,72,4,4
+2798,Šnipiškės,Apkasų g.,60000,1304,2,46,5,5
+2799,Naujamiestis,S. Konarskio g.,180000,1978,4,91,3,5
+2800,Jeruzalė,Baltupio g.,177500,1235,4,143.72,3,6
+2801,Baltupiai,Baltupio g.,177500,1235,4,143.72,3,6
+2802,Valakampiai,Turniškių g.,182000,2364,3,77,3,3
+2803,Antakalnis,Turniškių g.,182000,2364,3,77,3,3
+2804,Valakampiai,Turniškių g.,229500,2441,4,94,3,3
+2805,Žvėrynas,S. Moniuškos g.,135000,1639,3,82.36,1,1
+2806,Žirmūnai,Žygio g.,155000,1649,3,94,5,8
+2807,Jeruzalė,Visorių g.,44500,1109,3,40.12,1,1
+2808,Baltupiai,Visorių g.,44500,1109,3,40.12,1,1
+2809,Senamiestis,Pylimo g.,107000,2140,2,50,3,4
+2810,Senamiestis,Pylimo g.,350000,3940,4,88.84,3,3
+2811,Žirmūnai,Konstitucijos pr.,350920,2850,4,123.13,17,29
+2812,Žirmūnai,Konstitucijos pr.,174286,2950,2,59.08,15,29
+2813,Žirmūnai,Konstitucijos pr.,322915,2900,4,111.35,15,29
+2814,Užupis,Darbo g.,135000,1038,5,130,1,3
+2815,Senamiestis,T. Kosciuškos g.,158131,3118,2,50.71,3,3
+2816,Senamiestis,Šv. Mykolo g.,400000,4938,2,81,1,3
+2817,Justiniškės,Taikos g.,56000,1600,1,35,3,5
+2818,Lazdynėliai,Lazdynėlių g.,68200,1714,2,39.78,3,4
+2819,Žvėrynas,Birutės g.,400756,3968,4,101,2,3
+2820,Naujamiestis,Konstitucijos pr.,187000,3169,2,59,18,29
+2821,Kalnėnai,Kroatų g.,125000,1185,4,105.45,1,2
+2822,Šeškinė,Ozo g.,97000,1990,2,48.74,4,5
+2823,Senamiestis,Žemaitijos g.,71800,2010,2,35.73,2,3
+2824,Senamiestis,Užupio g.,79700,2154,2,37,3,3
+2825,Senamiestis,V. Šopeno g.,130000,1714,3,75.86,2,4
+2826,Naujininkai,Šaltkalvių g.,17000,944,1,18,5,5
+2827,Bajorai,Mėtų g.,119000,1190,4,100,1,1
+2828,Paneriai,Eišiškių pl.,30500,1605,1,19,3,3
+2829,Šnipiškės,Kalvarijų g.,53460,1350,2,39.6,1,1
+2830,Senamiestis,Filaretų g.,51930,1348,2,38.51,1,1
+2831,Lazdynėliai,Lazdynėlių g.,93700,1685,3,55.6,4,5
+2832,Lazdynėliai,Lazdynėlių g.,92900,1671,3,55.6,2,5
+2833,Lazdynėliai,Lazdynėlių g.,87700,1648,3,53.2,4,5
+2834,Lazdynėliai,Lazdynėlių g.,90100,1653,2,54.5,5,5
+2835,Lazdynėliai,Lazdynėlių g.,60200,1678,2,35.88,1,5
+2836,Lazdynėliai,Lazdynėlių g.,86400,1650,3,52.37,2,5
+2837,Lazdynėliai,Lazdynėlių g.,84500,1658,2,50.97,2,5
+2838,Lazdynėliai,Lazdynėlių g.,73900,1725,2,42.85,3,5
+2839,Lazdynėliai,Lazdynėlių g.,58000,1684,1,34.45,2,5
+2840,Senamiestis,Aguonų g.,342988,3800,3,90.26,4,5
+2841,Šnipiškės,Konstitucijos pr.,155714,2600,3,59.89,8,29
+2842,Šnipiškės,Konstitucijos pr.,154908,2600,2,59.58,8,29
+2843,Užupis,Manufaktūrų g.,121500,2531,2,48,1,5
+2844,Naujoji Vilnia,Skardžio g.,35000,763,2,45.9,1,1
+2845,Antakalnis,Rūtų g.,624000,4423,4,141.08,3,4
+2846,Antakalnis,Rūtų g.,690200,3920,4,176.05,1,3
+2847,Jeruzalė,Ateities g.,84900,1103,4,77,5,9
+2848,Pilaitė,Tolminkiemio g.,65500,1429,2,45.84,1,4
+2849,Fabijoniškės,Fabijoniškių g.,74500,1113,3,66.91,5,5
+2850,Bajorai,Bajorų kel.,129000,1573,3,82,2,9
+2851,Žvėrynas,Vykinto g.,350000,3804,4,92,1,2
+2852,Naujamiestis,Mindaugo g.,90000,2571,2,35,1,5
+2853,Pašilaičiai,Tarandės g.,72000,1216,3,59.2,3,4
+2854,Senamiestis,L. Stuokos-Gucevičiaus g.,320000,2133,1,150,2,2
+2855,Senamiestis,Subačiaus g.,135000,2813,2,48,2,3
+2856,Senamiestis,Subačiaus g.,135000,2813,2,48,2,3
+2857,Žvėrynas,Blindžių g.,184900,2592,2,71.34,2,4
+2858,Naujamiestis,T. Ševčenkos g.,165000,1833,3,90,3,4
+2859,Naujamiestis,Savanorių pr.,104000,1393,3,74.66,4,5
+2860,Antakalnis,Rato g.,99919,2044,2,48.89,1,3
+2861,Valakampiai,Rato g.,99919,2044,2,48.89,1,3
+2862,Senamiestis,Aguonų g.,299000,3331,3,89.76,4,5
+2863,Senamiestis,Totorių g.,251900,3704,2,68,1,2
+2864,Viršuliškės,Pilaitės pr.,104000,1807,3,57.54,12,16
+2865,Pilaitė,Pilaitės pr.,104000,1822,3,57.09,12,16
+2866,Karoliniškės,Spaudos g.,67500,1826,2,36.96,6,16
+2867,Pašilaičiai,Pavilnionių g.,95000,1250,3,76,2,5
+2868,Kalnėnai,Lukšinės g.,81500,1173,3,69.5,1,2
+2869,Kalnėnai,Lukšinės g.,81500,1283,3,63.5,2,2
+2870,Kalnėnai,Lukšinės g.,81500,1283,3,63.5,2,2
+2871,Žvėrynas,Saltoniškių g.,95000,2684,1,35.4,3,10
+2872,Bajorai,Salaspilio g.,148000,2313,3,64,1,2
+2873,Pilaitė,Bitėnų g.,133000,1749,3,76.05,5,5
+2874,Antakalnis,L. Sapiegos g.,220000,1835,3,119.91,1,5
+2875,Pašilaičiai,Leičių g.,74000,1047,3,70.66,9,9
+2876,Pašilaičiai,Leičių g.,66000,1393,2,47.38,9,9
+2877,Pašilaičiai,Leičių g.,65000,1431,2,45.42,9,9
+2878,Naujininkai,Eišiškių pl.,116000,1758,3,66,1,5
+2879,Naujininkai,Panevėžio g.,48000,1920,1,25,2,4
+2880,Žirmūnai,Trinapolio g.,87200,1799,2,48.46,1,9
+2881,Valakampiai,Smilgų g.,279000,2160,4,129.19,2,2
+2882,Salininkai,Pupinės g.,24000,937,1,25.61,5,5
+2883,Naujamiestis,Vytenio g.,42000,1014,2,41.42,0,3
+2884,Pašilaičiai,Eitminų g.,90000,1134,3,79.4,3,9
+2885,Žvėrynas,Pušų g.,39000,984,2,39.63,1,1
+2886,Senamiestis,Paupio g.,79000,2026,2,39,2,2
+2887,Šnipiškės,Kalvarijų g.,33000,1066,2,30.96,1,1
+2888,Užupis,Baltasis skg.,195000,3545,3,55,1,1
+2889,Senamiestis,Lydos g.,247000,4450,2,55.51,1,3
+2890,Pilaitė,Juodkrantės g.,80600,1569,2,51.38,3,5
+2891,Šnipiškės,Kalvarijų g.,83000,1766,2,47,2,2
+2892,Pilaitė,Valtarkiemio g.,80400,1576,2,51.01,4,5
+2893,Pilaitė,M. Mažvydo g.,110800,1816,3,61,1,5
+2894,Pilaitė,M. Mažvydo g.,85900,1832,2,46.89,1,5
+2895,Pilaitė,Juodkrantės g.,83800,1787,2,46.89,1,5
+2896,Pilaitė,Juodkrantės g.,109800,1818,3,60.41,1,5
+2897,Pilaitė,Juodkrantės g.,108500,1787,3,60.7,1,5
+2898,Senamiestis,Gedimino pr.,1100000,4183,5,263,3,3
+2899,Senamiestis,Mėsinių g.,595000,2817,6,211.2,1,3
+2900,Naujininkai,Kapsų g.,182500,2199,4,83.01,7,7
+2901,Naujamiestis,Kapsų g.,182500,2199,4,83.01,7,7
+2902,Pavilnys,Džiaugsmo g.,44000,721,3,61,2,2
+2903,Senamiestis,Dominikonų g.,295000,2730,4,108.05,3,4
+2904,Fabijoniškės,S. Stanevičiaus g.,119000,1794,3,66.34,2,9
+2905,Naujamiestis,Statybininkų g.,84100,2767,1,30.39,9,9
+2906,Žvėrynas,Vytauto g.,149000,3725,2,40,1,2
+2907,Žvėrynas,Antano Tumėno g.,780000,4333,4,180,17,18
+2908,Senamiestis,Antano Tumėno g.,780000,4333,4,180,17,18
+2909,Šnipiškės,Kalvarijų g.,110000,3123,1,35.22,1,3
+2910,Šnipiškės,Giedraičių g.,57000,1683,1,33.87,6,9
+2911,Naujamiestis,Statybininkų g.,86900,2763,1,31.45,7,9
+2912,Šnipiškės,Konstitucijos pr.,146918,3010,2,48.81,5,29
+2913,Šnipiškės,Giedraičių g.,69700,1602,2,43.51,5,10
+2914,Antakalnis,Smėlio g.,189000,1853,4,102,1,4
+2915,Senamiestis,Šv. Stepono g.,55000,2280,1,24.12,2,3
+2916,Pilaitė,Tolminkiemio g.,103500,1536,3,67.4,2,4
+2917,Šnipiškės,Konstitucijos pr.,420000,3217,3,130.54,16,27
+2918,Senamiestis,Vasario 16-osios g.,349000,2522,4,138.37,4,4
+2919,Naujoji Vilnia,Dūmų g.,45999,597,3,77,1,2
+2920,Valakampiai,Rato g.,179000,3377,2,53,3,3
+2921,Lazdynėliai,Miškinių g.,195000,1500,4,130,1,2
+2922,Lazdynai,Miškinių g.,195000,1500,4,130,1,2
+2923,Karoliniškės,Miškinių g.,195000,1500,4,130,1,2
+2924,Liepkalnis,Miškinių g.,195000,1500,4,130,1,2
+2925,Naujininkai,Miškinių g.,195000,1500,4,130,1,2
+2926,Vilkpėdė,Miškinių g.,195000,1500,4,130,1,2
+2927,Lazdynai,Miškinių g.,195000,1500,4,130,1,2
+2928,Naujininkai,Rodūnios kel.,15000,678,1,22.14,2,5
+2929,Senamiestis,Jogailos g.,765000,4904,4,156,2,4
+2930,Naujininkai,Prūsų g.,29200,832,2,35.11,1,2
+2931,Naujoji Vilnia,Pramonės g.,9700,313,1,30.97,1,1
+2932,Senamiestis,Ligoninės g.,237000,1782,5,133,2,3
+2933,Žirmūnai,Kareivių g.,15500,1292,1,12,5,5
+2934,Santariškės,Mykolo Marcinkevičiaus g.,320000,1339,5,239,3,3
+2935,Jeruzalė,Mokyklos g.,103500,1163,4,89,4,5
+2936,Naujininkai,Rodūnios kel.,18400,805,1,22.87,4,4
+2937,Užupis,Manufaktūrų g.,174000,2210,3,78.74,2,4
+2938,Senamiestis,Raugyklos g.,449000,2993,5,150,3,4
+2939,Žvėrynas,Malonioji g.,120000,1979,3,60.63,1,2
+2940,Užupis,Manufaktūrų g.,123000,1984,2,62,5,5
+2941,Šnipiškės,Konstitucijos pr.,299902,3045,3,98.49,15,29
+2942,Grigiškės,Šviesos g.,28000,724,2,38.68,5,5
+2943,Rasos,Naujininkų g.,21960,296,3,74.24,1,1
+2944,Šnipiškės,Kalvarijų g.,41400,933,2,44.35,1,1
+2945,Salininkai,Skaisteros g.,31500,700,2,45,1,2
+2946,Naujininkai,Kapsų g.,38900,1236,2,31.46,5,5
+2947,Pavilnys,Vandens g.,72000,973,2,74,2,2
+2948,Žvėrynas,Danielių g.,229000,3817,2,60,2,4
+2949,Senamiestis,Stiklių g.,600000,5737,3,104.58,2,3
+2950,Žemieji Paneriai,Savanorių pr.,44192,921,2,48,2,5
+2951,Žemieji Paneriai,Savanorių pr.,38225,932,2,41,5,5
+2952,Paneriai,Kanuto Rusecko g.,118900,996,4,119.43,2,2
+2953,Trakų Vokė,Kanuto Rusecko g.,101900,995,4,102.37,2,2
+2954,Paneriai,Kanuto Rusecko g.,111900,1093,4,102.37,1,2
+2955,Jeruzalė,Baltupio g.,165000,1364,4,121,3,4
+2956,Naujininkai,Baltosios Vokės g.,6450,167,2,38.62,1,1
+2957,Antavilis,Antavilių g.,6350,166,2,38.28,2,2
+2958,Antavilis,Antavilių g.,4100,166,2,24.72,1,2
+2959,Antakalnis,Antavilių g.,6550,165,2,39.68,1,2
+2960,Zujūnai,Sūduvių g.,69000,910,3,75.81,2,2
+2961,Buivydiškių k.,Sūduvių g.,69000,910,3,75.81,2,2
+2962,Justiniškės,Sūduvių g.,69000,910,3,75.81,2,2
+2963,Senamiestis,Kauno g.,138000,1497,4,92.16,4,6
+2964,Senamiestis,Subačiaus g.,65600,2117,2,30.99,3,3
+2965,Antakalnis,Antakalnio g.,83000,1413,3,58.75,5,5
+2966,Naujoji Vilnia,Gluosnių g.,28100,937,2,30,1,1
+2967,Naujininkai,Rudaminos g.,20250,564,3,35.93,1,1
+2968,Naujininkai,Konduktorių g.,28440,559,2,50.84,1,1
+2969,Verkiai,Kalvarijų g.,43200,895,3,48.29,1,1
+2970,Šnipiškės,Daugėliškio g.,22320,597,1,37.41,1,1
+2971,Naujininkai,A. Jaroševičiaus g.,25596,747,2,34.26,1,2
+2972,Senamiestis,Markučių g.,295000,2254,5,130.9,2,3
+2973,Užupis,Markučių g.,295000,2254,4,130.9,2,3
+2974,Užupis,Markučių g.,295000,2254,5,130.9,2,3
+2975,Markučiai,Markučių g.,295000,2254,4,130.9,2,3
+2976,Šnipiškės,Tuskulėnų g.,61000,1848,1,33,5,5
+2977,Antakalnis,Žirgo g.,240000,1333,3,180,1,1
+2978,Verkiai,Žaliųjų Ežerų g.,25380,583,1,43.53,1,1
+2979,Naujoji Vilnia,Pramonės g.,12690,264,2,48.02,1,1
+2980,Šnipiškės,Kalvarijų g.,50580,1220,2,41.46,1,2
+2981,Senamiestis,Jogailos g.,188253,2896,2,65,3,4
+2982,Senamiestis,M. Daukšos g.,149990,2870,3,52.26,1,3
+2983,Baltupiai,Kalvarijų g.,249500,2916,2,85.56,14,14
+2984,Senamiestis,Dominikonų g.,225000,3804,2,59.15,4,4
+2985,Naujininkai,Rudaminos g.,15876,729,1,21.79,0,1
+2986,Naujoji Vilnia,A. Kojelavičiaus g.,24138,978,2,24.68,1,1
+2987,Grigiškės,Savanorių pr.,15999,727,1,22,2,2
+2988,Žemieji Paneriai,Savanorių pr.,15999,727,1,22,2,2
+2989,Vilkpėdė,Savanorių pr.,15999,727,2,22,2,2
+2990,Vilkpėdė,Savanorių pr.,12499,938,1,13.33,2,2
+2991,Markučiai,Markučių g.,305000,2199,5,138.68,2,3
+2992,Senamiestis,Markučių g.,305000,2199,5,138.68,2,3
+2993,Užupis,Markučių g.,305000,2199,5,138.68,2,3
+2994,Justiniškės,Taikos g.,24500,942,1,26,1,5
+2995,Avižieniai,Ežerėlių g.,96533,1821,2,53,1,2
+2996,Pašilaičiai,Gabijos g.,95000,1439,2,66,9,9
+2997,Senamiestis,Polocko g.,20979,1226,1,17.11,1,1
+2998,Naujininkai,Algirdo g.,24660,886,2,27.83,1,1
+2999,Senamiestis,A. Stulginskio g.,366000,2302,5,159,5,5
+3000,Trakų Vokė,Vilkiškės g.,99000,990,4,100,1,2
+3001,Naujamiestis,Švitrigailos g.,85000,603,4,141,5,5
+3002,Naujamiestis,Savanorių pr.,46000,1586,1,29,1,5
+3003,Pašilaičiai,Laisvės pr.,129800,1202,3,108,6,6
+3004,Fabijoniškės,Ukmergės g.,27000,714,2,37.81,1,1
+3005,Pašilaičiai,Leičių g.,50000,1746,1,28.63,5,9
+3006,Naujamiestis,S. Konarskio g.,96000,1882,2,51,4,5
+3007,Užusieniai,Dubičių g.,71000,640,3,111,1,2
+3008,Žvėrynas,Pušų g.,187018,3132,2,59.72,1,3
+3009,Baltupiai,Ateities g.,37500,1389,1,27,5,5
+3010,Jeruzalė,Ateities g.,37500,1389,1,27,5,5
+3011,Šnipiškės,Olimpiečių g.,357029,4300,3,83.03,3,4
+3012,Senamiestis,Žemaitijos g.,105000,2005,3,52.37,3,3
+3013,Rasos,Ribiškių Didžioji g.,99999,1368,3,73.08,1,2
+3014,Fabijoniškės,Fabijoniškių g.,146211,1150,4,127.14,2,14
+3015,Lazdynai,Architektų g.,73400,1184,3,62,5,5
+3016,Žirmūnai,Žirmūnų g.,69000,1876,1,36.78,6,12
+3017,Šnipiškės,Saracėnų g.,19116,448,2,42.68,2,2
+3018,Šnipiškės,Krokuvos g.,44550,565,4,78.78,1,1
+3019,Naujininkai,Pumpurų g.,17424,318,3,54.84,1,1
+3020,Pilaitė,Simono Grunau g.,53800,1368,2,39.32,3,4
+3021,Senamiestis,Arklių g.,750000,3555,4,211,3,3
+3022,Naujamiestis,Panerių g.,62257,754,3,82.62,2,2
+3023,Naujininkai,A. Jaroševičiaus g.,16476,397,2,41.47,1,1
+3024,Senamiestis,Bazilijonų g.,363540,2733,4,133,4,4
+3025,Senamiestis,Bazilijonų g.,112320,2808,2,40,2,3
+3026,Senamiestis,Savanorių pr.,225000,2419,3,93,14,27
+3027,Šeškinė,Ozo g.,120000,1481,4,81,2,9
+3028,Naujoji Vilnia,A. Kojelavičiaus g.,12224,254,3,48.07,1,1
+3029,Šnipiškės,Kalvarijų g.,19683,833,1,23.62,1,1
+3030,Senamiestis,Pylimo g.,236000,3420,3,69,2,3
+3031,Šeškinė,Ukmergės g.,30473,783,1,38.91,1,1
+3032,Naujoji Vilnia,Stepono Batoro g.,11800,694,1,17,2,2
+3033,Salininkai,Gervėbalės g.,42000,875,2,48,2,2
+3034,Senamiestis,Gaono g.,304000,2627,2,115.72,2,3
+3035,Naujininkai,Naugarduko g.,15308,591,1,25.89,1,1
+3036,Žvėrynas,Birutės g.,193000,2761,2,69.9,1,2
